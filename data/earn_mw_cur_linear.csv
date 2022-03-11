@@ -1,0 +1,5073 @@
+currency;country;Year;Month;OBS_VALUE
+EUR;Albania;1999;7;45.12
+EUR;Albania;2000;1;46.98
+EUR;Albania;2000;7;52.36
+EUR;Albania;2001;1;52.80
+EUR;Albania;2001;7;60.13
+EUR;Albania;2002;1;62.78
+EUR;Albania;2002;7;67.75
+EUR;Albania;2003;1;67.06
+EUR;Albania;2003;7;74.40
+EUR;Albania;2004;1;74.90
+EUR;Albania;2004;7;87.76
+EUR;Albania;2005;1;85.48
+EUR;Albania;2005;7;95.22
+EUR;Albania;2006;1;96.26
+EUR;Albania;2006;7;113.57
+EUR;Albania;2007;1;113.04
+EUR;Albania;2007;7;114.91
+EUR;Albania;2008;1;131.38
+EUR;Albania;2008;7;139.29
+EUR;Albania;2009;1;137.32
+EUR;Albania;2009;7;137.66
+EUR;Albania;2010;1;130.47
+EUR;Albania;2010;7;139.25
+EUR;Albania;2011;1;136.92
+EUR;Albania;2011;7;141.43
+EUR;Albania;2012;1;143.96
+EUR;Albania;2012;7;151.99
+EUR;Albania;2013;1;150.44
+EUR;Albania;2013;7;156.07
+EUR;Albania;2014;1;156.92
+EUR;Albania;2014;7;156.85
+EUR;Albania;2015;1;156.99
+EUR;Albania;2015;7;156.82
+EUR;Albania;2016;1;160.26
+EUR;Albania;2016;7;160.20
+EUR;Albania;2017;1;162.69
+EUR;Albania;2017;7;181.01
+EUR;Albania;2018;1;180.52
+EUR;Albania;2018;7;190.58
+EUR;Albania;2019;1;210.66
+EUR;Albania;2019;7;211.99
+EUR;Albania;2020;1;213.45
+EUR;Albania;2020;7;209.10
+EUR;Albania;2021;1;242.52
+EUR;Albania;2021;7;244.56
+EUR;Albania;2022;1;248.43
+EUR;Austria;1999;1;
+EUR;Austria;1999;7;
+EUR;Austria;2000;1;
+EUR;Austria;2000;7;
+EUR;Austria;2001;1;
+EUR;Austria;2001;7;
+EUR;Austria;2002;1;
+EUR;Austria;2002;7;
+EUR;Austria;2003;1;
+EUR;Austria;2003;7;
+EUR;Austria;2004;1;
+EUR;Austria;2004;7;
+EUR;Austria;2005;1;
+EUR;Austria;2005;7;
+EUR;Austria;2006;1;
+EUR;Austria;2006;7;
+EUR;Austria;2007;1;
+EUR;Austria;2007;7;
+EUR;Austria;2008;1;
+EUR;Austria;2008;7;
+EUR;Austria;2009;1;
+EUR;Austria;2009;7;
+EUR;Austria;2010;1;
+EUR;Austria;2010;7;
+EUR;Austria;2011;1;
+EUR;Austria;2011;7;
+EUR;Austria;2012;1;
+EUR;Austria;2012;7;
+EUR;Austria;2013;1;
+EUR;Austria;2013;7;
+EUR;Austria;2014;1;
+EUR;Austria;2014;7;
+EUR;Austria;2015;1;
+EUR;Austria;2015;7;
+EUR;Austria;2016;1;
+EUR;Austria;2016;7;
+EUR;Austria;2017;1;
+EUR;Austria;2017;7;
+EUR;Austria;2018;1;
+EUR;Austria;2018;7;
+EUR;Austria;2019;1;
+EUR;Austria;2019;7;
+EUR;Austria;2020;1;
+EUR;Austria;2020;7;
+EUR;Austria;2021;1;
+EUR;Austria;2021;7;
+EUR;Belgium;1999;1;1074.44
+EUR;Belgium;1999;7;1095.89
+EUR;Belgium;2000;1;1095.89
+EUR;Belgium;2000;7;1095.89
+EUR;Belgium;2001;1;1117.88
+EUR;Belgium;2001;7;1140.24
+EUR;Belgium;2002;1;1140.24
+EUR;Belgium;2002;7;1163.02
+EUR;Belgium;2003;1;1163.02
+EUR;Belgium;2003;7;1186.31
+EUR;Belgium;2004;1;1186.31
+EUR;Belgium;2004;7;1186.31
+EUR;Belgium;2005;1;1210.00
+EUR;Belgium;2005;7;1210.00
+EUR;Belgium;2006;1;1234.00
+EUR;Belgium;2006;7;1234.00
+EUR;Belgium;2007;1;1259.00
+EUR;Belgium;2007;7;1283.00
+EUR;Belgium;2008;1;1309.60
+EUR;Belgium;2008;7;1335.80
+EUR;Belgium;2009;1;1387.50
+EUR;Belgium;2009;7;1387.50
+EUR;Belgium;2010;1;1387.50
+EUR;Belgium;2010;7;1387.50
+EUR;Belgium;2011;1;1415.24
+EUR;Belgium;2011;7;1443.54
+EUR;Belgium;2012;1;1443.54
+EUR;Belgium;2012;7;1472.42
+EUR;Belgium;2013;1;1501.82
+EUR;Belgium;2013;7;1501.82
+EUR;Belgium;2014;1;1501.82
+EUR;Belgium;2014;7;1501.82
+EUR;Belgium;2015;1;1501.82
+EUR;Belgium;2015;7;1501.82
+EUR;Belgium;2016;1;1501.82
+EUR;Belgium;2016;7;1531.93
+EUR;Belgium;2017;1;1531.93
+EUR;Belgium;2017;7;1562.59
+EUR;Belgium;2018;1;1562.59
+EUR;Belgium;2018;7;1562.59
+EUR;Belgium;2019;1;1593.81
+EUR;Belgium;2019;7;1593.81
+EUR;Belgium;2020;1;1593.81
+EUR;Belgium;2020;7;1625.72
+EUR;Belgium;2021;1;1625.72
+EUR;Belgium;2021;7;1625.72
+EUR;Belgium;2022;1;1658.23
+EUR;Bulgaria;1999;1;31.19
+EUR;Bulgaria;1999;7;34.26
+EUR;Bulgaria;2000;1;34.26
+EUR;Bulgaria;2000;7;38.35
+EUR;Bulgaria;2001;1;40.42
+EUR;Bulgaria;2001;7;43.65
+EUR;Bulgaria;2002;1;51.38
+EUR;Bulgaria;2002;7;51.24
+EUR;Bulgaria;2003;1;56.28
+EUR;Bulgaria;2003;7;56.52
+EUR;Bulgaria;2004;1;61.36
+EUR;Bulgaria;2004;7;61.35
+EUR;Bulgaria;2005;1;76.69
+EUR;Bulgaria;2005;7;76.69
+EUR;Bulgaria;2006;1;81.79
+EUR;Bulgaria;2006;7;81.81
+EUR;Bulgaria;2007;1;92.03
+EUR;Bulgaria;2007;7;92.03
+EUR;Bulgaria;2008;1;112.49
+EUR;Bulgaria;2008;7;112.49
+EUR;Bulgaria;2009;1;122.71
+EUR;Bulgaria;2009;7;122.71
+EUR;Bulgaria;2010;1;122.71
+EUR;Bulgaria;2010;7;122.71
+EUR;Bulgaria;2011;1;122.71
+EUR;Bulgaria;2011;7;122.71
+EUR;Bulgaria;2012;1;138.05
+EUR;Bulgaria;2012;7;148.28
+EUR;Bulgaria;2013;1;158.50
+EUR;Bulgaria;2013;7;158.50
+EUR;Bulgaria;2014;1;173.84
+EUR;Bulgaria;2014;7;173.84
+EUR;Bulgaria;2015;1;184.07
+EUR;Bulgaria;2015;7;194.29
+EUR;Bulgaria;2016;1;214.75
+EUR;Bulgaria;2016;7;214.75
+EUR;Bulgaria;2017;1;235.20
+EUR;Bulgaria;2017;7;235.20
+EUR;Bulgaria;2018;1;260.76
+EUR;Bulgaria;2018;7;260.76
+EUR;Bulgaria;2019;1;286.33
+EUR;Bulgaria;2019;7;286.33
+EUR;Bulgaria;2020;1;311.89
+EUR;Bulgaria;2020;7;311.89
+EUR;Bulgaria;2021;1;332.34
+EUR;Bulgaria;2021;7;332.34
+EUR;Bulgaria;2022;1;332.34
+EUR;Switzerland;1999;1;
+EUR;Switzerland;1999;7;
+EUR;Switzerland;2000;1;
+EUR;Switzerland;2000;7;
+EUR;Switzerland;2001;1;
+EUR;Switzerland;2001;7;
+EUR;Switzerland;2002;1;
+EUR;Switzerland;2002;7;
+EUR;Switzerland;2003;1;
+EUR;Switzerland;2003;7;
+EUR;Switzerland;2004;1;
+EUR;Switzerland;2004;7;
+EUR;Switzerland;2005;1;
+EUR;Switzerland;2005;7;
+EUR;Switzerland;2006;1;
+EUR;Switzerland;2006;7;
+EUR;Switzerland;2007;1;
+EUR;Switzerland;2007;7;
+EUR;Switzerland;2008;1;
+EUR;Switzerland;2008;7;
+EUR;Switzerland;2009;1;
+EUR;Switzerland;2009;7;
+EUR;Switzerland;2010;1;
+EUR;Switzerland;2010;7;
+EUR;Switzerland;2011;1;
+EUR;Switzerland;2011;7;
+EUR;Switzerland;2012;1;
+EUR;Switzerland;2012;7;
+EUR;Switzerland;2013;1;
+EUR;Switzerland;2013;7;
+EUR;Switzerland;2014;1;
+EUR;Switzerland;2014;7;
+EUR;Switzerland;2015;1;
+EUR;Switzerland;2015;7;
+EUR;Switzerland;2016;1;
+EUR;Switzerland;2016;7;
+EUR;Switzerland;2017;1;
+EUR;Switzerland;2017;7;
+EUR;Switzerland;2018;1;
+EUR;Switzerland;2018;7;
+EUR;Switzerland;2019;1;
+EUR;Switzerland;2019;7;
+EUR;Switzerland;2020;1;
+EUR;Switzerland;2020;7;
+EUR;Switzerland;2021;1;
+EUR;Switzerland;2021;7;
+EUR;Cyprus;1999;1;
+EUR;Cyprus;1999;7;
+EUR;Cyprus;2000;1;
+EUR;Cyprus;2000;7;
+EUR;Cyprus;2001;1;
+EUR;Cyprus;2001;7;
+EUR;Cyprus;2002;1;
+EUR;Cyprus;2002;7;
+EUR;Cyprus;2003;1;
+EUR;Cyprus;2003;7;
+EUR;Cyprus;2004;1;
+EUR;Cyprus;2004;7;
+EUR;Cyprus;2005;1;
+EUR;Cyprus;2005;7;
+EUR;Cyprus;2006;1;
+EUR;Cyprus;2006;7;
+EUR;Cyprus;2007;1;
+EUR;Cyprus;2007;7;
+EUR;Cyprus;2008;1;
+EUR;Cyprus;2008;7;
+EUR;Cyprus;2009;1;
+EUR;Cyprus;2009;7;
+EUR;Cyprus;2010;1;
+EUR;Cyprus;2010;7;
+EUR;Cyprus;2011;1;
+EUR;Cyprus;2011;7;
+EUR;Cyprus;2012;1;
+EUR;Cyprus;2012;7;
+EUR;Cyprus;2013;1;
+EUR;Cyprus;2013;7;
+EUR;Cyprus;2014;1;
+EUR;Cyprus;2014;7;
+EUR;Cyprus;2015;1;
+EUR;Cyprus;2015;7;
+EUR;Cyprus;2016;1;
+EUR;Cyprus;2016;7;
+EUR;Cyprus;2017;1;
+EUR;Cyprus;2017;7;
+EUR;Cyprus;2018;1;
+EUR;Cyprus;2018;7;
+EUR;Cyprus;2019;1;
+EUR;Cyprus;2019;7;
+EUR;Cyprus;2020;1;
+EUR;Cyprus;2020;7;
+EUR;Cyprus;2021;1;
+EUR;Cyprus;2021;7;
+EUR;Czech Republic;1999;1;92.35
+EUR;Czech Republic;1999;7;98.85
+EUR;Czech Republic;2000;1;110.79
+EUR;Czech Republic;2000;7;126.33
+EUR;Czech Republic;2001;1;142.67
+EUR;Czech Republic;2001;7;148.02
+EUR;Czech Republic;2002;1;178.34
+EUR;Czech Republic;2002;7;194.76
+EUR;Czech Republic;2003;1;196.35
+EUR;Czech Republic;2003;7;196.38
+EUR;Czech Republic;2004;1;206.73
+EUR;Czech Republic;2004;7;210.99
+EUR;Czech Republic;2005;1;235.85
+EUR;Czech Republic;2005;7;239.26
+EUR;Czech Republic;2006;1;261.03
+EUR;Czech Republic;2006;7;279.19
+EUR;Czech Republic;2007;1;291.07
+EUR;Czech Republic;2007;7;278.57
+EUR;Czech Republic;2008;1;300.44
+EUR;Czech Republic;2008;7;334.83
+EUR;Czech Republic;2009;1;297.67
+EUR;Czech Republic;2009;7;309.10
+EUR;Czech Republic;2010;1;302.19
+EUR;Czech Republic;2010;7;311.39
+EUR;Czech Republic;2011;1;319.22
+EUR;Czech Republic;2011;7;328.61
+EUR;Czech Republic;2012;1;310.23
+EUR;Czech Republic;2012;7;312.01
+EUR;Czech Republic;2013;1;318.08
+EUR;Czech Republic;2013;7;308.30
+EUR;Czech Republic;2014;1;309.91
+EUR;Czech Republic;2014;7;309.62
+EUR;Czech Republic;2015;1;331.71
+EUR;Czech Republic;2015;7;337.58
+EUR;Czech Republic;2016;1;366.35
+EUR;Czech Republic;2016;7;364.90
+EUR;Czech Republic;2017;1;407.09
+EUR;Czech Republic;2017;7;419.90
+EUR;Czech Republic;2018;1;477.78
+EUR;Czech Republic;2018;7;468.87
+EUR;Czech Republic;2019;1;518.97
+EUR;Czech Republic;2019;7;524.62
+EUR;Czech Republic;2020;1;574.62
+EUR;Czech Republic;2020;7;546.00
+EUR;Czech Republic;2021;1;579.22
+EUR;Czech Republic;2021;7;596.36
+EUR;Czech Republic;2022;1;651.70
+EUR;Germany;1999;1;
+EUR;Germany;1999;7;
+EUR;Germany;2000;1;
+EUR;Germany;2000;7;
+EUR;Germany;2001;1;
+EUR;Germany;2001;7;
+EUR;Germany;2002;1;
+EUR;Germany;2002;7;
+EUR;Germany;2003;1;
+EUR;Germany;2003;7;
+EUR;Germany;2004;1;
+EUR;Germany;2004;7;
+EUR;Germany;2005;1;
+EUR;Germany;2005;7;
+EUR;Germany;2006;1;
+EUR;Germany;2006;7;
+EUR;Germany;2007;1;
+EUR;Germany;2007;7;
+EUR;Germany;2008;1;
+EUR;Germany;2008;7;
+EUR;Germany;2009;1;
+EUR;Germany;2009;7;
+EUR;Germany;2010;1;
+EUR;Germany;2010;7;
+EUR;Germany;2011;1;
+EUR;Germany;2011;7;
+EUR;Germany;2012;1;
+EUR;Germany;2012;7;
+EUR;Germany;2013;1;
+EUR;Germany;2013;7;
+EUR;Germany;2014;1;
+EUR;Germany;2014;7;
+EUR;Germany;2015;1;1444.00
+EUR;Germany;2015;7;1444.00
+EUR;Germany;2016;1;1444.00
+EUR;Germany;2016;7;1444.00
+EUR;Germany;2017;1;1506.00
+EUR;Germany;2017;7;1506.00
+EUR;Germany;2018;1;1506.00
+EUR;Germany;2018;7;1506.00
+EUR;Germany;2019;1;1561.00
+EUR;Germany;2019;7;1561.00
+EUR;Germany;2020;1;1544.00
+EUR;Germany;2020;7;1544.00
+EUR;Germany;2021;1;1569.00
+EUR;Germany;2021;7;1585.00
+EUR;Germany;2022;1;1621.00
+EUR;Denmark;1999;1;
+EUR;Denmark;1999;7;
+EUR;Denmark;2000;1;
+EUR;Denmark;2000;7;
+EUR;Denmark;2001;1;
+EUR;Denmark;2001;7;
+EUR;Denmark;2002;1;
+EUR;Denmark;2002;7;
+EUR;Denmark;2003;1;
+EUR;Denmark;2003;7;
+EUR;Denmark;2004;1;
+EUR;Denmark;2004;7;
+EUR;Denmark;2005;1;
+EUR;Denmark;2005;7;
+EUR;Denmark;2006;1;
+EUR;Denmark;2006;7;
+EUR;Denmark;2007;1;
+EUR;Denmark;2007;7;
+EUR;Denmark;2008;1;
+EUR;Denmark;2008;7;
+EUR;Denmark;2009;1;
+EUR;Denmark;2009;7;
+EUR;Denmark;2010;1;
+EUR;Denmark;2010;7;
+EUR;Denmark;2011;1;
+EUR;Denmark;2011;7;
+EUR;Denmark;2012;1;
+EUR;Denmark;2012;7;
+EUR;Denmark;2013;1;
+EUR;Denmark;2013;7;
+EUR;Denmark;2014;1;
+EUR;Denmark;2014;7;
+EUR;Denmark;2015;1;
+EUR;Denmark;2015;7;
+EUR;Denmark;2016;1;
+EUR;Denmark;2016;7;
+EUR;Denmark;2017;1;
+EUR;Denmark;2017;7;
+EUR;Denmark;2018;1;
+EUR;Denmark;2018;7;
+EUR;Denmark;2019;1;
+EUR;Denmark;2019;7;
+EUR;Denmark;2020;1;
+EUR;Denmark;2020;7;
+EUR;Denmark;2021;1;
+EUR;Denmark;2021;7;
+EUR;Estonia;1999;1;79.89
+EUR;Estonia;1999;7;79.89
+EUR;Estonia;2000;1;89.48
+EUR;Estonia;2000;7;89.48
+EUR;Estonia;2001;1;102.26
+EUR;Estonia;2001;7;102.26
+EUR;Estonia;2002;1;118.24
+EUR;Estonia;2002;7;118.24
+EUR;Estonia;2003;1;138.05
+EUR;Estonia;2003;7;138.05
+EUR;Estonia;2004;1;158.50
+EUR;Estonia;2004;7;158.50
+EUR;Estonia;2005;1;171.92
+EUR;Estonia;2005;7;171.92
+EUR;Estonia;2006;1;191.73
+EUR;Estonia;2006;7;191.73
+EUR;Estonia;2007;1;230.08
+EUR;Estonia;2007;7;230.08
+EUR;Estonia;2008;1;278.02
+EUR;Estonia;2008;7;278.02
+EUR;Estonia;2009;1;278.02
+EUR;Estonia;2009;7;278.02
+EUR;Estonia;2010;1;278.02
+EUR;Estonia;2010;7;278.02
+EUR;Estonia;2011;1;278.02
+EUR;Estonia;2011;7;278.02
+EUR;Estonia;2012;1;290.00
+EUR;Estonia;2012;7;290.00
+EUR;Estonia;2013;1;320.00
+EUR;Estonia;2013;7;320.00
+EUR;Estonia;2014;1;355.00
+EUR;Estonia;2014;7;355.00
+EUR;Estonia;2015;1;390.00
+EUR;Estonia;2015;7;390.00
+EUR;Estonia;2016;1;430.00
+EUR;Estonia;2016;7;430.00
+EUR;Estonia;2017;1;470.00
+EUR;Estonia;2017;7;470.00
+EUR;Estonia;2018;1;500.00
+EUR;Estonia;2018;7;500.00
+EUR;Estonia;2019;1;540.00
+EUR;Estonia;2019;7;540.00
+EUR;Estonia;2020;1;584.00
+EUR;Estonia;2020;7;584.00
+EUR;Estonia;2021;1;584.00
+EUR;Estonia;2021;7;584.00
+EUR;Estonia;2022;1;654.00
+EUR;Greece;1999;1;505.06
+EUR;Greece;1999;7;512.13
+EUR;Greece;2000;1;526.05
+EUR;Greece;2000;7;533.93
+EUR;Greece;2001;1;543.55
+EUR;Greece;2001;7;551.70
+EUR;Greece;2002;1;571.71
+EUR;Greece;2002;7;582.00
+EUR;Greece;2003;1;606.52
+EUR;Greece;2003;7;606.52
+EUR;Greece;2004;1;630.77
+EUR;Greece;2004;7;630.77
+EUR;Greece;2005;1;667.68
+EUR;Greece;2005;7;667.68
+EUR;Greece;2006;1;709.71
+EUR;Greece;2006;7;709.71
+EUR;Greece;2007;1;730.30
+EUR;Greece;2007;7;767.55
+EUR;Greece;2008;1;794.02
+EUR;Greece;2008;7;794.02
+EUR;Greece;2009;1;817.83
+EUR;Greece;2009;7;862.82
+EUR;Greece;2010;1;862.82
+EUR;Greece;2010;7;862.82
+EUR;Greece;2011;1;862.82
+EUR;Greece;2011;7;876.62
+EUR;Greece;2012;1;876.62
+EUR;Greece;2012;7;683.76
+EUR;Greece;2013;1;683.76
+EUR;Greece;2013;7;683.76
+EUR;Greece;2014;1;683.76
+EUR;Greece;2014;7;683.76
+EUR;Greece;2015;1;683.76
+EUR;Greece;2015;7;683.76
+EUR;Greece;2016;1;683.76
+EUR;Greece;2016;7;683.76
+EUR;Greece;2017;1;683.76
+EUR;Greece;2017;7;683.76
+EUR;Greece;2018;1;683.76
+EUR;Greece;2018;7;683.76
+EUR;Greece;2019;1;683.76
+EUR;Greece;2019;7;758.33
+EUR;Greece;2020;1;758.33
+EUR;Greece;2020;7;758.33
+EUR;Greece;2021;1;758.33
+EUR;Greece;2021;7;758.33
+EUR;Greece;2022;1;773.50
+EUR;Spain;1999;1;485.71
+EUR;Spain;1999;7;485.71
+EUR;Spain;2000;1;495.60
+EUR;Spain;2000;7;495.60
+EUR;Spain;2001;1;505.69
+EUR;Spain;2001;7;505.69
+EUR;Spain;2002;1;515.90
+EUR;Spain;2002;7;515.90
+EUR;Spain;2003;1;526.40
+EUR;Spain;2003;7;526.40
+EUR;Spain;2004;1;537.25
+EUR;Spain;2004;7;572.60
+EUR;Spain;2005;1;598.50
+EUR;Spain;2005;7;598.50
+EUR;Spain;2006;1;631.05
+EUR;Spain;2006;7;631.05
+EUR;Spain;2007;1;665.70
+EUR;Spain;2007;7;665.70
+EUR;Spain;2008;1;700.00
+EUR;Spain;2008;7;700.00
+EUR;Spain;2009;1;728.00
+EUR;Spain;2009;7;728.00
+EUR;Spain;2010;1;738.85
+EUR;Spain;2010;7;738.85
+EUR;Spain;2011;1;748.30
+EUR;Spain;2011;7;748.30
+EUR;Spain;2012;1;748.30
+EUR;Spain;2012;7;748.30
+EUR;Spain;2013;1;752.85
+EUR;Spain;2013;7;752.85
+EUR;Spain;2014;1;752.85
+EUR;Spain;2014;7;752.85
+EUR;Spain;2015;1;756.70
+EUR;Spain;2015;7;756.70
+EUR;Spain;2016;1;764.40
+EUR;Spain;2016;7;764.40
+EUR;Spain;2017;1;825.65
+EUR;Spain;2017;7;825.65
+EUR;Spain;2018;1;858.55
+EUR;Spain;2018;7;858.55
+EUR;Spain;2019;1;1050.00
+EUR;Spain;2019;7;1050.00
+EUR;Spain;2020;1;1108.33
+EUR;Spain;2020;7;1108.33
+EUR;Spain;2021;1;1108.33
+EUR;Spain;2021;7;1108.33
+EUR;Spain;2022;1;1125.83
+EUR;Finland;1999;1;
+EUR;Finland;1999;7;
+EUR;Finland;2000;1;
+EUR;Finland;2000;7;
+EUR;Finland;2001;1;
+EUR;Finland;2001;7;
+EUR;Finland;2002;1;
+EUR;Finland;2002;7;
+EUR;Finland;2003;1;
+EUR;Finland;2003;7;
+EUR;Finland;2004;1;
+EUR;Finland;2004;7;
+EUR;Finland;2005;1;
+EUR;Finland;2005;7;
+EUR;Finland;2006;1;
+EUR;Finland;2006;7;
+EUR;Finland;2007;1;
+EUR;Finland;2007;7;
+EUR;Finland;2008;1;
+EUR;Finland;2008;7;
+EUR;Finland;2009;1;
+EUR;Finland;2009;7;
+EUR;Finland;2010;1;
+EUR;Finland;2010;7;
+EUR;Finland;2011;1;
+EUR;Finland;2011;7;
+EUR;Finland;2012;1;
+EUR;Finland;2012;7;
+EUR;Finland;2013;1;
+EUR;Finland;2013;7;
+EUR;Finland;2014;1;
+EUR;Finland;2014;7;
+EUR;Finland;2015;1;
+EUR;Finland;2015;7;
+EUR;Finland;2016;1;
+EUR;Finland;2016;7;
+EUR;Finland;2017;1;
+EUR;Finland;2017;7;
+EUR;Finland;2018;1;
+EUR;Finland;2018;7;
+EUR;Finland;2019;1;
+EUR;Finland;2019;7;
+EUR;Finland;2020;1;
+EUR;Finland;2020;7;
+EUR;Finland;2021;1;
+EUR;Finland;2021;7;
+EUR;France;1999;1;1035.97
+EUR;France;1999;7;1049.49
+EUR;France;2000;1;1049.49
+EUR;France;2000;7;1083.29
+EUR;France;2001;1;1083.29
+EUR;France;2001;7;1127.23
+EUR;France;2002;1;1127.23
+EUR;France;2002;7;1154.27
+EUR;France;2003;1;1154.27
+EUR;France;2003;7;1215.11
+EUR;France;2004;1;1215.11
+EUR;France;2004;7;1286.09
+EUR;France;2005;1;1286.09
+EUR;France;2005;7;1217.88
+EUR;France;2006;1;1217.88
+EUR;France;2006;7;1254.28
+EUR;France;2007;1;1254.28
+EUR;France;2007;7;1280.07
+EUR;France;2008;1;1280.07
+EUR;France;2008;7;1321.02
+EUR;France;2009;1;1321.02
+EUR;France;2009;7;1337.70
+EUR;France;2010;1;1343.77
+EUR;France;2010;7;1343.77
+EUR;France;2011;1;1365.00
+EUR;France;2011;7;1365.00
+EUR;France;2012;1;1398.37
+EUR;France;2012;7;1425.67
+EUR;France;2013;1;1430.22
+EUR;France;2013;7;1430.22
+EUR;France;2014;1;1445.38
+EUR;France;2014;7;1445.38
+EUR;France;2015;1;1457.52
+EUR;France;2015;7;1457.52
+EUR;France;2016;1;1466.62
+EUR;France;2016;7;1466.62
+EUR;France;2017;1;1480.27
+EUR;France;2017;7;1480.27
+EUR;France;2018;1;1498.47
+EUR;France;2018;7;1498.47
+EUR;France;2019;1;1521.22
+EUR;France;2019;7;1521.22
+EUR;France;2020;1;1539.42
+EUR;France;2020;7;1539.42
+EUR;France;2021;1;1554.58
+EUR;France;2021;7;1554.58
+EUR;France;2022;1;1603.12
+EUR;Croatia;1999;1;
+EUR;Croatia;1999;7;
+EUR;Croatia;2000;1;
+EUR;Croatia;2000;7;
+EUR;Croatia;2001;1;
+EUR;Croatia;2001;7;
+EUR;Croatia;2002;1;
+EUR;Croatia;2002;7;
+EUR;Croatia;2003;1;
+EUR;Croatia;2003;7;
+EUR;Croatia;2004;1;
+EUR;Croatia;2004;7;
+EUR;Croatia;2005;1;
+EUR;Croatia;2005;7;
+EUR;Croatia;2006;1;
+EUR;Croatia;2006;7;
+EUR;Croatia;2007;1;
+EUR;Croatia;2007;7;
+EUR;Croatia;2008;1;
+EUR;Croatia;2008;7;379.60
+EUR;Croatia;2009;1;373.46
+EUR;Croatia;2009;7;386.91
+EUR;Croatia;2010;1;385.48
+EUR;Croatia;2010;7;390.94
+EUR;Croatia;2011;1;381.15
+EUR;Croatia;2011;7;380.18
+EUR;Croatia;2012;1;373.36
+EUR;Croatia;2012;7;374.31
+EUR;Croatia;2013;1;372.35
+EUR;Croatia;2013;7;400.67
+EUR;Croatia;2014;1;395.67
+EUR;Croatia;2014;7;398.31
+EUR;Croatia;2015;1;395.61
+EUR;Croatia;2015;7;398.90
+EUR;Croatia;2016;1;408.48
+EUR;Croatia;2016;7;414.45
+EUR;Croatia;2017;1;433.35
+EUR;Croatia;2017;7;442.09
+EUR;Croatia;2018;1;462.34
+EUR;Croatia;2018;7;465.72
+EUR;Croatia;2019;1;505.90
+EUR;Croatia;2019;7;506.94
+EUR;Croatia;2020;1;546.07
+EUR;Croatia;2020;7;546.07
+EUR;Croatia;2021;1;562.77
+EUR;Croatia;2021;7;567.32
+EUR;Croatia;2022;1;623.70
+EUR;Hungary;1999;1;89.15
+EUR;Hungary;1999;7;90.13
+EUR;Hungary;2000;1;100.12
+EUR;Hungary;2000;7;98.02
+EUR;Hungary;2001;1;150.94
+EUR;Hungary;2001;7;164.18
+EUR;Hungary;2002;1;203.93
+EUR;Hungary;2002;7;204.14
+EUR;Hungary;2003;1;211.60
+EUR;Hungary;2003;7;187.54
+EUR;Hungary;2004;1;201.90
+EUR;Hungary;2004;7;210.65
+EUR;Hungary;2005;1;231.74
+EUR;Hungary;2005;7;230.55
+EUR;Hungary;2006;1;247.16
+EUR;Hungary;2006;7;220.58
+EUR;Hungary;2007;1;260.16
+EUR;Hungary;2007;7;266.10
+EUR;Hungary;2008;1;271.94
+EUR;Hungary;2008;7;293.08
+EUR;Hungary;2009;1;268.09
+EUR;Hungary;2009;7;263.30
+EUR;Hungary;2010;1;271.80
+EUR;Hungary;2010;7;256.99
+EUR;Hungary;2011;1;280.63
+EUR;Hungary;2011;7;293.11
+EUR;Hungary;2012;1;295.63
+EUR;Hungary;2012;7;323.17
+EUR;Hungary;2013;1;335.27
+EUR;Hungary;2013;7;332.37
+EUR;Hungary;2014;1;341.70
+EUR;Hungary;2014;7;328.16
+EUR;Hungary;2015;1;332.76
+EUR;Hungary;2015;7;333.41
+EUR;Hungary;2016;1;351.29
+EUR;Hungary;2016;7;350.09
+EUR;Hungary;2017;1;411.52
+EUR;Hungary;2017;7;412.66
+EUR;Hungary;2018;1;444.69
+EUR;Hungary;2018;7;418.47
+EUR;Hungary;2019;1;464.20
+EUR;Hungary;2019;7;460.74
+EUR;Hungary;2020;1;487.10
+EUR;Hungary;2020;7;451.51
+EUR;Hungary;2021;1;442.44
+EUR;Hungary;2021;7;476.00
+EUR;Hungary;2022;1;541.73
+EUR;Ireland;1999;1;
+EUR;Ireland;1999;7;
+EUR;Ireland;2000;1;
+EUR;Ireland;2000;7;944.71
+EUR;Ireland;2001;1;944.71
+EUR;Ireland;2001;7;1008.93
+EUR;Ireland;2002;1;1008.93
+EUR;Ireland;2002;7;1008.93
+EUR;Ireland;2003;1;1073.15
+EUR;Ireland;2003;7;1073.15
+EUR;Ireland;2004;1;1073.15
+EUR;Ireland;2004;7;1183.00
+EUR;Ireland;2005;1;1183.00
+EUR;Ireland;2005;7;1292.85
+EUR;Ireland;2006;1;1292.85
+EUR;Ireland;2006;7;1292.85
+EUR;Ireland;2007;1;1402.70
+EUR;Ireland;2007;7;1461.85
+EUR;Ireland;2008;1;1461.85
+EUR;Ireland;2008;7;1461.85
+EUR;Ireland;2009;1;1461.85
+EUR;Ireland;2009;7;1461.85
+EUR;Ireland;2010;1;1461.85
+EUR;Ireland;2010;7;1461.85
+EUR;Ireland;2011;1;1461.85
+EUR;Ireland;2011;7;1461.85
+EUR;Ireland;2012;1;1461.85
+EUR;Ireland;2012;7;1461.85
+EUR;Ireland;2013;1;1461.85
+EUR;Ireland;2013;7;1461.85
+EUR;Ireland;2014;1;1461.85
+EUR;Ireland;2014;7;1461.85
+EUR;Ireland;2015;1;1461.85
+EUR;Ireland;2015;7;1461.85
+EUR;Ireland;2016;1;1546.35
+EUR;Ireland;2016;7;1546.35
+EUR;Ireland;2017;1;1563.25
+EUR;Ireland;2017;7;1563.25
+EUR;Ireland;2018;1;1613.95
+EUR;Ireland;2018;7;1613.95
+EUR;Ireland;2019;1;1656.20
+EUR;Ireland;2019;7;1656.20
+EUR;Ireland;2020;1;1656.20
+EUR;Ireland;2020;7;1706.90
+EUR;Ireland;2021;1;1723.80
+EUR;Ireland;2021;7;1723.80
+EUR;Ireland;2022;1;1774.50
+EUR;Iceland;1999;1;
+EUR;Iceland;1999;7;
+EUR;Iceland;2000;1;
+EUR;Iceland;2000;7;
+EUR;Iceland;2001;1;
+EUR;Iceland;2001;7;
+EUR;Iceland;2002;1;
+EUR;Iceland;2002;7;
+EUR;Iceland;2003;1;
+EUR;Iceland;2003;7;
+EUR;Iceland;2004;1;
+EUR;Iceland;2004;7;
+EUR;Iceland;2005;1;
+EUR;Iceland;2005;7;
+EUR;Iceland;2006;1;
+EUR;Iceland;2006;7;
+EUR;Iceland;2007;1;
+EUR;Iceland;2007;7;
+EUR;Iceland;2008;1;
+EUR;Iceland;2008;7;
+EUR;Iceland;2009;1;
+EUR;Iceland;2009;7;
+EUR;Iceland;2010;1;
+EUR;Iceland;2010;7;
+EUR;Iceland;2011;1;
+EUR;Iceland;2011;7;
+EUR;Iceland;2012;1;
+EUR;Iceland;2012;7;
+EUR;Iceland;2013;1;
+EUR;Iceland;2013;7;
+EUR;Iceland;2014;1;
+EUR;Iceland;2014;7;
+EUR;Iceland;2015;1;
+EUR;Iceland;2015;7;
+EUR;Iceland;2016;1;
+EUR;Iceland;2016;7;
+EUR;Iceland;2017;1;
+EUR;Iceland;2017;7;
+EUR;Iceland;2018;1;
+EUR;Iceland;2018;7;
+EUR;Iceland;2019;1;
+EUR;Iceland;2019;7;
+EUR;Iceland;2020;1;
+EUR;Iceland;2020;7;
+EUR;Iceland;2021;1;
+EUR;Iceland;2021;7;
+EUR;Italy;1999;1;
+EUR;Italy;1999;7;
+EUR;Italy;2000;1;
+EUR;Italy;2000;7;
+EUR;Italy;2001;1;
+EUR;Italy;2001;7;
+EUR;Italy;2002;1;
+EUR;Italy;2002;7;
+EUR;Italy;2003;1;
+EUR;Italy;2003;7;
+EUR;Italy;2004;1;
+EUR;Italy;2004;7;
+EUR;Italy;2005;1;
+EUR;Italy;2005;7;
+EUR;Italy;2006;1;
+EUR;Italy;2006;7;
+EUR;Italy;2007;1;
+EUR;Italy;2007;7;
+EUR;Italy;2008;1;
+EUR;Italy;2008;7;
+EUR;Italy;2009;1;
+EUR;Italy;2009;7;
+EUR;Italy;2010;1;
+EUR;Italy;2010;7;
+EUR;Italy;2011;1;
+EUR;Italy;2011;7;
+EUR;Italy;2012;1;
+EUR;Italy;2012;7;
+EUR;Italy;2013;1;
+EUR;Italy;2013;7;
+EUR;Italy;2014;1;
+EUR;Italy;2014;7;
+EUR;Italy;2015;1;
+EUR;Italy;2015;7;
+EUR;Italy;2016;1;
+EUR;Italy;2016;7;
+EUR;Italy;2017;1;
+EUR;Italy;2017;7;
+EUR;Italy;2018;1;
+EUR;Italy;2018;7;
+EUR;Italy;2019;1;
+EUR;Italy;2019;7;
+EUR;Italy;2020;1;
+EUR;Italy;2020;7;
+EUR;Italy;2021;1;
+EUR;Italy;2021;7;
+EUR;Lithuania;1999;1;92.14
+EUR;Lithuania;1999;7;104.05
+EUR;Lithuania;2000;1;107.05
+EUR;Lithuania;2000;7;112.61
+EUR;Lithuania;2001;1;115.50
+EUR;Lithuania;2001;7;126.75
+EUR;Lithuania;2002;1;122.06
+EUR;Lithuania;2002;7;124.55
+EUR;Lithuania;2003;1;124.55
+EUR;Lithuania;2003;7;124.54
+EUR;Lithuania;2004;1;130.34
+EUR;Lithuania;2004;7;144.81
+EUR;Lithuania;2005;1;144.81
+EUR;Lithuania;2005;7;159.29
+EUR;Lithuania;2006;1;159.29
+EUR;Lithuania;2006;7;173.77
+EUR;Lithuania;2007;1;173.77
+EUR;Lithuania;2007;7;202.73
+EUR;Lithuania;2008;1;231.70
+EUR;Lithuania;2008;7;231.70
+EUR;Lithuania;2009;1;231.70
+EUR;Lithuania;2009;7;231.70
+EUR;Lithuania;2010;1;231.70
+EUR;Lithuania;2010;7;231.70
+EUR;Lithuania;2011;1;231.70
+EUR;Lithuania;2011;7;231.70
+EUR;Lithuania;2012;1;231.70
+EUR;Lithuania;2012;7;231.70
+EUR;Lithuania;2013;1;289.62
+EUR;Lithuania;2013;7;289.62
+EUR;Lithuania;2014;1;289.62
+EUR;Lithuania;2014;7;289.62
+EUR;Lithuania;2015;1;300.00
+EUR;Lithuania;2015;7;325.00
+EUR;Lithuania;2016;1;350.00
+EUR;Lithuania;2016;7;380.00
+EUR;Lithuania;2017;1;380.00
+EUR;Lithuania;2017;7;380.00
+EUR;Lithuania;2018;1;400.00
+EUR;Lithuania;2018;7;400.00
+EUR;Lithuania;2019;1;555.00
+EUR;Lithuania;2019;7;555.00
+EUR;Lithuania;2020;1;607.00
+EUR;Lithuania;2020;7;607.00
+EUR;Lithuania;2021;1;642.00
+EUR;Lithuania;2021;7;642.00
+EUR;Lithuania;2022;1;730.00
+EUR;Luxembourg;1999;1;1162.08
+EUR;Luxembourg;1999;7;1162.08
+EUR;Luxembourg;2000;1;1191.13
+EUR;Luxembourg;2000;7;1220.88
+EUR;Luxembourg;2001;1;1258.75
+EUR;Luxembourg;2001;7;1290.21
+EUR;Luxembourg;2002;1;1290.21
+EUR;Luxembourg;2002;7;1322.47
+EUR;Luxembourg;2003;1;1368.74
+EUR;Luxembourg;2003;7;1368.74
+EUR;Luxembourg;2004;1;1402.96
+EUR;Luxembourg;2004;7;1402.96
+EUR;Luxembourg;2005;1;1466.77
+EUR;Luxembourg;2005;7;1466.77
+EUR;Luxembourg;2006;1;1503.42
+EUR;Luxembourg;2006;7;1503.42
+EUR;Luxembourg;2007;1;1570.28
+EUR;Luxembourg;2007;7;1570.28
+EUR;Luxembourg;2008;1;1570.28
+EUR;Luxembourg;2008;7;1609.53
+EUR;Luxembourg;2009;1;1641.74
+EUR;Luxembourg;2009;7;1682.76
+EUR;Luxembourg;2010;1;1682.76
+EUR;Luxembourg;2010;7;1724.81
+EUR;Luxembourg;2011;1;1757.56
+EUR;Luxembourg;2011;7;1757.56
+EUR;Luxembourg;2012;1;1801.49
+EUR;Luxembourg;2012;7;1801.49
+EUR;Luxembourg;2013;1;1874.19
+EUR;Luxembourg;2013;7;1874.19
+EUR;Luxembourg;2014;1;1921.03
+EUR;Luxembourg;2014;7;1921.03
+EUR;Luxembourg;2015;1;1922.96
+EUR;Luxembourg;2015;7;1922.96
+EUR;Luxembourg;2016;1;1922.96
+EUR;Luxembourg;2016;7;1922.96
+EUR;Luxembourg;2017;1;1998.59
+EUR;Luxembourg;2017;7;1998.59
+EUR;Luxembourg;2018;1;1998.59
+EUR;Luxembourg;2018;7;1998.59
+EUR;Luxembourg;2019;1;2089.75
+EUR;Luxembourg;2019;7;2089.75
+EUR;Luxembourg;2020;1;2141.99
+EUR;Luxembourg;2020;7;2141.99
+EUR;Luxembourg;2021;1;2201.93
+EUR;Luxembourg;2021;7;2201.93
+EUR;Luxembourg;2022;1;2256.95
+EUR;Latvia;1999;1;75.18
+EUR;Latvia;1999;7;80.49
+EUR;Latvia;2000;1;85.02
+EUR;Latvia;2000;7;87.78
+EUR;Latvia;2001;1;86.75
+EUR;Latvia;2001;7;111.30
+EUR;Latvia;2002;1;107.86
+EUR;Latvia;2002;7;100.18
+EUR;Latvia;2003;1;114.01
+EUR;Latvia;2003;7;107.87
+EUR;Latvia;2004;1;118.96
+EUR;Latvia;2004;7;121.77
+EUR;Latvia;2005;1;114.63
+EUR;Latvia;2005;7;114.93
+EUR;Latvia;2006;1;129.27
+EUR;Latvia;2006;7;129.29
+EUR;Latvia;2007;1;172.12
+EUR;Latvia;2007;7;172.34
+EUR;Latvia;2008;1;229.75
+EUR;Latvia;2008;7;227.05
+EUR;Latvia;2009;1;254.13
+EUR;Latvia;2009;7;255.83
+EUR;Latvia;2010;1;253.77
+EUR;Latvia;2010;7;253.77
+EUR;Latvia;2011;1;281.93
+EUR;Latvia;2011;7;281.97
+EUR;Latvia;2012;1;285.92
+EUR;Latvia;2012;7;287.07
+EUR;Latvia;2013;1;286.66
+EUR;Latvia;2013;7;284.74
+EUR;Latvia;2014;1;320.00
+EUR;Latvia;2014;7;320.00
+EUR;Latvia;2015;1;360.00
+EUR;Latvia;2015;7;360.00
+EUR;Latvia;2016;1;370.00
+EUR;Latvia;2016;7;370.00
+EUR;Latvia;2017;1;380.00
+EUR;Latvia;2017;7;380.00
+EUR;Latvia;2018;1;430.00
+EUR;Latvia;2018;7;430.00
+EUR;Latvia;2019;1;430.00
+EUR;Latvia;2019;7;430.00
+EUR;Latvia;2020;1;430.00
+EUR;Latvia;2020;7;430.00
+EUR;Latvia;2021;1;500.00
+EUR;Latvia;2021;7;500.00
+EUR;Latvia;2022;1;500.00
+EUR;Montenegro;2013;7;288.05
+EUR;Montenegro;2014;1;288.05
+EUR;Montenegro;2014;7;288.05
+EUR;Montenegro;2015;1;288.05
+EUR;Montenegro;2015;7;288.05
+EUR;Montenegro;2016;1;288.05
+EUR;Montenegro;2016;7;288.05
+EUR;Montenegro;2017;1;288.05
+EUR;Montenegro;2017;7;288.05
+EUR;Montenegro;2018;1;288.05
+EUR;Montenegro;2018;7;288.05
+EUR;Montenegro;2019;1;288.05
+EUR;Montenegro;2019;7;331.33
+EUR;Montenegro;2020;1;331.33
+EUR;Montenegro;2020;7;331.33
+EUR;Montenegro;2021;1;331.33
+EUR;Montenegro;2021;7;331.33
+EUR;Montenegro;2022;1;532.54
+EUR;North Macedonia;1999;1;
+EUR;North Macedonia;1999;7;
+EUR;North Macedonia;2000;1;
+EUR;North Macedonia;2000;7;
+EUR;North Macedonia;2001;1;
+EUR;North Macedonia;2001;7;
+EUR;North Macedonia;2002;1;
+EUR;North Macedonia;2002;7;
+EUR;North Macedonia;2003;1;
+EUR;North Macedonia;2003;7;
+EUR;North Macedonia;2004;1;
+EUR;North Macedonia;2004;7;
+EUR;North Macedonia;2005;1;
+EUR;North Macedonia;2005;7;
+EUR;North Macedonia;2006;1;
+EUR;North Macedonia;2006;7;
+EUR;North Macedonia;2007;1;
+EUR;North Macedonia;2007;7;
+EUR;North Macedonia;2008;1;
+EUR;North Macedonia;2008;7;
+EUR;North Macedonia;2009;1;
+EUR;North Macedonia;2009;7;
+EUR;North Macedonia;2010;1;
+EUR;North Macedonia;2010;7;
+EUR;North Macedonia;2011;1;
+EUR;North Macedonia;2011;7;
+EUR;North Macedonia;2013;1;199.48
+EUR;North Macedonia;2013;7;198.95
+EUR;North Macedonia;2014;1;213.62
+EUR;North Macedonia;2014;7;213.02
+EUR;North Macedonia;2015;1;213.72
+EUR;North Macedonia;2015;7;226.69
+EUR;North Macedonia;2016;1;227.06
+EUR;North Macedonia;2016;7;236.05
+EUR;North Macedonia;2017;1;240.89
+EUR;North Macedonia;2017;7;277.62
+EUR;North Macedonia;2018;1;278.58
+EUR;North Macedonia;2018;7;282.48
+EUR;North Macedonia;2019;1;341.44
+EUR;North Macedonia;2019;7;341.00
+EUR;North Macedonia;2020;1;343.28
+EUR;North Macedonia;2020;7;342.12
+EUR;North Macedonia;2021;1;352.97
+EUR;North Macedonia;2021;7;358.97
+EUR;Malta;1999;1;464.93
+EUR;Malta;1999;7;482.98
+EUR;Malta;2000;1;505.05
+EUR;Malta;2000;7;509.59
+EUR;Malta;2001;1;530.42
+EUR;Malta;2001;7;547.76
+EUR;Malta;2002;1;557.45
+EUR;Malta;2002;7;532.39
+EUR;Malta;2003;1;550.53
+EUR;Malta;2003;7;539.56
+EUR;Malta;2004;1;540.84
+EUR;Malta;2004;7;547.69
+EUR;Malta;2005;1;555.06
+EUR;Malta;2005;7;561.53
+EUR;Malta;2006;1;584.24
+EUR;Malta;2006;7;584.24
+EUR;Malta;2007;1;601.90
+EUR;Malta;2007;7;601.90
+EUR;Malta;2008;1;617.21
+EUR;Malta;2008;7;617.21
+EUR;Malta;2009;1;634.88
+EUR;Malta;2009;7;634.88
+EUR;Malta;2010;1;659.92
+EUR;Malta;2010;7;659.92
+EUR;Malta;2011;1;664.95
+EUR;Malta;2011;7;664.95
+EUR;Malta;2012;1;685.14
+EUR;Malta;2012;7;685.14
+EUR;Malta;2013;1;702.82
+EUR;Malta;2013;7;702.82
+EUR;Malta;2014;1;717.95
+EUR;Malta;2014;7;717.95
+EUR;Malta;2015;1;720.46
+EUR;Malta;2015;7;720.46
+EUR;Malta;2016;1;728.04
+EUR;Malta;2016;7;728.04
+EUR;Malta;2017;1;735.63
+EUR;Malta;2017;7;735.63
+EUR;Malta;2018;1;747.54
+EUR;Malta;2018;7;747.54
+EUR;Malta;2019;1;761.97
+EUR;Malta;2019;7;761.97
+EUR;Malta;2020;1;777.10
+EUR;Malta;2020;7;777.10
+EUR;Malta;2021;1;784.68
+EUR;Malta;2021;7;784.68
+EUR;Malta;2022;1;792.26
+EUR;Netherlands;1999;1;1064.20
+EUR;Netherlands;1999;7;1078.40
+EUR;Netherlands;2000;1;1092.00
+EUR;Netherlands;2000;7;1110.80
+EUR;Netherlands;2001;1;1154.50
+EUR;Netherlands;2001;7;1180.40
+EUR;Netherlands;2002;1;1206.60
+EUR;Netherlands;2002;7;1231.80
+EUR;Netherlands;2003;1;1249.20
+EUR;Netherlands;2003;7;1264.80
+EUR;Netherlands;2004;1;1264.80
+EUR;Netherlands;2004;7;1264.80
+EUR;Netherlands;2005;1;1264.80
+EUR;Netherlands;2005;7;1264.80
+EUR;Netherlands;2006;1;1272.60
+EUR;Netherlands;2006;7;1284.60
+EUR;Netherlands;2007;1;1300.80
+EUR;Netherlands;2007;7;1317.00
+EUR;Netherlands;2008;1;1335.00
+EUR;Netherlands;2008;7;1356.60
+EUR;Netherlands;2009;1;1381.20
+EUR;Netherlands;2009;7;1398.60
+EUR;Netherlands;2010;1;1407.60
+EUR;Netherlands;2010;7;1416.00
+EUR;Netherlands;2011;1;1424.40
+EUR;Netherlands;2011;7;1435.20
+EUR;Netherlands;2012;1;1446.60
+EUR;Netherlands;2012;7;1456.20
+EUR;Netherlands;2013;1;1469.40
+EUR;Netherlands;2013;7;1477.80
+EUR;Netherlands;2014;1;1485.60
+EUR;Netherlands;2014;7;1495.20
+EUR;Netherlands;2015;1;1501.80
+EUR;Netherlands;2015;7;1507.80
+EUR;Netherlands;2016;1;1524.60
+EUR;Netherlands;2016;7;1537.20
+EUR;Netherlands;2017;1;1551.60
+EUR;Netherlands;2017;7;1565.40
+EUR;Netherlands;2018;1;1578.00
+EUR;Netherlands;2018;7;1594.20
+EUR;Netherlands;2019;1;1615.80
+EUR;Netherlands;2019;7;1635.60
+EUR;Netherlands;2020;1;1653.60
+EUR;Netherlands;2020;7;1680.00
+EUR;Netherlands;2021;1;1684.80
+EUR;Netherlands;2021;7;1701.00
+EUR;Netherlands;2022;1;1725.00
+EUR;Norway;1999;1;
+EUR;Norway;1999;7;
+EUR;Norway;2000;1;
+EUR;Norway;2000;7;
+EUR;Norway;2001;1;
+EUR;Norway;2001;7;
+EUR;Norway;2002;1;
+EUR;Norway;2002;7;
+EUR;Norway;2003;1;
+EUR;Norway;2003;7;
+EUR;Norway;2004;1;
+EUR;Norway;2004;7;
+EUR;Norway;2005;1;
+EUR;Norway;2005;7;
+EUR;Norway;2006;1;
+EUR;Norway;2006;7;
+EUR;Norway;2007;1;
+EUR;Norway;2007;7;
+EUR;Norway;2008;1;
+EUR;Norway;2008;7;
+EUR;Norway;2009;1;
+EUR;Norway;2009;7;
+EUR;Norway;2010;1;
+EUR;Norway;2010;7;
+EUR;Norway;2011;1;
+EUR;Norway;2011;7;
+EUR;Norway;2012;1;
+EUR;Norway;2012;7;
+EUR;Norway;2013;1;
+EUR;Norway;2013;7;
+EUR;Norway;2014;1;
+EUR;Norway;2014;7;
+EUR;Norway;2015;1;
+EUR;Norway;2015;7;
+EUR;Norway;2016;1;
+EUR;Norway;2016;7;
+EUR;Norway;2017;1;
+EUR;Norway;2017;7;
+EUR;Norway;2018;1;
+EUR;Norway;2018;7;
+EUR;Norway;2019;1;
+EUR;Norway;2019;7;
+EUR;Norway;2020;1;
+EUR;Norway;2020;7;
+EUR;Norway;2021;1;
+EUR;Norway;2021;7;
+EUR;Poland;1999;1;158.94
+EUR;Poland;1999;7;160.18
+EUR;Poland;2000;1;161.11
+EUR;Poland;2000;7;167.32
+EUR;Poland;2001;1;197.41
+EUR;Poland;2001;7;225.55
+EUR;Poland;2002;1;217.43
+EUR;Poland;2002;7;187.20
+EUR;Poland;2003;1;198.96
+EUR;Poland;2003;7;178.67
+EUR;Poland;2004;1;175.25
+EUR;Poland;2004;7;182.16
+EUR;Poland;2005;1;207.86
+EUR;Poland;2005;7;210.21
+EUR;Poland;2006;1;232.90
+EUR;Poland;2006;7;221.72
+EUR;Poland;2007;1;244.32
+EUR;Poland;2007;7;248.43
+EUR;Poland;2008;1;313.34
+EUR;Poland;2008;7;335.99
+EUR;Poland;2009;1;307.21
+EUR;Poland;2009;7;286.61
+EUR;Poland;2010;1;320.87
+EUR;Poland;2010;7;317.58
+EUR;Poland;2011;1;348.68
+EUR;Poland;2011;7;347.34
+EUR;Poland;2012;1;336.47
+EUR;Poland;2012;7;353.04
+EUR;Poland;2013;1;392.73
+EUR;Poland;2013;7;368.87
+EUR;Poland;2014;1;404.40
+EUR;Poland;2014;7;404.16
+EUR;Poland;2015;1;409.53
+EUR;Poland;2015;7;417.55
+EUR;Poland;2016;1;433.88
+EUR;Poland;2016;7;417.02
+EUR;Poland;2017;1;453.48
+EUR;Poland;2017;7;473.27
+EUR;Poland;2018;1;502.75
+EUR;Poland;2018;7;480.20
+EUR;Poland;2019;1;523.09
+EUR;Poland;2019;7;529.46
+EUR;Poland;2020;1;610.79
+EUR;Poland;2020;7;583.48
+EUR;Poland;2021;1;614.08
+EUR;Poland;2021;7;619.46
+EUR;Poland;2022;1;654.79
+EUR;Portugal;1999;1;356.72
+EUR;Portugal;1999;7;356.72
+EUR;Portugal;2000;1;371.27
+EUR;Portugal;2000;7;371.27
+EUR;Portugal;2001;1;389.89
+EUR;Portugal;2001;7;389.89
+EUR;Portugal;2002;1;406.01
+EUR;Portugal;2002;7;406.01
+EUR;Portugal;2003;1;416.03
+EUR;Portugal;2003;7;416.03
+EUR;Portugal;2004;1;425.95
+EUR;Portugal;2004;7;425.95
+EUR;Portugal;2005;1;437.15
+EUR;Portugal;2005;7;437.15
+EUR;Portugal;2006;1;449.98
+EUR;Portugal;2006;7;449.98
+EUR;Portugal;2007;1;470.17
+EUR;Portugal;2007;7;470.17
+EUR;Portugal;2008;1;497.00
+EUR;Portugal;2008;7;497.00
+EUR;Portugal;2009;1;525.00
+EUR;Portugal;2009;7;525.00
+EUR;Portugal;2010;1;554.17
+EUR;Portugal;2010;7;554.17
+EUR;Portugal;2011;1;565.83
+EUR;Portugal;2011;7;565.83
+EUR;Portugal;2012;1;565.83
+EUR;Portugal;2012;7;565.83
+EUR;Portugal;2013;1;565.83
+EUR;Portugal;2013;7;565.83
+EUR;Portugal;2014;1;565.83
+EUR;Portugal;2014;7;565.83
+EUR;Portugal;2015;1;589.17
+EUR;Portugal;2015;7;589.17
+EUR;Portugal;2016;1;618.33
+EUR;Portugal;2016;7;618.33
+EUR;Portugal;2017;1;649.83
+EUR;Portugal;2017;7;649.83
+EUR;Portugal;2018;1;676.67
+EUR;Portugal;2018;7;676.67
+EUR;Portugal;2019;1;700.00
+EUR;Portugal;2019;7;700.00
+EUR;Portugal;2020;1;740.83
+EUR;Portugal;2020;7;740.83
+EUR;Portugal;2021;1;775.83
+EUR;Portugal;2021;7;775.83
+EUR;Portugal;2022;1;822.50
+EUR;Romania;1999;1;27.31
+EUR;Romania;1999;7;27.46
+EUR;Romania;2000;1;24.53
+EUR;Romania;2000;7;34.29
+EUR;Romania;2001;1;41.42
+EUR;Romania;2001;7;56.64
+EUR;Romania;2002;1;50.33
+EUR;Romania;2002;7;52.38
+EUR;Romania;2003;1;71.15
+EUR;Romania;2003;7;66.38
+EUR;Romania;2004;1;68.03
+EUR;Romania;2004;7;68.92
+EUR;Romania;2005;1;78.70
+EUR;Romania;2005;7;86.04
+EUR;Romania;2006;1;89.67
+EUR;Romania;2006;7;92.43
+EUR;Romania;2007;1;115.27
+EUR;Romania;2007;7;124.44
+EUR;Romania;2008;1;138.59
+EUR;Romania;2008;7;137.31
+EUR;Romania;2009;1;149.16
+EUR;Romania;2009;7;142.61
+EUR;Romania;2010;1;141.63
+EUR;Romania;2010;7;137.30
+EUR;Romania;2011;1;157.20
+EUR;Romania;2011;7;157.89
+EUR;Romania;2012;1;161.91
+EUR;Romania;2012;7;157.26
+EUR;Romania;2013;1;157.50
+EUR;Romania;2013;7;179.36
+EUR;Romania;2014;1;190.11
+EUR;Romania;2014;7;205.34
+EUR;Romania;2015;1;217.50
+EUR;Romania;2015;7;234.77
+EUR;Romania;2016;1;232.10
+EUR;Romania;2016;7;276.34
+EUR;Romania;2017;1;275.39
+EUR;Romania;2017;7;318.52
+EUR;Romania;2018;1;407.86
+EUR;Romania;2018;7;407.45
+EUR;Romania;2019;1;446.02
+EUR;Romania;2019;7;439.35
+EUR;Romania;2020;1;466.23
+EUR;Romania;2020;7;460.77
+EUR;Romania;2021;1;458.07
+EUR;Romania;2021;7;466.72
+EUR;Romania;2022;1;515.26
+EUR;Serbia;2002;7;92.72
+EUR;Serbia;2003;1;101.46
+EUR;Serbia;2003;7;104.88
+EUR;Serbia;2004;1;115.95
+EUR;Serbia;2004;7;123.90
+EUR;Serbia;2005;1;124.70
+EUR;Serbia;2005;7;126.56
+EUR;Serbia;2006;1;137.95
+EUR;Serbia;2006;7;145.58
+EUR;Serbia;2007;1;161.97
+EUR;Serbia;2007;7;188.51
+EUR;Serbia;2008;1;208.37
+EUR;Serbia;2008;7;233.09
+EUR;Serbia;2009;1;232.99
+EUR;Serbia;2009;7;220.23
+EUR;Serbia;2010;1;222.37
+EUR;Serbia;2010;7;203.29
+EUR;Serbia;2011;1;212.88
+EUR;Serbia;2011;7;234.88
+EUR;Serbia;2012;1;229.99
+EUR;Serbia;2012;7;234.90
+EUR;Serbia;2013;1;239.24
+EUR;Serbia;2013;7;236.27
+EUR;Serbia;2014;1;235.30
+EUR;Serbia;2014;7;232.68
+EUR;Serbia;2015;1;235.04
+EUR;Serbia;2015;7;235.51
+EUR;Serbia;2016;1;233.53
+EUR;Serbia;2016;7;230.14
+EUR;Serbia;2017;1;247.93
+EUR;Serbia;2017;7;253.10
+EUR;Serbia;2018;1;285.41
+EUR;Serbia;2018;7;282.51
+EUR;Serbia;2019;1;308.03
+EUR;Serbia;2019;7;308.41
+EUR;Serbia;2020;1;344.43
+EUR;Serbia;2020;7;344.43
+EUR;Serbia;2021;1;366.04
+EUR;Serbia;2021;7;366.13
+EUR;Serbia;2022;1;401.36
+EUR;Sweden;1999;1;
+EUR;Sweden;1999;7;
+EUR;Sweden;2000;1;
+EUR;Sweden;2000;7;
+EUR;Sweden;2001;1;
+EUR;Sweden;2001;7;
+EUR;Sweden;2002;1;
+EUR;Sweden;2002;7;
+EUR;Sweden;2003;1;
+EUR;Sweden;2003;7;
+EUR;Sweden;2004;1;
+EUR;Sweden;2004;7;
+EUR;Sweden;2005;1;
+EUR;Sweden;2005;7;
+EUR;Sweden;2006;1;
+EUR;Sweden;2006;7;
+EUR;Sweden;2007;1;
+EUR;Sweden;2007;7;
+EUR;Sweden;2008;1;
+EUR;Sweden;2008;7;
+EUR;Sweden;2009;1;
+EUR;Sweden;2009;7;
+EUR;Sweden;2010;1;
+EUR;Sweden;2010;7;
+EUR;Sweden;2011;1;
+EUR;Sweden;2011;7;
+EUR;Sweden;2012;1;
+EUR;Sweden;2012;7;
+EUR;Sweden;2013;1;
+EUR;Sweden;2013;7;
+EUR;Sweden;2014;1;
+EUR;Sweden;2014;7;
+EUR;Sweden;2015;1;
+EUR;Sweden;2015;7;
+EUR;Sweden;2016;1;
+EUR;Sweden;2016;7;
+EUR;Sweden;2017;1;
+EUR;Sweden;2017;7;
+EUR;Sweden;2018;1;
+EUR;Sweden;2018;7;
+EUR;Sweden;2019;1;
+EUR;Sweden;2019;7;
+EUR;Sweden;2020;1;
+EUR;Sweden;2020;7;
+EUR;Sweden;2021;1;
+EUR;Sweden;2021;7;
+EUR;Slovenia;1999;1;361.33
+EUR;Slovenia;1999;7;347.72
+EUR;Slovenia;2000;1;373.35
+EUR;Slovenia;2000;7;371.40
+EUR;Slovenia;2001;1;395.33
+EUR;Slovenia;2001;7;386.49
+EUR;Slovenia;2002;1;432.63
+EUR;Slovenia;2002;7;417.87
+EUR;Slovenia;2003;1;450.31
+EUR;Slovenia;2003;7;443.01
+EUR;Slovenia;2004;1;470.99
+EUR;Slovenia;2004;7;464.54
+EUR;Slovenia;2005;1;490.07
+EUR;Slovenia;2005;7;490.67
+EUR;Slovenia;2006;1;511.90
+EUR;Slovenia;2006;7;511.62
+EUR;Slovenia;2007;1;521.80
+EUR;Slovenia;2007;7;521.80
+EUR;Slovenia;2008;1;538.53
+EUR;Slovenia;2008;7;566.50
+EUR;Slovenia;2009;1;589.19
+EUR;Slovenia;2009;7;589.19
+EUR;Slovenia;2010;1;597.43
+EUR;Slovenia;2010;7;734.15
+EUR;Slovenia;2011;1;748.10
+EUR;Slovenia;2011;7;748.10
+EUR;Slovenia;2012;1;763.06
+EUR;Slovenia;2012;7;763.06
+EUR;Slovenia;2013;1;783.66
+EUR;Slovenia;2013;7;783.66
+EUR;Slovenia;2014;1;789.15
+EUR;Slovenia;2014;7;789.15
+EUR;Slovenia;2015;1;790.73
+EUR;Slovenia;2015;7;790.73
+EUR;Slovenia;2016;1;790.73
+EUR;Slovenia;2016;7;790.73
+EUR;Slovenia;2017;1;804.96
+EUR;Slovenia;2017;7;804.96
+EUR;Slovenia;2018;1;842.79
+EUR;Slovenia;2018;7;842.79
+EUR;Slovenia;2019;1;886.63
+EUR;Slovenia;2019;7;886.63
+EUR;Slovenia;2020;1;940.58
+EUR;Slovenia;2020;7;940.58
+EUR;Slovenia;2021;1;1024.24
+EUR;Slovenia;2021;7;1024.24
+EUR;Slovenia;2022;1;1074.43
+EUR;Slovak Republic;1999;1;69.43
+EUR;Slovak Republic;1999;7;79.42
+EUR;Slovak Republic;2000;1;94.34
+EUR;Slovak Republic;2000;7;93.81
+EUR;Slovak Republic;2001;1;100.15
+EUR;Slovak Republic;2001;7;104.11
+EUR;Slovak Republic;2002;1;115.01
+EUR;Slovak Republic;2002;7;112.02
+EUR;Slovak Republic;2003;1;134.21
+EUR;Slovak Republic;2003;7;134.06
+EUR;Slovak Republic;2004;1;147.68
+EUR;Slovak Republic;2004;7;152.48
+EUR;Slovak Republic;2005;1;167.76
+EUR;Slovak Republic;2005;7;169.21
+EUR;Slovak Republic;2006;1;182.15
+EUR;Slovak Republic;2006;7;179.92
+EUR;Slovak Republic;2007;1;220.71
+EUR;Slovak Republic;2007;7;225.96
+EUR;Slovak Republic;2008;1;241.19
+EUR;Slovak Republic;2008;7;268.17
+EUR;Slovak Republic;2009;1;295.50
+EUR;Slovak Republic;2009;7;295.50
+EUR;Slovak Republic;2010;1;307.70
+EUR;Slovak Republic;2010;7;307.70
+EUR;Slovak Republic;2011;1;317.00
+EUR;Slovak Republic;2011;7;317.00
+EUR;Slovak Republic;2012;1;327.00
+EUR;Slovak Republic;2012;7;327.00
+EUR;Slovak Republic;2013;1;337.70
+EUR;Slovak Republic;2013;7;337.70
+EUR;Slovak Republic;2014;1;352.00
+EUR;Slovak Republic;2014;7;352.00
+EUR;Slovak Republic;2015;1;380.00
+EUR;Slovak Republic;2015;7;380.00
+EUR;Slovak Republic;2016;1;405.00
+EUR;Slovak Republic;2016;7;405.00
+EUR;Slovak Republic;2017;1;435.00
+EUR;Slovak Republic;2017;7;435.00
+EUR;Slovak Republic;2018;1;480.00
+EUR;Slovak Republic;2018;7;480.00
+EUR;Slovak Republic;2019;1;520.00
+EUR;Slovak Republic;2019;7;520.00
+EUR;Slovak Republic;2020;1;580.00
+EUR;Slovak Republic;2020;7;580.00
+EUR;Slovak Republic;2021;1;623.00
+EUR;Slovak Republic;2021;7;623.00
+EUR;Slovak Republic;2022;1;646.00
+EUR;Turkey;1999;1;213.51
+EUR;Turkey;1999;7;215.22
+EUR;Turkey;2000;1;201.62
+EUR;Turkey;2000;7;201.12
+EUR;Turkey;2001;1;224.17
+EUR;Turkey;2001;7;157.36
+EUR;Turkey;2002;1;174.87
+EUR;Turkey;2002;7;158.99
+EUR;Turkey;2003;1;176.06
+EUR;Turkey;2003;7;189.12
+EUR;Turkey;2004;1;238.77
+EUR;Turkey;2004;7;246.03
+EUR;Turkey;2005;1;266.15
+EUR;Turkey;2005;7;301.78
+EUR;Turkey;2006;1;333.46
+EUR;Turkey;2006;7;264.51
+EUR;Turkey;2007;1;301.77
+EUR;Turkey;2007;7;329.76
+EUR;Turkey;2008;1;354.34
+EUR;Turkey;2008;7;330.54
+EUR;Turkey;2009;1;309.94
+EUR;Turkey;2009;7;320.81
+EUR;Turkey;2010;1;338.33
+EUR;Turkey;2010;7;392.01
+EUR;Turkey;2011;1;384.89
+EUR;Turkey;2011;7;356.17
+EUR;Turkey;2012;1;362.84
+EUR;Turkey;2012;7;411.89
+EUR;Turkey;2013;1;415.52
+EUR;Turkey;2013;7;405.20
+EUR;Turkey;2014;1;361.76
+EUR;Turkey;2014;7;391.45
+EUR;Turkey;2015;1;424.26
+EUR;Turkey;2015;7;425.17
+EUR;Turkey;2016;1;518.50
+EUR;Turkey;2016;7;513.72
+EUR;Turkey;2017;1;479.47
+EUR;Turkey;2017;7;442.89
+EUR;Turkey;2018;1;446.40
+EUR;Turkey;2018;7;380.16
+EUR;Turkey;2019;1;422.26
+EUR;Turkey;2019;7;389.67
+EUR;Turkey;2020;1;440.29
+EUR;Turkey;2020;7;383.40
+EUR;Turkey;2021;1;392.57
+EUR;Turkey;2021;7;346.62
+EUR;Turkey;2022;1;328.49
+EUR;United Kingdom;1999;1;
+EUR;United Kingdom;1999;7;902.03
+EUR;United Kingdom;2000;1;952.23
+EUR;United Kingdom;2000;7;936.26
+EUR;United Kingdom;2001;1;977.41
+EUR;United Kingdom;2001;7;1011.44
+EUR;United Kingdom;2002;1;1109.29
+EUR;United Kingdom;2002;7;1038.78
+EUR;United Kingdom;2003;1;1063.80
+EUR;United Kingdom;2003;7;998.27
+EUR;United Kingdom;2004;1;1054.20
+EUR;United Kingdom;2004;7;1107.72
+EUR;United Kingdom;2005;1;1134.67
+EUR;United Kingdom;2005;7;1186.59
+EUR;United Kingdom;2006;1;1212.61
+EUR;United Kingdom;2006;7;1200.69
+EUR;United Kingdom;2007;1;1314.97
+EUR;United Kingdom;2007;7;1310.09
+EUR;United Kingdom;2008;1;1242.24
+EUR;United Kingdom;2008;7;1149.89
+EUR;United Kingdom;2009;1;995.28
+EUR;United Kingdom;2009;7;1112.55
+EUR;United Kingdom;2010;1;1076.46
+EUR;United Kingdom;2010;7;1169.49
+EUR;United Kingdom;2011;1;1136.22
+EUR;United Kingdom;2011;7;1083.60
+EUR;United Kingdom;2012;1;1201.96
+EUR;United Kingdom;2012;7;1244.42
+EUR;United Kingdom;2013;1;1249.85
+EUR;United Kingdom;2013;7;1189.92
+EUR;United Kingdom;2014;1;1251.05
+EUR;United Kingdom;2014;7;1301.31
+EUR;United Kingdom;2015;1;1378.87
+EUR;United Kingdom;2015;7;1509.70
+EUR;United Kingdom;2016;1;1512.36
+EUR;United Kingdom;2016;7;1443.44
+EUR;United Kingdom;2017;1;1393.40
+EUR;United Kingdom;2017;7;1413.58
+EUR;United Kingdom;2018;1;1399.86
+EUR;United Kingdom;2018;7;1467.19
+EUR;United Kingdom;2019;1;1453.28
+EUR;United Kingdom;2019;7;1517.11
+EUR;United Kingdom;2020;1;1598.69
+EUR;United Kingdom;2020;7;1583.31
+EUR;United States;1999;1;765.12
+EUR;United States;1999;7;864.32
+EUR;United States;2000;1;888.58
+EUR;United States;2000;7;934.15
+EUR;United States;2001;1;959.34
+EUR;United States;2001;7;1052.68
+EUR;United States;2002;1;1012.90
+EUR;United States;2002;7;894.91
+EUR;United States;2003;1;851.22
+EUR;United States;2003;7;781.19
+EUR;United States;2004;1;706.79
+EUR;United States;2004;7;734.41
+EUR;United States;2005;1;655.36
+EUR;United States;2005;7;738.23
+EUR;United States;2006;1;756.69
+EUR;United States;2006;7;702.17
+EUR;United States;2007;1;677.81
+EUR;United States;2007;7;660.99
+EUR;United States;2008;1;688.81
+EUR;United States;2008;7;643.24
+EUR;United States;2009;1;815.79
+EUR;United States;2009;7;803.26
+EUR;United States;2010;1;872.32
+EUR;United States;2010;7;1024.09
+EUR;United States;2011;1;940.48
+EUR;United States;2011;7;869.48
+EUR;United States;2012;1;971.22
+EUR;United States;2012;7;998.15
+EUR;United States;2013;1;952.46
+EUR;United States;2013;7;960.76
+EUR;United States;2014;1;911.22
+EUR;United States;2014;7;920.10
+EUR;United States;2015;1;1035.06
+EUR;United States;2015;7;1123.13
+EUR;United States;2016;1;1154.28
+EUR;United States;2016;7;1131.93
+EUR;United States;2017;1;1192.17
+EUR;United States;2017;7;1101.18
+EUR;United States;2018;1;1047.83
+EUR;United States;2018;7;1077.94
+EUR;United States;2019;1;1097.53
+EUR;United States;2019;7;1104.28
+EUR;United States;2020;1;1118.63
+EUR;United States;2020;7;1122.22
+EUR;United States;2021;1;1024.09
+EUR;United States;2021;7;1057.44
+EUR;United States;2022;1;1109.54
+NAC;Albania;1999;1;5800.00
+NAC;Albania;1999;7;6380.00
+NAC;Albania;2000;1;6380.00
+NAC;Albania;2000;7;7000.00
+NAC;Albania;2001;1;7000.00
+NAC;Albania;2001;7;7580.00
+NAC;Albania;2002;1;7580.00
+NAC;Albania;2002;7;9400.00
+NAC;Albania;2003;1;9400.00
+NAC;Albania;2003;7;10060.00
+NAC;Albania;2004;1;10060.00
+NAC;Albania;2004;7;10800.00
+NAC;Albania;2005;1;10800.00
+NAC;Albania;2005;7;11800.00
+NAC;Albania;2006;1;11800.00
+NAC;Albania;2006;7;14000.00
+NAC;Albania;2007;1;14000.00
+NAC;Albania;2007;7;14000.00
+NAC;Albania;2008;1;16000.00
+NAC;Albania;2008;7;17000.00
+NAC;Albania;2009;1;17000.00
+NAC;Albania;2009;7;18000.00
+NAC;Albania;2010;1;18000.00
+NAC;Albania;2010;7;19000.00
+NAC;Albania;2011;1;19000.00
+NAC;Albania;2011;7;20000.00
+NAC;Albania;2012;1;20000.00
+NAC;Albania;2012;7;21000.00
+NAC;Albania;2013;1;21000.00
+NAC;Albania;2013;7;22000.00
+NAC;Albania;2014;1;22000.00
+NAC;Albania;2014;7;22000.00
+NAC;Albania;2015;1;22000.00
+NAC;Albania;2015;7;22000.00
+NAC;Albania;2016;1;22000.00
+NAC;Albania;2016;7;22000.00
+NAC;Albania;2017;1;22000.00
+NAC;Albania;2017;7;24000.00
+NAC;Albania;2018;1;24000.00
+NAC;Albania;2018;7;24000.00
+NAC;Albania;2019;1;26000.00
+NAC;Albania;2019;7;26000.00
+NAC;Albania;2020;1;26000.00
+NAC;Albania;2020;7;26000.00
+NAC;Albania;2021;1;30000.00
+NAC;Albania;2021;7;30000.00
+NAC;Albania;2022;1;30000.00
+NAC;Austria;1999;1;
+NAC;Austria;1999;7;
+NAC;Austria;2000;1;
+NAC;Austria;2000;7;
+NAC;Austria;2001;1;
+NAC;Austria;2001;7;
+NAC;Austria;2002;1;
+NAC;Austria;2002;7;
+NAC;Austria;2003;1;
+NAC;Austria;2003;7;
+NAC;Austria;2004;1;
+NAC;Austria;2004;7;
+NAC;Austria;2005;1;
+NAC;Austria;2005;7;
+NAC;Austria;2006;1;
+NAC;Austria;2006;7;
+NAC;Austria;2007;1;
+NAC;Austria;2007;7;
+NAC;Austria;2008;1;
+NAC;Austria;2008;7;
+NAC;Austria;2009;1;
+NAC;Austria;2009;7;
+NAC;Austria;2010;1;
+NAC;Austria;2010;7;
+NAC;Austria;2011;1;
+NAC;Austria;2011;7;
+NAC;Austria;2012;1;
+NAC;Austria;2012;7;
+NAC;Austria;2013;1;
+NAC;Austria;2013;7;
+NAC;Austria;2014;1;
+NAC;Austria;2014;7;
+NAC;Austria;2015;1;
+NAC;Austria;2015;7;
+NAC;Austria;2016;1;
+NAC;Austria;2016;7;
+NAC;Austria;2017;1;
+NAC;Austria;2017;7;
+NAC;Austria;2018;1;
+NAC;Austria;2018;7;
+NAC;Austria;2019;1;
+NAC;Austria;2019;7;
+NAC;Austria;2020;1;
+NAC;Austria;2020;7;
+NAC;Austria;2021;1;
+NAC;Austria;2021;7;
+NAC;Belgium;1999;1;1074.44
+NAC;Belgium;1999;7;1095.89
+NAC;Belgium;2000;1;1095.89
+NAC;Belgium;2000;7;1095.89
+NAC;Belgium;2001;1;1117.88
+NAC;Belgium;2001;7;1140.24
+NAC;Belgium;2002;1;1140.24
+NAC;Belgium;2002;7;1163.02
+NAC;Belgium;2003;1;1163.02
+NAC;Belgium;2003;7;1186.31
+NAC;Belgium;2004;1;1186.31
+NAC;Belgium;2004;7;1186.31
+NAC;Belgium;2005;1;1210.00
+NAC;Belgium;2005;7;1210.00
+NAC;Belgium;2006;1;1234.00
+NAC;Belgium;2006;7;1234.00
+NAC;Belgium;2007;1;1259.00
+NAC;Belgium;2007;7;1283.00
+NAC;Belgium;2008;1;1309.60
+NAC;Belgium;2008;7;1335.80
+NAC;Belgium;2009;1;1387.50
+NAC;Belgium;2009;7;1387.50
+NAC;Belgium;2010;1;1387.50
+NAC;Belgium;2010;7;1387.50
+NAC;Belgium;2011;1;1415.24
+NAC;Belgium;2011;7;1443.54
+NAC;Belgium;2012;1;1443.54
+NAC;Belgium;2012;7;1472.42
+NAC;Belgium;2013;1;1501.82
+NAC;Belgium;2013;7;1501.82
+NAC;Belgium;2014;1;1501.82
+NAC;Belgium;2014;7;1501.82
+NAC;Belgium;2015;1;1501.82
+NAC;Belgium;2015;7;1501.82
+NAC;Belgium;2016;1;1501.82
+NAC;Belgium;2016;7;1531.93
+NAC;Belgium;2017;1;1531.93
+NAC;Belgium;2017;7;1562.59
+NAC;Belgium;2018;1;1562.59
+NAC;Belgium;2018;7;1562.59
+NAC;Belgium;2019;1;1593.81
+NAC;Belgium;2019;7;1593.81
+NAC;Belgium;2020;1;1593.81
+NAC;Belgium;2020;7;1625.72
+NAC;Belgium;2021;1;1625.72
+NAC;Belgium;2021;7;1625.72
+NAC;Belgium;2022;1;1658.23
+NAC;Bulgaria;1999;1;61.00
+NAC;Bulgaria;1999;7;67.00
+NAC;Bulgaria;2000;1;67.00
+NAC;Bulgaria;2000;7;75.00
+NAC;Bulgaria;2001;1;79.00
+NAC;Bulgaria;2001;7;85.00
+NAC;Bulgaria;2002;1;100.00
+NAC;Bulgaria;2002;7;100.00
+NAC;Bulgaria;2003;1;110.00
+NAC;Bulgaria;2003;7;110.00
+NAC;Bulgaria;2004;1;120.00
+NAC;Bulgaria;2004;7;120.00
+NAC;Bulgaria;2005;1;150.00
+NAC;Bulgaria;2005;7;150.00
+NAC;Bulgaria;2006;1;160.00
+NAC;Bulgaria;2006;7;160.00
+NAC;Bulgaria;2007;1;180.00
+NAC;Bulgaria;2007;7;180.00
+NAC;Bulgaria;2008;1;220.00
+NAC;Bulgaria;2008;7;220.00
+NAC;Bulgaria;2009;1;240.00
+NAC;Bulgaria;2009;7;240.00
+NAC;Bulgaria;2010;1;240.00
+NAC;Bulgaria;2010;7;240.00
+NAC;Bulgaria;2011;1;240.00
+NAC;Bulgaria;2011;7;240.00
+NAC;Bulgaria;2012;1;270.00
+NAC;Bulgaria;2012;7;290.00
+NAC;Bulgaria;2013;1;310.00
+NAC;Bulgaria;2013;7;310.00
+NAC;Bulgaria;2014;1;340.00
+NAC;Bulgaria;2014;7;340.00
+NAC;Bulgaria;2015;1;360.00
+NAC;Bulgaria;2015;7;380.00
+NAC;Bulgaria;2016;1;420.00
+NAC;Bulgaria;2016;7;420.00
+NAC;Bulgaria;2017;1;460.00
+NAC;Bulgaria;2017;7;460.00
+NAC;Bulgaria;2018;1;510.00
+NAC;Bulgaria;2018;7;510.00
+NAC;Bulgaria;2019;1;560.00
+NAC;Bulgaria;2019;7;560.00
+NAC;Bulgaria;2020;1;610.00
+NAC;Bulgaria;2020;7;610.00
+NAC;Bulgaria;2021;1;650.00
+NAC;Bulgaria;2021;7;650.00
+NAC;Bulgaria;2022;1;650.00
+NAC;Switzerland;1999;1;
+NAC;Switzerland;1999;7;
+NAC;Switzerland;2000;1;
+NAC;Switzerland;2000;7;
+NAC;Switzerland;2001;1;
+NAC;Switzerland;2001;7;
+NAC;Switzerland;2002;1;
+NAC;Switzerland;2002;7;
+NAC;Switzerland;2003;1;
+NAC;Switzerland;2003;7;
+NAC;Switzerland;2004;1;
+NAC;Switzerland;2004;7;
+NAC;Switzerland;2005;1;
+NAC;Switzerland;2005;7;
+NAC;Switzerland;2006;1;
+NAC;Switzerland;2006;7;
+NAC;Switzerland;2007;1;
+NAC;Switzerland;2007;7;
+NAC;Switzerland;2008;1;
+NAC;Switzerland;2008;7;
+NAC;Switzerland;2009;1;
+NAC;Switzerland;2009;7;
+NAC;Switzerland;2010;1;
+NAC;Switzerland;2010;7;
+NAC;Switzerland;2011;1;
+NAC;Switzerland;2011;7;
+NAC;Switzerland;2012;1;
+NAC;Switzerland;2012;7;
+NAC;Switzerland;2013;1;
+NAC;Switzerland;2013;7;
+NAC;Switzerland;2014;1;
+NAC;Switzerland;2014;7;
+NAC;Switzerland;2015;1;
+NAC;Switzerland;2015;7;
+NAC;Switzerland;2016;1;
+NAC;Switzerland;2016;7;
+NAC;Switzerland;2017;1;
+NAC;Switzerland;2017;7;
+NAC;Switzerland;2018;1;
+NAC;Switzerland;2018;7;
+NAC;Switzerland;2019;1;
+NAC;Switzerland;2019;7;
+NAC;Switzerland;2020;1;
+NAC;Switzerland;2020;7;
+NAC;Switzerland;2021;1;
+NAC;Switzerland;2021;7;
+NAC;Cyprus;1999;1;
+NAC;Cyprus;1999;7;
+NAC;Cyprus;2000;1;
+NAC;Cyprus;2000;7;
+NAC;Cyprus;2001;1;
+NAC;Cyprus;2001;7;
+NAC;Cyprus;2002;1;
+NAC;Cyprus;2002;7;
+NAC;Cyprus;2003;1;
+NAC;Cyprus;2003;7;
+NAC;Cyprus;2004;1;
+NAC;Cyprus;2004;7;
+NAC;Cyprus;2005;1;
+NAC;Cyprus;2005;7;
+NAC;Cyprus;2006;1;
+NAC;Cyprus;2006;7;
+NAC;Cyprus;2007;1;
+NAC;Cyprus;2007;7;
+NAC;Cyprus;2008;1;
+NAC;Cyprus;2008;7;
+NAC;Cyprus;2009;1;
+NAC;Cyprus;2009;7;
+NAC;Cyprus;2010;1;
+NAC;Cyprus;2010;7;
+NAC;Cyprus;2011;1;
+NAC;Cyprus;2011;7;
+NAC;Cyprus;2012;1;
+NAC;Cyprus;2012;7;
+NAC;Cyprus;2013;1;
+NAC;Cyprus;2013;7;
+NAC;Cyprus;2014;1;
+NAC;Cyprus;2014;7;
+NAC;Cyprus;2015;1;
+NAC;Cyprus;2015;7;
+NAC;Cyprus;2016;1;
+NAC;Cyprus;2016;7;
+NAC;Cyprus;2017;1;
+NAC;Cyprus;2017;7;
+NAC;Cyprus;2018;1;
+NAC;Cyprus;2018;7;
+NAC;Cyprus;2019;1;
+NAC;Cyprus;2019;7;
+NAC;Cyprus;2020;1;
+NAC;Cyprus;2020;7;
+NAC;Cyprus;2021;1;
+NAC;Cyprus;2021;7;
+NAC;Czech Republic;1999;1;3250.00
+NAC;Czech Republic;1999;7;3600.00
+NAC;Czech Republic;2000;1;4000.00
+NAC;Czech Republic;2000;7;4500.00
+NAC;Czech Republic;2001;1;5000.00
+NAC;Czech Republic;2001;7;5000.00
+NAC;Czech Republic;2002;1;5700.00
+NAC;Czech Republic;2002;7;5700.00
+NAC;Czech Republic;2003;1;6200.00
+NAC;Czech Republic;2003;7;6200.00
+NAC;Czech Republic;2004;1;6700.00
+NAC;Czech Republic;2004;7;6700.00
+NAC;Czech Republic;2005;1;7185.00
+NAC;Czech Republic;2005;7;7185.00
+NAC;Czech Republic;2006;1;7570.00
+NAC;Czech Republic;2006;7;7955.00
+NAC;Czech Republic;2007;1;8000.00
+NAC;Czech Republic;2007;7;8000.00
+NAC;Czech Republic;2008;1;8000.00
+NAC;Czech Republic;2008;7;8000.00
+NAC;Czech Republic;2009;1;8000.00
+NAC;Czech Republic;2009;7;8000.00
+NAC;Czech Republic;2010;1;8000.00
+NAC;Czech Republic;2010;7;8000.00
+NAC;Czech Republic;2011;1;8000.00
+NAC;Czech Republic;2011;7;8000.00
+NAC;Czech Republic;2012;1;8000.00
+NAC;Czech Republic;2012;7;8000.00
+NAC;Czech Republic;2013;1;8000.00
+NAC;Czech Republic;2013;7;8000.00
+NAC;Czech Republic;2014;1;8500.00
+NAC;Czech Republic;2014;7;8500.00
+NAC;Czech Republic;2015;1;9200.00
+NAC;Czech Republic;2015;7;9200.00
+NAC;Czech Republic;2016;1;9900.00
+NAC;Czech Republic;2016;7;9900.00
+NAC;Czech Republic;2017;1;11000.00
+NAC;Czech Republic;2017;7;11000.00
+NAC;Czech Republic;2018;1;12200.00
+NAC;Czech Republic;2018;7;12200.00
+NAC;Czech Republic;2019;1;13350.00
+NAC;Czech Republic;2019;7;13350.00
+NAC;Czech Republic;2020;1;14600.00
+NAC;Czech Republic;2020;7;14600.00
+NAC;Czech Republic;2021;1;15200.00
+NAC;Czech Republic;2021;7;15200.00
+NAC;Czech Republic;2022;1;16200.00
+NAC;Germany;1999;1;
+NAC;Germany;1999;7;
+NAC;Germany;2000;1;
+NAC;Germany;2000;7;
+NAC;Germany;2001;1;
+NAC;Germany;2001;7;
+NAC;Germany;2002;1;
+NAC;Germany;2002;7;
+NAC;Germany;2003;1;
+NAC;Germany;2003;7;
+NAC;Germany;2004;1;
+NAC;Germany;2004;7;
+NAC;Germany;2005;1;
+NAC;Germany;2005;7;
+NAC;Germany;2006;1;
+NAC;Germany;2006;7;
+NAC;Germany;2007;1;
+NAC;Germany;2007;7;
+NAC;Germany;2008;1;
+NAC;Germany;2008;7;
+NAC;Germany;2009;1;
+NAC;Germany;2009;7;
+NAC;Germany;2010;1;
+NAC;Germany;2010;7;
+NAC;Germany;2011;1;
+NAC;Germany;2011;7;
+NAC;Germany;2012;1;
+NAC;Germany;2012;7;
+NAC;Germany;2013;1;
+NAC;Germany;2013;7;
+NAC;Germany;2014;1;
+NAC;Germany;2014;7;
+NAC;Germany;2015;1;1444.00
+NAC;Germany;2015;7;1444.00
+NAC;Germany;2016;1;1444.00
+NAC;Germany;2016;7;1444.00
+NAC;Germany;2017;1;1506.00
+NAC;Germany;2017;7;1506.00
+NAC;Germany;2018;1;1506.00
+NAC;Germany;2018;7;1506.00
+NAC;Germany;2019;1;1561.00
+NAC;Germany;2019;7;1561.00
+NAC;Germany;2020;1;1544.00
+NAC;Germany;2020;7;1544.00
+NAC;Germany;2021;1;1569.00
+NAC;Germany;2021;7;1585.00
+NAC;Germany;2022;1;1621.00
+NAC;Denmark;1999;1;
+NAC;Denmark;1999;7;
+NAC;Denmark;2000;1;
+NAC;Denmark;2000;7;
+NAC;Denmark;2001;1;
+NAC;Denmark;2001;7;
+NAC;Denmark;2002;1;
+NAC;Denmark;2002;7;
+NAC;Denmark;2003;1;
+NAC;Denmark;2003;7;
+NAC;Denmark;2004;1;
+NAC;Denmark;2004;7;
+NAC;Denmark;2005;1;
+NAC;Denmark;2005;7;
+NAC;Denmark;2006;1;
+NAC;Denmark;2006;7;
+NAC;Denmark;2007;1;
+NAC;Denmark;2007;7;
+NAC;Denmark;2008;1;
+NAC;Denmark;2008;7;
+NAC;Denmark;2009;1;
+NAC;Denmark;2009;7;
+NAC;Denmark;2010;1;
+NAC;Denmark;2010;7;
+NAC;Denmark;2011;1;
+NAC;Denmark;2011;7;
+NAC;Denmark;2012;1;
+NAC;Denmark;2012;7;
+NAC;Denmark;2013;1;
+NAC;Denmark;2013;7;
+NAC;Denmark;2014;1;
+NAC;Denmark;2014;7;
+NAC;Denmark;2015;1;
+NAC;Denmark;2015;7;
+NAC;Denmark;2016;1;
+NAC;Denmark;2016;7;
+NAC;Denmark;2017;1;
+NAC;Denmark;2017;7;
+NAC;Denmark;2018;1;
+NAC;Denmark;2018;7;
+NAC;Denmark;2019;1;
+NAC;Denmark;2019;7;
+NAC;Denmark;2020;1;
+NAC;Denmark;2020;7;
+NAC;Denmark;2021;1;
+NAC;Denmark;2021;7;
+NAC;Estonia;1999;1;79.89
+NAC;Estonia;1999;7;79.89
+NAC;Estonia;2000;1;89.48
+NAC;Estonia;2000;7;89.48
+NAC;Estonia;2001;1;102.26
+NAC;Estonia;2001;7;102.26
+NAC;Estonia;2002;1;118.24
+NAC;Estonia;2002;7;118.24
+NAC;Estonia;2003;1;138.05
+NAC;Estonia;2003;7;138.05
+NAC;Estonia;2004;1;158.50
+NAC;Estonia;2004;7;158.50
+NAC;Estonia;2005;1;171.92
+NAC;Estonia;2005;7;171.92
+NAC;Estonia;2006;1;191.73
+NAC;Estonia;2006;7;191.73
+NAC;Estonia;2007;1;230.08
+NAC;Estonia;2007;7;230.08
+NAC;Estonia;2008;1;278.02
+NAC;Estonia;2008;7;278.02
+NAC;Estonia;2009;1;278.02
+NAC;Estonia;2009;7;278.02
+NAC;Estonia;2010;1;278.02
+NAC;Estonia;2010;7;278.02
+NAC;Estonia;2011;1;278.02
+NAC;Estonia;2011;7;278.02
+NAC;Estonia;2012;1;290.00
+NAC;Estonia;2012;7;290.00
+NAC;Estonia;2013;1;320.00
+NAC;Estonia;2013;7;320.00
+NAC;Estonia;2014;1;355.00
+NAC;Estonia;2014;7;355.00
+NAC;Estonia;2015;1;390.00
+NAC;Estonia;2015;7;390.00
+NAC;Estonia;2016;1;430.00
+NAC;Estonia;2016;7;430.00
+NAC;Estonia;2017;1;470.00
+NAC;Estonia;2017;7;470.00
+NAC;Estonia;2018;1;500.00
+NAC;Estonia;2018;7;500.00
+NAC;Estonia;2019;1;540.00
+NAC;Estonia;2019;7;540.00
+NAC;Estonia;2020;1;584.00
+NAC;Estonia;2020;7;584.00
+NAC;Estonia;2021;1;584.00
+NAC;Estonia;2021;7;584.00
+NAC;Estonia;2022;1;654.00
+NAC;Greece;1999;1;505.06
+NAC;Greece;1999;7;512.13
+NAC;Greece;2000;1;526.05
+NAC;Greece;2000;7;533.93
+NAC;Greece;2001;1;543.55
+NAC;Greece;2001;7;551.70
+NAC;Greece;2002;1;571.71
+NAC;Greece;2002;7;582.00
+NAC;Greece;2003;1;606.52
+NAC;Greece;2003;7;606.52
+NAC;Greece;2004;1;630.77
+NAC;Greece;2004;7;630.77
+NAC;Greece;2005;1;667.68
+NAC;Greece;2005;7;667.68
+NAC;Greece;2006;1;709.71
+NAC;Greece;2006;7;709.71
+NAC;Greece;2007;1;730.30
+NAC;Greece;2007;7;767.55
+NAC;Greece;2008;1;794.02
+NAC;Greece;2008;7;794.02
+NAC;Greece;2009;1;817.83
+NAC;Greece;2009;7;862.82
+NAC;Greece;2010;1;862.82
+NAC;Greece;2010;7;862.82
+NAC;Greece;2011;1;862.82
+NAC;Greece;2011;7;876.62
+NAC;Greece;2012;1;876.62
+NAC;Greece;2012;7;683.76
+NAC;Greece;2013;1;683.76
+NAC;Greece;2013;7;683.76
+NAC;Greece;2014;1;683.76
+NAC;Greece;2014;7;683.76
+NAC;Greece;2015;1;683.76
+NAC;Greece;2015;7;683.76
+NAC;Greece;2016;1;683.76
+NAC;Greece;2016;7;683.76
+NAC;Greece;2017;1;683.76
+NAC;Greece;2017;7;683.76
+NAC;Greece;2018;1;683.76
+NAC;Greece;2018;7;683.76
+NAC;Greece;2019;1;683.76
+NAC;Greece;2019;7;758.33
+NAC;Greece;2020;1;758.33
+NAC;Greece;2020;7;758.33
+NAC;Greece;2021;1;758.33
+NAC;Greece;2021;7;758.33
+NAC;Greece;2022;1;773.50
+NAC;Spain;1999;1;485.71
+NAC;Spain;1999;7;485.71
+NAC;Spain;2000;1;495.60
+NAC;Spain;2000;7;495.60
+NAC;Spain;2001;1;505.69
+NAC;Spain;2001;7;505.69
+NAC;Spain;2002;1;515.90
+NAC;Spain;2002;7;515.90
+NAC;Spain;2003;1;526.40
+NAC;Spain;2003;7;526.40
+NAC;Spain;2004;1;537.25
+NAC;Spain;2004;7;572.60
+NAC;Spain;2005;1;598.50
+NAC;Spain;2005;7;598.50
+NAC;Spain;2006;1;631.05
+NAC;Spain;2006;7;631.05
+NAC;Spain;2007;1;665.70
+NAC;Spain;2007;7;665.70
+NAC;Spain;2008;1;700.00
+NAC;Spain;2008;7;700.00
+NAC;Spain;2009;1;728.00
+NAC;Spain;2009;7;728.00
+NAC;Spain;2010;1;738.85
+NAC;Spain;2010;7;738.85
+NAC;Spain;2011;1;748.30
+NAC;Spain;2011;7;748.30
+NAC;Spain;2012;1;748.30
+NAC;Spain;2012;7;748.30
+NAC;Spain;2013;1;752.85
+NAC;Spain;2013;7;752.85
+NAC;Spain;2014;1;752.85
+NAC;Spain;2014;7;752.85
+NAC;Spain;2015;1;756.70
+NAC;Spain;2015;7;756.70
+NAC;Spain;2016;1;764.40
+NAC;Spain;2016;7;764.40
+NAC;Spain;2017;1;825.65
+NAC;Spain;2017;7;825.65
+NAC;Spain;2018;1;858.55
+NAC;Spain;2018;7;858.55
+NAC;Spain;2019;1;1050.00
+NAC;Spain;2019;7;1050.00
+NAC;Spain;2020;1;1108.33
+NAC;Spain;2020;7;1108.33
+NAC;Spain;2021;1;1108.33
+NAC;Spain;2021;7;1108.33
+NAC;Spain;2022;1;1125.83
+NAC;Finland;1999;1;
+NAC;Finland;1999;7;
+NAC;Finland;2000;1;
+NAC;Finland;2000;7;
+NAC;Finland;2001;1;
+NAC;Finland;2001;7;
+NAC;Finland;2002;1;
+NAC;Finland;2002;7;
+NAC;Finland;2003;1;
+NAC;Finland;2003;7;
+NAC;Finland;2004;1;
+NAC;Finland;2004;7;
+NAC;Finland;2005;1;
+NAC;Finland;2005;7;
+NAC;Finland;2006;1;
+NAC;Finland;2006;7;
+NAC;Finland;2007;1;
+NAC;Finland;2007;7;
+NAC;Finland;2008;1;
+NAC;Finland;2008;7;
+NAC;Finland;2009;1;
+NAC;Finland;2009;7;
+NAC;Finland;2010;1;
+NAC;Finland;2010;7;
+NAC;Finland;2011;1;
+NAC;Finland;2011;7;
+NAC;Finland;2012;1;
+NAC;Finland;2012;7;
+NAC;Finland;2013;1;
+NAC;Finland;2013;7;
+NAC;Finland;2014;1;
+NAC;Finland;2014;7;
+NAC;Finland;2015;1;
+NAC;Finland;2015;7;
+NAC;Finland;2016;1;
+NAC;Finland;2016;7;
+NAC;Finland;2017;1;
+NAC;Finland;2017;7;
+NAC;Finland;2018;1;
+NAC;Finland;2018;7;
+NAC;Finland;2019;1;
+NAC;Finland;2019;7;
+NAC;Finland;2020;1;
+NAC;Finland;2020;7;
+NAC;Finland;2021;1;
+NAC;Finland;2021;7;
+NAC;France;1999;1;1035.97
+NAC;France;1999;7;1049.49
+NAC;France;2000;1;1049.49
+NAC;France;2000;7;1083.29
+NAC;France;2001;1;1083.29
+NAC;France;2001;7;1127.23
+NAC;France;2002;1;1127.23
+NAC;France;2002;7;1154.27
+NAC;France;2003;1;1154.27
+NAC;France;2003;7;1215.11
+NAC;France;2004;1;1215.11
+NAC;France;2004;7;1286.09
+NAC;France;2005;1;1286.09
+NAC;France;2005;7;1217.88
+NAC;France;2006;1;1217.88
+NAC;France;2006;7;1254.28
+NAC;France;2007;1;1254.28
+NAC;France;2007;7;1280.07
+NAC;France;2008;1;1280.07
+NAC;France;2008;7;1321.02
+NAC;France;2009;1;1321.02
+NAC;France;2009;7;1337.70
+NAC;France;2010;1;1343.77
+NAC;France;2010;7;1343.77
+NAC;France;2011;1;1365.00
+NAC;France;2011;7;1365.00
+NAC;France;2012;1;1398.37
+NAC;France;2012;7;1425.67
+NAC;France;2013;1;1430.22
+NAC;France;2013;7;1430.22
+NAC;France;2014;1;1445.38
+NAC;France;2014;7;1445.38
+NAC;France;2015;1;1457.52
+NAC;France;2015;7;1457.52
+NAC;France;2016;1;1466.62
+NAC;France;2016;7;1466.62
+NAC;France;2017;1;1480.27
+NAC;France;2017;7;1480.27
+NAC;France;2018;1;1498.47
+NAC;France;2018;7;1498.47
+NAC;France;2019;1;1521.22
+NAC;France;2019;7;1521.22
+NAC;France;2020;1;1539.42
+NAC;France;2020;7;1539.42
+NAC;France;2021;1;1554.58
+NAC;France;2021;7;1554.58
+NAC;France;2022;1;1603.12
+NAC;Croatia;1999;1;
+NAC;Croatia;1999;7;
+NAC;Croatia;2000;1;
+NAC;Croatia;2000;7;
+NAC;Croatia;2001;1;
+NAC;Croatia;2001;7;
+NAC;Croatia;2002;1;
+NAC;Croatia;2002;7;
+NAC;Croatia;2003;1;
+NAC;Croatia;2003;7;
+NAC;Croatia;2004;1;
+NAC;Croatia;2004;7;
+NAC;Croatia;2005;1;
+NAC;Croatia;2005;7;
+NAC;Croatia;2006;1;
+NAC;Croatia;2006;7;
+NAC;Croatia;2007;1;
+NAC;Croatia;2007;7;
+NAC;Croatia;2008;1;
+NAC;Croatia;2008;7;2747.00
+NAC;Croatia;2009;1;2747.00
+NAC;Croatia;2009;7;2814.00
+NAC;Croatia;2010;1;2814.00
+NAC;Croatia;2010;7;2814.00
+NAC;Croatia;2011;1;2814.00
+NAC;Croatia;2011;7;2814.00
+NAC;Croatia;2012;1;2814.00
+NAC;Croatia;2012;7;2814.00
+NAC;Croatia;2013;1;2814.00
+NAC;Croatia;2013;7;2984.78
+NAC;Croatia;2014;1;3017.61
+NAC;Croatia;2014;7;3017.61
+NAC;Croatia;2015;1;3029.55
+NAC;Croatia;2015;7;3029.55
+NAC;Croatia;2016;1;3120.00
+NAC;Croatia;2016;7;3120.00
+NAC;Croatia;2017;1;3276.00
+NAC;Croatia;2017;7;3276.00
+NAC;Croatia;2018;1;3439.80
+NAC;Croatia;2018;7;3439.80
+NAC;Croatia;2019;1;3750.00
+NAC;Croatia;2019;7;3750.00
+NAC;Croatia;2020;1;4062.51
+NAC;Croatia;2020;7;4062.51
+NAC;Croatia;2021;1;4250.00
+NAC;Croatia;2021;7;4250.00
+NAC;Croatia;2022;1;4687.50
+NAC;Hungary;1999;1;22500.00
+NAC;Hungary;1999;7;22500.00
+NAC;Hungary;2000;1;25500.00
+NAC;Hungary;2000;7;25500.00
+NAC;Hungary;2001;1;40000.00
+NAC;Hungary;2001;7;40000.00
+NAC;Hungary;2002;1;50000.00
+NAC;Hungary;2002;7;50000.00
+NAC;Hungary;2003;1;50000.00
+NAC;Hungary;2003;7;50000.00
+NAC;Hungary;2004;1;53000.00
+NAC;Hungary;2004;7;53000.00
+NAC;Hungary;2005;1;57000.00
+NAC;Hungary;2005;7;57000.00
+NAC;Hungary;2006;1;62500.00
+NAC;Hungary;2006;7;62500.00
+NAC;Hungary;2007;1;65500.00
+NAC;Hungary;2007;7;65500.00
+NAC;Hungary;2008;1;69000.00
+NAC;Hungary;2008;7;69000.00
+NAC;Hungary;2009;1;71500.00
+NAC;Hungary;2009;7;71500.00
+NAC;Hungary;2010;1;73500.00
+NAC;Hungary;2010;7;73500.00
+NAC;Hungary;2011;1;78000.00
+NAC;Hungary;2011;7;78000.00
+NAC;Hungary;2012;1;93000.00
+NAC;Hungary;2012;7;93000.00
+NAC;Hungary;2013;1;98000.00
+NAC;Hungary;2013;7;98000.00
+NAC;Hungary;2014;1;101500.00
+NAC;Hungary;2014;7;101500.00
+NAC;Hungary;2015;1;105000.00
+NAC;Hungary;2015;7;105000.00
+NAC;Hungary;2016;1;111000.00
+NAC;Hungary;2016;7;111000.00
+NAC;Hungary;2017;1;127500.00
+NAC;Hungary;2017;7;127500.00
+NAC;Hungary;2018;1;138000.00
+NAC;Hungary;2018;7;138000.00
+NAC;Hungary;2019;1;149000.00
+NAC;Hungary;2019;7;149000.00
+NAC;Hungary;2020;1;161000.00
+NAC;Hungary;2020;7;161000.00
+NAC;Hungary;2021;1;161000.00
+NAC;Hungary;2021;7;167400.00
+NAC;Hungary;2022;1;200000.00
+NAC;Ireland;1999;1;
+NAC;Ireland;1999;7;
+NAC;Ireland;2000;1;
+NAC;Ireland;2000;7;944.71
+NAC;Ireland;2001;1;944.71
+NAC;Ireland;2001;7;1008.93
+NAC;Ireland;2002;1;1008.93
+NAC;Ireland;2002;7;1008.93
+NAC;Ireland;2003;1;1073.15
+NAC;Ireland;2003;7;1073.15
+NAC;Ireland;2004;1;1073.15
+NAC;Ireland;2004;7;1183.00
+NAC;Ireland;2005;1;1183.00
+NAC;Ireland;2005;7;1292.85
+NAC;Ireland;2006;1;1292.85
+NAC;Ireland;2006;7;1292.85
+NAC;Ireland;2007;1;1402.70
+NAC;Ireland;2007;7;1461.85
+NAC;Ireland;2008;1;1461.85
+NAC;Ireland;2008;7;1461.85
+NAC;Ireland;2009;1;1461.85
+NAC;Ireland;2009;7;1461.85
+NAC;Ireland;2010;1;1461.85
+NAC;Ireland;2010;7;1461.85
+NAC;Ireland;2011;1;1461.85
+NAC;Ireland;2011;7;1461.85
+NAC;Ireland;2012;1;1461.85
+NAC;Ireland;2012;7;1461.85
+NAC;Ireland;2013;1;1461.85
+NAC;Ireland;2013;7;1461.85
+NAC;Ireland;2014;1;1461.85
+NAC;Ireland;2014;7;1461.85
+NAC;Ireland;2015;1;1461.85
+NAC;Ireland;2015;7;1461.85
+NAC;Ireland;2016;1;1546.35
+NAC;Ireland;2016;7;1546.35
+NAC;Ireland;2017;1;1563.25
+NAC;Ireland;2017;7;1563.25
+NAC;Ireland;2018;1;1613.95
+NAC;Ireland;2018;7;1613.95
+NAC;Ireland;2019;1;1656.20
+NAC;Ireland;2019;7;1656.20
+NAC;Ireland;2020;1;1656.20
+NAC;Ireland;2020;7;1706.90
+NAC;Ireland;2021;1;1723.80
+NAC;Ireland;2021;7;1723.80
+NAC;Ireland;2022;1;1774.50
+NAC;Iceland;1999;1;
+NAC;Iceland;1999;7;
+NAC;Iceland;2000;1;
+NAC;Iceland;2000;7;
+NAC;Iceland;2001;1;
+NAC;Iceland;2001;7;
+NAC;Iceland;2002;1;
+NAC;Iceland;2002;7;
+NAC;Iceland;2003;1;
+NAC;Iceland;2003;7;
+NAC;Iceland;2004;1;
+NAC;Iceland;2004;7;
+NAC;Iceland;2005;1;
+NAC;Iceland;2005;7;
+NAC;Iceland;2006;1;
+NAC;Iceland;2006;7;
+NAC;Iceland;2007;1;
+NAC;Iceland;2007;7;
+NAC;Iceland;2008;1;
+NAC;Iceland;2008;7;
+NAC;Iceland;2009;1;
+NAC;Iceland;2009;7;
+NAC;Iceland;2010;1;
+NAC;Iceland;2010;7;
+NAC;Iceland;2011;1;
+NAC;Iceland;2011;7;
+NAC;Iceland;2012;1;
+NAC;Iceland;2012;7;
+NAC;Iceland;2013;1;
+NAC;Iceland;2013;7;
+NAC;Iceland;2014;1;
+NAC;Iceland;2014;7;
+NAC;Iceland;2015;1;
+NAC;Iceland;2015;7;
+NAC;Iceland;2016;1;
+NAC;Iceland;2016;7;
+NAC;Iceland;2017;1;
+NAC;Iceland;2017;7;
+NAC;Iceland;2018;1;
+NAC;Iceland;2018;7;
+NAC;Iceland;2019;1;
+NAC;Iceland;2019;7;
+NAC;Iceland;2020;1;
+NAC;Iceland;2020;7;
+NAC;Iceland;2021;1;
+NAC;Iceland;2021;7;
+NAC;Italy;1999;1;
+NAC;Italy;1999;7;
+NAC;Italy;2000;1;
+NAC;Italy;2000;7;
+NAC;Italy;2001;1;
+NAC;Italy;2001;7;
+NAC;Italy;2002;1;
+NAC;Italy;2002;7;
+NAC;Italy;2003;1;
+NAC;Italy;2003;7;
+NAC;Italy;2004;1;
+NAC;Italy;2004;7;
+NAC;Italy;2005;1;
+NAC;Italy;2005;7;
+NAC;Italy;2006;1;
+NAC;Italy;2006;7;
+NAC;Italy;2007;1;
+NAC;Italy;2007;7;
+NAC;Italy;2008;1;
+NAC;Italy;2008;7;
+NAC;Italy;2009;1;
+NAC;Italy;2009;7;
+NAC;Italy;2010;1;
+NAC;Italy;2010;7;
+NAC;Italy;2011;1;
+NAC;Italy;2011;7;
+NAC;Italy;2012;1;
+NAC;Italy;2012;7;
+NAC;Italy;2013;1;
+NAC;Italy;2013;7;
+NAC;Italy;2014;1;
+NAC;Italy;2014;7;
+NAC;Italy;2015;1;
+NAC;Italy;2015;7;
+NAC;Italy;2016;1;
+NAC;Italy;2016;7;
+NAC;Italy;2017;1;
+NAC;Italy;2017;7;
+NAC;Italy;2018;1;
+NAC;Italy;2018;7;
+NAC;Italy;2019;1;
+NAC;Italy;2019;7;
+NAC;Italy;2020;1;
+NAC;Italy;2020;7;
+NAC;Italy;2021;1;
+NAC;Italy;2021;7;
+NAC;Lithuania;1999;1;124.54
+NAC;Lithuania;1999;7;124.54
+NAC;Lithuania;2000;1;124.54
+NAC;Lithuania;2000;7;124.54
+NAC;Lithuania;2001;1;124.54
+NAC;Lithuania;2001;7;124.54
+NAC;Lithuania;2002;1;124.54
+NAC;Lithuania;2002;7;124.54
+NAC;Lithuania;2003;1;124.54
+NAC;Lithuania;2003;7;124.54
+NAC;Lithuania;2004;1;130.33
+NAC;Lithuania;2004;7;144.81
+NAC;Lithuania;2005;1;144.81
+NAC;Lithuania;2005;7;159.29
+NAC;Lithuania;2006;1;159.29
+NAC;Lithuania;2006;7;173.77
+NAC;Lithuania;2007;1;173.77
+NAC;Lithuania;2007;7;202.73
+NAC;Lithuania;2008;1;231.70
+NAC;Lithuania;2008;7;231.70
+NAC;Lithuania;2009;1;231.70
+NAC;Lithuania;2009;7;231.70
+NAC;Lithuania;2010;1;231.70
+NAC;Lithuania;2010;7;231.70
+NAC;Lithuania;2011;1;231.70
+NAC;Lithuania;2011;7;231.70
+NAC;Lithuania;2012;1;231.70
+NAC;Lithuania;2012;7;231.70
+NAC;Lithuania;2013;1;289.62
+NAC;Lithuania;2013;7;289.62
+NAC;Lithuania;2014;1;289.62
+NAC;Lithuania;2014;7;289.62
+NAC;Lithuania;2015;1;300.00
+NAC;Lithuania;2015;7;325.00
+NAC;Lithuania;2016;1;350.00
+NAC;Lithuania;2016;7;380.00
+NAC;Lithuania;2017;1;380.00
+NAC;Lithuania;2017;7;380.00
+NAC;Lithuania;2018;1;400.00
+NAC;Lithuania;2018;7;400.00
+NAC;Lithuania;2019;1;555.00
+NAC;Lithuania;2019;7;555.00
+NAC;Lithuania;2020;1;607.00
+NAC;Lithuania;2020;7;607.00
+NAC;Lithuania;2021;1;642.00
+NAC;Lithuania;2021;7;642.00
+NAC;Lithuania;2022;1;730.00
+NAC;Luxembourg;1999;1;1162.08
+NAC;Luxembourg;1999;7;1162.08
+NAC;Luxembourg;2000;1;1191.13
+NAC;Luxembourg;2000;7;1220.88
+NAC;Luxembourg;2001;1;1258.75
+NAC;Luxembourg;2001;7;1290.21
+NAC;Luxembourg;2002;1;1290.21
+NAC;Luxembourg;2002;7;1322.47
+NAC;Luxembourg;2003;1;1368.74
+NAC;Luxembourg;2003;7;1368.74
+NAC;Luxembourg;2004;1;1402.96
+NAC;Luxembourg;2004;7;1402.96
+NAC;Luxembourg;2005;1;1466.77
+NAC;Luxembourg;2005;7;1466.77
+NAC;Luxembourg;2006;1;1503.42
+NAC;Luxembourg;2006;7;1503.42
+NAC;Luxembourg;2007;1;1570.28
+NAC;Luxembourg;2007;7;1570.28
+NAC;Luxembourg;2008;1;1570.28
+NAC;Luxembourg;2008;7;1609.53
+NAC;Luxembourg;2009;1;1641.74
+NAC;Luxembourg;2009;7;1682.76
+NAC;Luxembourg;2010;1;1682.76
+NAC;Luxembourg;2010;7;1724.81
+NAC;Luxembourg;2011;1;1757.56
+NAC;Luxembourg;2011;7;1757.56
+NAC;Luxembourg;2012;1;1801.49
+NAC;Luxembourg;2012;7;1801.49
+NAC;Luxembourg;2013;1;1874.19
+NAC;Luxembourg;2013;7;1874.19
+NAC;Luxembourg;2014;1;1921.03
+NAC;Luxembourg;2014;7;1921.03
+NAC;Luxembourg;2015;1;1922.96
+NAC;Luxembourg;2015;7;1922.96
+NAC;Luxembourg;2016;1;1922.96
+NAC;Luxembourg;2016;7;1922.96
+NAC;Luxembourg;2017;1;1998.59
+NAC;Luxembourg;2017;7;1998.59
+NAC;Luxembourg;2018;1;1998.59
+NAC;Luxembourg;2018;7;1998.59
+NAC;Luxembourg;2019;1;2089.75
+NAC;Luxembourg;2019;7;2089.75
+NAC;Luxembourg;2020;1;2141.99
+NAC;Luxembourg;2020;7;2141.99
+NAC;Luxembourg;2021;1;2201.93
+NAC;Luxembourg;2021;7;2201.93
+NAC;Luxembourg;2022;1;2256.95
+NAC;Latvia;1999;1;71.14
+NAC;Latvia;1999;7;71.14
+NAC;Latvia;2000;1;71.14
+NAC;Latvia;2000;7;71.14
+NAC;Latvia;2001;1;71.14
+NAC;Latvia;2001;7;85.37
+NAC;Latvia;2002;1;85.37
+NAC;Latvia;2002;7;85.37
+NAC;Latvia;2003;1;99.60
+NAC;Latvia;2003;7;99.60
+NAC;Latvia;2004;1;113.83
+NAC;Latvia;2004;7;113.83
+NAC;Latvia;2005;1;113.83
+NAC;Latvia;2005;7;113.83
+NAC;Latvia;2006;1;128.06
+NAC;Latvia;2006;7;128.06
+NAC;Latvia;2007;1;170.74
+NAC;Latvia;2007;7;170.74
+NAC;Latvia;2008;1;227.66
+NAC;Latvia;2008;7;227.66
+NAC;Latvia;2009;1;256.12
+NAC;Latvia;2009;7;256.12
+NAC;Latvia;2010;1;256.12
+NAC;Latvia;2010;7;256.12
+NAC;Latvia;2011;1;284.57
+NAC;Latvia;2011;7;284.57
+NAC;Latvia;2012;1;284.57
+NAC;Latvia;2012;7;284.57
+NAC;Latvia;2013;1;284.57
+NAC;Latvia;2013;7;284.57
+NAC;Latvia;2014;1;320.00
+NAC;Latvia;2014;7;320.00
+NAC;Latvia;2015;1;360.00
+NAC;Latvia;2015;7;360.00
+NAC;Latvia;2016;1;370.00
+NAC;Latvia;2016;7;370.00
+NAC;Latvia;2017;1;380.00
+NAC;Latvia;2017;7;380.00
+NAC;Latvia;2018;1;430.00
+NAC;Latvia;2018;7;430.00
+NAC;Latvia;2019;1;430.00
+NAC;Latvia;2019;7;430.00
+NAC;Latvia;2020;1;430.00
+NAC;Latvia;2020;7;430.00
+NAC;Latvia;2021;1;500.00
+NAC;Latvia;2021;7;500.00
+NAC;Latvia;2022;1;500.00
+NAC;Montenegro;2013;7;288.05
+NAC;Montenegro;2014;1;288.05
+NAC;Montenegro;2014;7;288.05
+NAC;Montenegro;2015;1;288.05
+NAC;Montenegro;2015;7;288.05
+NAC;Montenegro;2016;1;288.05
+NAC;Montenegro;2016;7;288.05
+NAC;Montenegro;2017;1;288.05
+NAC;Montenegro;2017;7;288.05
+NAC;Montenegro;2018;1;288.05
+NAC;Montenegro;2018;7;288.05
+NAC;Montenegro;2019;1;288.05
+NAC;Montenegro;2019;7;331.33
+NAC;Montenegro;2020;1;331.33
+NAC;Montenegro;2020;7;331.33
+NAC;Montenegro;2021;1;331.33
+NAC;Montenegro;2021;7;331.33
+NAC;Montenegro;2022;1;532.54
+NAC;North Macedonia;1999;1;
+NAC;North Macedonia;1999;7;
+NAC;North Macedonia;2000;1;
+NAC;North Macedonia;2000;7;
+NAC;North Macedonia;2001;1;
+NAC;North Macedonia;2001;7;
+NAC;North Macedonia;2002;1;
+NAC;North Macedonia;2002;7;
+NAC;North Macedonia;2003;1;
+NAC;North Macedonia;2003;7;
+NAC;North Macedonia;2004;1;
+NAC;North Macedonia;2004;7;
+NAC;North Macedonia;2005;1;
+NAC;North Macedonia;2005;7;
+NAC;North Macedonia;2006;1;
+NAC;North Macedonia;2006;7;
+NAC;North Macedonia;2007;1;
+NAC;North Macedonia;2007;7;
+NAC;North Macedonia;2008;1;
+NAC;North Macedonia;2008;7;
+NAC;North Macedonia;2009;1;
+NAC;North Macedonia;2009;7;
+NAC;North Macedonia;2010;1;
+NAC;North Macedonia;2010;7;
+NAC;North Macedonia;2011;1;
+NAC;North Macedonia;2011;7;
+NAC;North Macedonia;2013;1;12268.00
+NAC;North Macedonia;2013;7;12268.00
+NAC;North Macedonia;2014;1;13140.00
+NAC;North Macedonia;2014;7;13140.00
+NAC;North Macedonia;2015;1;13140.00
+NAC;North Macedonia;2015;7;13986.00
+NAC;North Macedonia;2016;1;13986.00
+NAC;North Macedonia;2016;7;14563.00
+NAC;North Macedonia;2017;1;14810.00
+NAC;North Macedonia;2017;7;17130.00
+NAC;North Macedonia;2018;1;17131.00
+NAC;North Macedonia;2018;7;17370.00
+NAC;North Macedonia;2019;1;20997.00
+NAC;North Macedonia;2019;7;20997.00
+NAC;North Macedonia;2020;1;21107.00
+NAC;North Macedonia;2020;7;21107.00
+NAC;North Macedonia;2021;1;21776.00
+NAC;North Macedonia;2021;7;22146.00
+NAC;Malta;1999;1;478.25
+NAC;Malta;1999;7;478.25
+NAC;Malta;2000;1;488.35
+NAC;Malta;2000;7;488.35
+NAC;Malta;2001;1;503.49
+NAC;Malta;2001;7;503.49
+NAC;Malta;2002;1;518.63
+NAC;Malta;2002;7;518.63
+NAC;Malta;2003;1;536.29
+NAC;Malta;2003;7;536.29
+NAC;Malta;2004;1;543.86
+NAC;Malta;2004;7;543.86
+NAC;Malta;2005;1;561.53
+NAC;Malta;2005;7;561.53
+NAC;Malta;2006;1;584.24
+NAC;Malta;2006;7;584.24
+NAC;Malta;2007;1;601.90
+NAC;Malta;2007;7;601.90
+NAC;Malta;2008;1;617.21
+NAC;Malta;2008;7;617.21
+NAC;Malta;2009;1;634.88
+NAC;Malta;2009;7;634.88
+NAC;Malta;2010;1;659.92
+NAC;Malta;2010;7;659.92
+NAC;Malta;2011;1;664.95
+NAC;Malta;2011;7;664.95
+NAC;Malta;2012;1;685.14
+NAC;Malta;2012;7;685.14
+NAC;Malta;2013;1;702.82
+NAC;Malta;2013;7;702.82
+NAC;Malta;2014;1;717.95
+NAC;Malta;2014;7;717.95
+NAC;Malta;2015;1;720.46
+NAC;Malta;2015;7;720.46
+NAC;Malta;2016;1;728.04
+NAC;Malta;2016;7;728.04
+NAC;Malta;2017;1;735.63
+NAC;Malta;2017;7;735.63
+NAC;Malta;2018;1;747.54
+NAC;Malta;2018;7;747.54
+NAC;Malta;2019;1;761.97
+NAC;Malta;2019;7;761.97
+NAC;Malta;2020;1;777.10
+NAC;Malta;2020;7;777.10
+NAC;Malta;2021;1;784.68
+NAC;Malta;2021;7;784.68
+NAC;Malta;2022;1;792.26
+NAC;Netherlands;1999;1;1064.20
+NAC;Netherlands;1999;7;1078.40
+NAC;Netherlands;2000;1;1092.00
+NAC;Netherlands;2000;7;1110.80
+NAC;Netherlands;2001;1;1154.50
+NAC;Netherlands;2001;7;1180.40
+NAC;Netherlands;2002;1;1206.60
+NAC;Netherlands;2002;7;1231.80
+NAC;Netherlands;2003;1;1249.20
+NAC;Netherlands;2003;7;1264.80
+NAC;Netherlands;2004;1;1264.80
+NAC;Netherlands;2004;7;1264.80
+NAC;Netherlands;2005;1;1264.80
+NAC;Netherlands;2005;7;1264.80
+NAC;Netherlands;2006;1;1272.60
+NAC;Netherlands;2006;7;1284.60
+NAC;Netherlands;2007;1;1300.80
+NAC;Netherlands;2007;7;1317.00
+NAC;Netherlands;2008;1;1335.00
+NAC;Netherlands;2008;7;1356.60
+NAC;Netherlands;2009;1;1381.20
+NAC;Netherlands;2009;7;1398.60
+NAC;Netherlands;2010;1;1407.60
+NAC;Netherlands;2010;7;1416.00
+NAC;Netherlands;2011;1;1424.40
+NAC;Netherlands;2011;7;1435.20
+NAC;Netherlands;2012;1;1446.60
+NAC;Netherlands;2012;7;1456.20
+NAC;Netherlands;2013;1;1469.40
+NAC;Netherlands;2013;7;1477.80
+NAC;Netherlands;2014;1;1485.60
+NAC;Netherlands;2014;7;1495.20
+NAC;Netherlands;2015;1;1501.80
+NAC;Netherlands;2015;7;1507.80
+NAC;Netherlands;2016;1;1524.60
+NAC;Netherlands;2016;7;1537.20
+NAC;Netherlands;2017;1;1551.60
+NAC;Netherlands;2017;7;1565.40
+NAC;Netherlands;2018;1;1578.00
+NAC;Netherlands;2018;7;1594.20
+NAC;Netherlands;2019;1;1615.80
+NAC;Netherlands;2019;7;1635.60
+NAC;Netherlands;2020;1;1653.60
+NAC;Netherlands;2020;7;1680.00
+NAC;Netherlands;2021;1;1684.80
+NAC;Netherlands;2021;7;1701.00
+NAC;Netherlands;2022;1;1725.00
+NAC;Norway;1999;1;
+NAC;Norway;1999;7;
+NAC;Norway;2000;1;
+NAC;Norway;2000;7;
+NAC;Norway;2001;1;
+NAC;Norway;2001;7;
+NAC;Norway;2002;1;
+NAC;Norway;2002;7;
+NAC;Norway;2003;1;
+NAC;Norway;2003;7;
+NAC;Norway;2004;1;
+NAC;Norway;2004;7;
+NAC;Norway;2005;1;
+NAC;Norway;2005;7;
+NAC;Norway;2006;1;
+NAC;Norway;2006;7;
+NAC;Norway;2007;1;
+NAC;Norway;2007;7;
+NAC;Norway;2008;1;
+NAC;Norway;2008;7;
+NAC;Norway;2009;1;
+NAC;Norway;2009;7;
+NAC;Norway;2010;1;
+NAC;Norway;2010;7;
+NAC;Norway;2011;1;
+NAC;Norway;2011;7;
+NAC;Norway;2012;1;
+NAC;Norway;2012;7;
+NAC;Norway;2013;1;
+NAC;Norway;2013;7;
+NAC;Norway;2014;1;
+NAC;Norway;2014;7;
+NAC;Norway;2015;1;
+NAC;Norway;2015;7;
+NAC;Norway;2016;1;
+NAC;Norway;2016;7;
+NAC;Norway;2017;1;
+NAC;Norway;2017;7;
+NAC;Norway;2018;1;
+NAC;Norway;2018;7;
+NAC;Norway;2019;1;
+NAC;Norway;2019;7;
+NAC;Norway;2020;1;
+NAC;Norway;2020;7;
+NAC;Norway;2021;1;
+NAC;Norway;2021;7;
+NAC;Poland;1999;1;650.00
+NAC;Poland;1999;7;650.00
+NAC;Poland;2000;1;670.00
+NAC;Poland;2000;7;700.00
+NAC;Poland;2001;1;760.00
+NAC;Poland;2001;7;760.00
+NAC;Poland;2002;1;760.00
+NAC;Poland;2002;7;760.00
+NAC;Poland;2003;1;800.00
+NAC;Poland;2003;7;800.00
+NAC;Poland;2004;1;824.00
+NAC;Poland;2004;7;824.00
+NAC;Poland;2005;1;849.00
+NAC;Poland;2005;7;849.00
+NAC;Poland;2006;1;899.00
+NAC;Poland;2006;7;899.00
+NAC;Poland;2007;1;936.00
+NAC;Poland;2007;7;936.00
+NAC;Poland;2008;1;1126.00
+NAC;Poland;2008;7;1126.00
+NAC;Poland;2009;1;1276.00
+NAC;Poland;2009;7;1276.00
+NAC;Poland;2010;1;1317.00
+NAC;Poland;2010;7;1317.00
+NAC;Poland;2011;1;1386.00
+NAC;Poland;2011;7;1386.00
+NAC;Poland;2012;1;1500.00
+NAC;Poland;2012;7;1500.00
+NAC;Poland;2013;1;1600.00
+NAC;Poland;2013;7;1600.00
+NAC;Poland;2014;1;1680.00
+NAC;Poland;2014;7;1680.00
+NAC;Poland;2015;1;1750.00
+NAC;Poland;2015;7;1750.00
+NAC;Poland;2016;1;1850.00
+NAC;Poland;2016;7;1850.00
+NAC;Poland;2017;1;2000.00
+NAC;Poland;2017;7;2000.00
+NAC;Poland;2018;1;2100.00
+NAC;Poland;2018;7;2100.00
+NAC;Poland;2019;1;2250.00
+NAC;Poland;2019;7;2250.00
+NAC;Poland;2020;1;2600.00
+NAC;Poland;2020;7;2600.00
+NAC;Poland;2021;1;2800.00
+NAC;Poland;2021;7;2800.00
+NAC;Poland;2022;1;3010.00
+NAC;Portugal;1999;1;356.72
+NAC;Portugal;1999;7;356.72
+NAC;Portugal;2000;1;371.27
+NAC;Portugal;2000;7;371.27
+NAC;Portugal;2001;1;389.89
+NAC;Portugal;2001;7;389.89
+NAC;Portugal;2002;1;406.01
+NAC;Portugal;2002;7;406.01
+NAC;Portugal;2003;1;416.03
+NAC;Portugal;2003;7;416.03
+NAC;Portugal;2004;1;425.95
+NAC;Portugal;2004;7;425.95
+NAC;Portugal;2005;1;437.15
+NAC;Portugal;2005;7;437.15
+NAC;Portugal;2006;1;449.98
+NAC;Portugal;2006;7;449.98
+NAC;Portugal;2007;1;470.17
+NAC;Portugal;2007;7;470.17
+NAC;Portugal;2008;1;497.00
+NAC;Portugal;2008;7;497.00
+NAC;Portugal;2009;1;525.00
+NAC;Portugal;2009;7;525.00
+NAC;Portugal;2010;1;554.17
+NAC;Portugal;2010;7;554.17
+NAC;Portugal;2011;1;565.83
+NAC;Portugal;2011;7;565.83
+NAC;Portugal;2012;1;565.83
+NAC;Portugal;2012;7;565.83
+NAC;Portugal;2013;1;565.83
+NAC;Portugal;2013;7;565.83
+NAC;Portugal;2014;1;565.83
+NAC;Portugal;2014;7;565.83
+NAC;Portugal;2015;1;589.17
+NAC;Portugal;2015;7;589.17
+NAC;Portugal;2016;1;618.33
+NAC;Portugal;2016;7;618.33
+NAC;Portugal;2017;1;649.83
+NAC;Portugal;2017;7;649.83
+NAC;Portugal;2018;1;676.67
+NAC;Portugal;2018;7;676.67
+NAC;Portugal;2019;1;700.00
+NAC;Portugal;2019;7;700.00
+NAC;Portugal;2020;1;740.83
+NAC;Portugal;2020;7;740.83
+NAC;Portugal;2021;1;775.83
+NAC;Portugal;2021;7;775.83
+NAC;Portugal;2022;1;822.50
+NAC;Romania;1999;1;35.00
+NAC;Romania;1999;7;45.00
+NAC;Romania;2000;1;45.00
+NAC;Romania;2000;7;70.00
+NAC;Romania;2001;1;100.00
+NAC;Romania;2001;7;140.00
+NAC;Romania;2002;1;140.00
+NAC;Romania;2002;7;175.00
+NAC;Romania;2003;1;250.00
+NAC;Romania;2003;7;250.00
+NAC;Romania;2004;1;280.00
+NAC;Romania;2004;7;280.00
+NAC;Romania;2005;1;310.00
+NAC;Romania;2005;7;310.00
+NAC;Romania;2006;1;330.00
+NAC;Romania;2006;7;330.00
+NAC;Romania;2007;1;390.00
+NAC;Romania;2007;7;390.00
+NAC;Romania;2008;1;500.00
+NAC;Romania;2008;7;500.00
+NAC;Romania;2009;1;600.00
+NAC;Romania;2009;7;600.00
+NAC;Romania;2010;1;600.00
+NAC;Romania;2010;7;600.00
+NAC;Romania;2011;1;670.00
+NAC;Romania;2011;7;670.00
+NAC;Romania;2012;1;700.00
+NAC;Romania;2012;7;700.00
+NAC;Romania;2013;1;700.00
+NAC;Romania;2013;7;800.00
+NAC;Romania;2014;1;850.00
+NAC;Romania;2014;7;900.00
+NAC;Romania;2015;1;975.00
+NAC;Romania;2015;7;1050.00
+NAC;Romania;2016;1;1050.00
+NAC;Romania;2016;7;1250.00
+NAC;Romania;2017;1;1250.00
+NAC;Romania;2017;7;1450.00
+NAC;Romania;2018;1;1900.00
+NAC;Romania;2018;7;1900.00
+NAC;Romania;2019;1;2080.00
+NAC;Romania;2019;7;2080.00
+NAC;Romania;2020;1;2230.00
+NAC;Romania;2020;7;2230.00
+NAC;Romania;2021;1;2230.00
+NAC;Romania;2021;7;2300.00
+NAC;Romania;2022;1;2550.00
+NAC;Serbia;1999;1;387.21
+NAC;Serbia;1999;7;387.21
+NAC;Serbia;2000;1;387.21
+NAC;Serbia;2000;7;471.38
+NAC;Serbia;2001;1;401.72
+NAC;Serbia;2001;7;2932.00
+NAC;Serbia;2002;1;4608.38
+NAC;Serbia;2002;7;5616.93
+NAC;Serbia;2003;1;6241.03
+NAC;Serbia;2003;7;6740.32
+NAC;Serbia;2004;1;7920.70
+NAC;Serbia;2004;7;8942.73
+NAC;Serbia;2005;1;9837.00
+NAC;Serbia;2005;7;10475.77
+NAC;Serbia;2006;1;11753.30
+NAC;Serbia;2006;7;12519.82
+NAC;Serbia;2007;1;12796.01
+NAC;Serbia;2007;7;14897.29
+NAC;Serbia;2008;1;16510.70
+NAC;Serbia;2008;7;18409.13
+NAC;Serbia;2009;1;20643.08
+NAC;Serbia;2009;7;20578.37
+NAC;Serbia;2010;1;21323.02
+NAC;Serbia;2010;7;21217.57
+NAC;Serbia;2011;1;22458.66
+NAC;Serbia;2011;7;24066.76
+NAC;Serbia;2012;1;24066.76
+NAC;Serbia;2012;7;27205.93
+NAC;Serbia;2013;1;27205.93
+NAC;Serbia;2013;7;26975.75
+NAC;Serbia;2014;1;26975.75
+NAC;Serbia;2014;7;26941.23
+NAC;Serbia;2015;1;28430.53
+NAC;Serbia;2015;7;28403.28
+NAC;Serbia;2016;1;28403.28
+NAC;Serbia;2016;7;28378.89
+NAC;Serbia;2017;1;30612.84
+NAC;Serbia;2017;7;30586.31
+NAC;Serbia;2018;1;33813.12
+NAC;Serbia;2018;7;33355.21
+NAC;Serbia;2019;1;36408.00
+NAC;Serbia;2019;7;36365.00
+NAC;Serbia;2020;1;40502.00
+NAC;Serbia;2020;7;40502.00
+NAC;Serbia;2021;1;43044.00
+NAC;Serbia;2021;7;43044.00
+NAC;Serbia;2022;1;47193.00
+NAC;Sweden;1999;1;
+NAC;Sweden;1999;7;
+NAC;Sweden;2000;1;
+NAC;Sweden;2000;7;
+NAC;Sweden;2001;1;
+NAC;Sweden;2001;7;
+NAC;Sweden;2002;1;
+NAC;Sweden;2002;7;
+NAC;Sweden;2003;1;
+NAC;Sweden;2003;7;
+NAC;Sweden;2004;1;
+NAC;Sweden;2004;7;
+NAC;Sweden;2005;1;
+NAC;Sweden;2005;7;
+NAC;Sweden;2006;1;
+NAC;Sweden;2006;7;
+NAC;Sweden;2007;1;
+NAC;Sweden;2007;7;
+NAC;Sweden;2008;1;
+NAC;Sweden;2008;7;
+NAC;Sweden;2009;1;
+NAC;Sweden;2009;7;
+NAC;Sweden;2010;1;
+NAC;Sweden;2010;7;
+NAC;Sweden;2011;1;
+NAC;Sweden;2011;7;
+NAC;Sweden;2012;1;
+NAC;Sweden;2012;7;
+NAC;Sweden;2013;1;
+NAC;Sweden;2013;7;
+NAC;Sweden;2014;1;
+NAC;Sweden;2014;7;
+NAC;Sweden;2015;1;
+NAC;Sweden;2015;7;
+NAC;Sweden;2016;1;
+NAC;Sweden;2016;7;
+NAC;Sweden;2017;1;
+NAC;Sweden;2017;7;
+NAC;Sweden;2018;1;
+NAC;Sweden;2018;7;
+NAC;Sweden;2019;1;
+NAC;Sweden;2019;7;
+NAC;Sweden;2020;1;
+NAC;Sweden;2020;7;
+NAC;Sweden;2021;1;
+NAC;Sweden;2021;7;
+NAC;Slovenia;1999;1;284.69
+NAC;Slovenia;1999;7;284.69
+NAC;Slovenia;2000;1;309.89
+NAC;Slovenia;2000;7;321.36
+NAC;Slovenia;2001;1;352.27
+NAC;Slovenia;2001;7;352.27
+NAC;Slovenia;2002;1;395.07
+NAC;Slovenia;2002;7;395.07
+NAC;Slovenia;2003;1;432.49
+NAC;Slovenia;2003;7;432.49
+NAC;Slovenia;2004;1;465.21
+NAC;Slovenia;2004;7;465.21
+NAC;Slovenia;2005;1;490.32
+NAC;Slovenia;2005;7;490.32
+NAC;Slovenia;2006;1;511.60
+NAC;Slovenia;2006;7;511.60
+NAC;Slovenia;2007;1;521.80
+NAC;Slovenia;2007;7;521.80
+NAC;Slovenia;2008;1;538.53
+NAC;Slovenia;2008;7;566.50
+NAC;Slovenia;2009;1;589.19
+NAC;Slovenia;2009;7;589.19
+NAC;Slovenia;2010;1;597.43
+NAC;Slovenia;2010;7;734.15
+NAC;Slovenia;2011;1;748.10
+NAC;Slovenia;2011;7;748.10
+NAC;Slovenia;2012;1;763.06
+NAC;Slovenia;2012;7;763.06
+NAC;Slovenia;2013;1;783.66
+NAC;Slovenia;2013;7;783.66
+NAC;Slovenia;2014;1;789.15
+NAC;Slovenia;2014;7;789.15
+NAC;Slovenia;2015;1;790.73
+NAC;Slovenia;2015;7;790.73
+NAC;Slovenia;2016;1;790.73
+NAC;Slovenia;2016;7;790.73
+NAC;Slovenia;2017;1;804.96
+NAC;Slovenia;2017;7;804.96
+NAC;Slovenia;2018;1;842.79
+NAC;Slovenia;2018;7;842.79
+NAC;Slovenia;2019;1;886.63
+NAC;Slovenia;2019;7;886.63
+NAC;Slovenia;2020;1;940.58
+NAC;Slovenia;2020;7;940.58
+NAC;Slovenia;2021;1;1024.24
+NAC;Slovenia;2021;7;1024.24
+NAC;Slovenia;2022;1;1074.43
+NAC;Slovak Republic;1999;1;99.58
+NAC;Slovak Republic;1999;7;119.50
+NAC;Slovak Republic;2000;1;132.78
+NAC;Slovak Republic;2000;7;132.78
+NAC;Slovak Republic;2001;1;146.05
+NAC;Slovak Republic;2001;7;146.05
+NAC;Slovak Republic;2002;1;163.31
+NAC;Slovak Republic;2002;7;163.31
+NAC;Slovak Republic;2003;1;184.89
+NAC;Slovak Republic;2003;7;184.89
+NAC;Slovak Republic;2004;1;201.82
+NAC;Slovak Republic;2004;7;201.82
+NAC;Slovak Republic;2005;1;215.76
+NAC;Slovak Republic;2005;7;215.76
+NAC;Slovak Republic;2006;1;229.04
+NAC;Slovak Republic;2006;7;229.04
+NAC;Slovak Republic;2007;1;252.27
+NAC;Slovak Republic;2007;7;252.27
+NAC;Slovak Republic;2008;1;268.87
+NAC;Slovak Republic;2008;7;268.87
+NAC;Slovak Republic;2009;1;295.50
+NAC;Slovak Republic;2009;7;295.50
+NAC;Slovak Republic;2010;1;307.70
+NAC;Slovak Republic;2010;7;307.70
+NAC;Slovak Republic;2011;1;317.00
+NAC;Slovak Republic;2011;7;317.00
+NAC;Slovak Republic;2012;1;327.00
+NAC;Slovak Republic;2012;7;327.00
+NAC;Slovak Republic;2013;1;337.70
+NAC;Slovak Republic;2013;7;337.70
+NAC;Slovak Republic;2014;1;352.00
+NAC;Slovak Republic;2014;7;352.00
+NAC;Slovak Republic;2015;1;380.00
+NAC;Slovak Republic;2015;7;380.00
+NAC;Slovak Republic;2016;1;405.00
+NAC;Slovak Republic;2016;7;405.00
+NAC;Slovak Republic;2017;1;435.00
+NAC;Slovak Republic;2017;7;435.00
+NAC;Slovak Republic;2018;1;480.00
+NAC;Slovak Republic;2018;7;480.00
+NAC;Slovak Republic;2019;1;520.00
+NAC;Slovak Republic;2019;7;520.00
+NAC;Slovak Republic;2020;1;580.00
+NAC;Slovak Republic;2020;7;580.00
+NAC;Slovak Republic;2021;1;623.00
+NAC;Slovak Republic;2021;7;623.00
+NAC;Slovak Republic;2022;1;646.00
+NAC;Turkey;1999;1;78.08
+NAC;Turkey;1999;7;93.60
+NAC;Turkey;2000;1;109.80
+NAC;Turkey;2000;7;118.80
+NAC;Turkey;2001;1;139.95
+NAC;Turkey;2001;7;167.90
+NAC;Turkey;2002;1;222.00
+NAC;Turkey;2002;7;250.88
+NAC;Turkey;2003;1;306.00
+NAC;Turkey;2003;7;306.00
+NAC;Turkey;2004;1;423.00
+NAC;Turkey;2004;7;444.15
+NAC;Turkey;2005;1;488.70
+NAC;Turkey;2005;7;488.70
+NAC;Turkey;2006;1;531.00
+NAC;Turkey;2006;7;531.00
+NAC;Turkey;2007;1;562.50
+NAC;Turkey;2007;7;585.00
+NAC;Turkey;2008;1;608.40
+NAC;Turkey;2008;7;638.70
+NAC;Turkey;2009;1;666.00
+NAC;Turkey;2009;7;693.40
+NAC;Turkey;2010;1;729.00
+NAC;Turkey;2010;7;760.50
+NAC;Turkey;2011;1;796.50
+NAC;Turkey;2011;7;837.00
+NAC;Turkey;2012;1;886.50
+NAC;Turkey;2012;7;940.50
+NAC;Turkey;2013;1;978.60
+NAC;Turkey;2013;7;1021.50
+NAC;Turkey;2014;1;1071.00
+NAC;Turkey;2014;7;1134.00
+NAC;Turkey;2015;1;1201.50
+NAC;Turkey;2015;7;1273.50
+NAC;Turkey;2016;1;1647.00
+NAC;Turkey;2016;7;1647.00
+NAC;Turkey;2017;1;1777.50
+NAC;Turkey;2017;7;1777.50
+NAC;Turkey;2018;1;2029.50
+NAC;Turkey;2018;7;2029.50
+NAC;Turkey;2019;1;2558.40
+NAC;Turkey;2019;7;2558.40
+NAC;Turkey;2020;1;2943.00
+NAC;Turkey;2020;7;2943.00
+NAC;Turkey;2021;1;3577.50
+NAC;Turkey;2021;7;3577.50
+NAC;Turkey;2022;1;5004.00
+NAC;United Kingdom;1999;1;
+NAC;United Kingdom;1999;7;592.00
+NAC;United Kingdom;2000;1;592.00
+NAC;United Kingdom;2000;7;592.00
+NAC;United Kingdom;2001;1;610.00
+NAC;United Kingdom;2001;7;610.00
+NAC;United Kingdom;2002;1;675.00
+NAC;United Kingdom;2002;7;675.00
+NAC;United Kingdom;2003;1;692.00
+NAC;United Kingdom;2003;7;692.00
+NAC;United Kingdom;2004;1;743.00
+NAC;United Kingdom;2004;7;743.00
+NAC;United Kingdom;2005;1;800.00
+NAC;United Kingdom;2005;7;800.00
+NAC;United Kingdom;2006;1;831.00
+NAC;United Kingdom;2006;7;831.00
+NAC;United Kingdom;2007;1;883.00
+NAC;United Kingdom;2007;7;883.00
+NAC;United Kingdom;2008;1;911.00
+NAC;United Kingdom;2008;7;911.00
+NAC;United Kingdom;2009;1;948.00
+NAC;United Kingdom;2009;7;948.00
+NAC;United Kingdom;2010;1;956.00
+NAC;United Kingdom;2010;7;956.00
+NAC;United Kingdom;2011;1;978.00
+NAC;United Kingdom;2011;7;978.00
+NAC;United Kingdom;2012;1;1004.00
+NAC;United Kingdom;2012;7;1004.00
+NAC;United Kingdom;2013;1;1020.00
+NAC;United Kingdom;2013;7;1020.00
+NAC;United Kingdom;2014;1;1043.00
+NAC;United Kingdom;2014;7;1043.00
+NAC;United Kingdom;2015;1;1074.00
+NAC;United Kingdom;2015;7;1074.00
+NAC;United Kingdom;2016;1;1110.00
+NAC;United Kingdom;2016;7;1193.00
+NAC;United Kingdom;2017;1;1193.00
+NAC;United Kingdom;2017;7;1243.00
+NAC;United Kingdom;2018;1;1242.00
+NAC;United Kingdom;2018;7;1300.00
+NAC;United Kingdom;2019;1;1300.00
+NAC;United Kingdom;2019;7;1360.16
+NAC;United Kingdom;2020;1;1360.16
+NAC;United Kingdom;2020;7;1444.66
+NAC;United States;1999;1;892.67
+NAC;United States;1999;7;892.67
+NAC;United States;2000;1;892.67
+NAC;United States;2000;7;892.67
+NAC;United States;2001;1;892.67
+NAC;United States;2001;7;892.67
+NAC;United States;2002;1;892.67
+NAC;United States;2002;7;892.67
+NAC;United States;2003;1;892.67
+NAC;United States;2003;7;892.67
+NAC;United States;2004;1;892.67
+NAC;United States;2004;7;892.67
+NAC;United States;2005;1;892.67
+NAC;United States;2005;7;892.67
+NAC;United States;2006;1;892.67
+NAC;United States;2006;7;892.67
+NAC;United States;2007;1;892.67
+NAC;United States;2007;7;892.67
+NAC;United States;2008;1;1014.00
+NAC;United States;2008;7;1014.00
+NAC;United States;2009;1;1135.33
+NAC;United States;2009;7;1135.33
+NAC;United States;2010;1;1256.67
+NAC;United States;2010;7;1256.67
+NAC;United States;2011;1;1256.67
+NAC;United States;2011;7;1256.67
+NAC;United States;2012;1;1256.67
+NAC;United States;2012;7;1256.67
+NAC;United States;2013;1;1256.67
+NAC;United States;2013;7;1256.67
+NAC;United States;2014;1;1256.67
+NAC;United States;2014;7;1256.67
+NAC;United States;2015;1;1256.67
+NAC;United States;2015;7;1256.67
+NAC;United States;2016;1;1256.67
+NAC;United States;2016;7;1256.67
+NAC;United States;2017;1;1256.67
+NAC;United States;2017;7;1256.67
+NAC;United States;2018;1;1256.67
+NAC;United States;2018;7;1256.67
+NAC;United States;2019;1;1256.67
+NAC;United States;2019;7;1256.67
+NAC;United States;2020;1;1256.67
+NAC;United States;2020;7;1256.67
+NAC;United States;2021;1;1256.67
+NAC;United States;2021;7;1256.67
+NAC;United States;2022;1;1256.67
+PPS;Albania;1999;1;84.65
+PPS;Albania;1999;7;93.11
+PPS;Albania;2000;1;94.29
+PPS;Albania;2000;7;103.46
+PPS;Albania;2001;1;102.97
+PPS;Albania;2001;7;111.50
+PPS;Albania;2002;1;110.24
+PPS;Albania;2002;7;136.71
+PPS;Albania;2003;1;137.98
+PPS;Albania;2003;7;147.67
+PPS;Albania;2004;1;149.15
+PPS;Albania;2004;7;160.12
+PPS;Albania;2005;1;161.09
+PPS;Albania;2005;7;176.00
+PPS;Albania;2006;1;173.11
+PPS;Albania;2006;7;205.38
+PPS;Albania;2007;1;203.41
+PPS;Albania;2007;7;203.41
+PPS;Albania;2008;1;229.60
+PPS;Albania;2008;7;243.95
+PPS;Albania;2009;1;237.06
+PPS;Albania;2009;7;251.00
+PPS;Albania;2010;1;254.74
+PPS;Albania;2010;7;268.90
+PPS;Albania;2011;1;270.76
+PPS;Albania;2011;7;285.01
+PPS;Albania;2012;1;294.25
+PPS;Albania;2012;7;308.96
+PPS;Albania;2013;1;301.85
+PPS;Albania;2013;7;316.23
+PPS;Albania;2014;1;313.43
+PPS;Albania;2014;7;313.43
+PPS;Albania;2015;1;325.91
+PPS;Albania;2015;7;325.91
+PPS;Albania;2016;1;313.28
+PPS;Albania;2016;7;313.28
+PPS;Albania;2017;1;312.67
+PPS;Albania;2017;7;341.10
+PPS;Albania;2018;1;336.47
+PPS;Albania;2018;7;336.47
+PPS;Albania;2019;1;363.88
+PPS;Albania;2019;7;363.88
+PPS;Albania;2020;1;347.72
+PPS;Albania;2020;7;347.72
+PPS;Albania;2021;1;401.22
+PPS;Albania;2021;7;401.22
+PPS;Albania;2022;1;401.22
+PPS;Austria;1999;1;
+PPS;Austria;1999;7;
+PPS;Austria;2000;1;
+PPS;Austria;2000;7;
+PPS;Austria;2001;1;
+PPS;Austria;2001;7;
+PPS;Austria;2002;1;
+PPS;Austria;2002;7;
+PPS;Austria;2003;1;
+PPS;Austria;2003;7;
+PPS;Austria;2004;1;
+PPS;Austria;2004;7;
+PPS;Austria;2005;1;
+PPS;Austria;2005;7;
+PPS;Austria;2006;1;
+PPS;Austria;2006;7;
+PPS;Austria;2007;1;
+PPS;Austria;2007;7;
+PPS;Austria;2008;1;
+PPS;Austria;2008;7;
+PPS;Austria;2009;1;
+PPS;Austria;2009;7;
+PPS;Austria;2010;1;
+PPS;Austria;2010;7;
+PPS;Austria;2011;1;
+PPS;Austria;2011;7;
+PPS;Austria;2012;1;
+PPS;Austria;2012;7;
+PPS;Austria;2013;1;
+PPS;Austria;2013;7;
+PPS;Austria;2014;1;
+PPS;Austria;2014;7;
+PPS;Austria;2015;1;
+PPS;Austria;2015;7;
+PPS;Austria;2016;1;
+PPS;Austria;2016;7;
+PPS;Austria;2017;1;
+PPS;Austria;2017;7;
+PPS;Austria;2018;1;
+PPS;Austria;2018;7;
+PPS;Austria;2019;1;
+PPS;Austria;2019;7;
+PPS;Austria;2020;1;
+PPS;Austria;2020;7;
+PPS;Austria;2021;1;
+PPS;Austria;2021;7;
+PPS;Belgium;1999;1;950.54
+PPS;Belgium;1999;7;969.51
+PPS;Belgium;2000;1;1004.55
+PPS;Belgium;2000;7;1004.55
+PPS;Belgium;2001;1;1020.93
+PPS;Belgium;2001;7;1041.35
+PPS;Belgium;2002;1;1053.30
+PPS;Belgium;2002;7;1074.34
+PPS;Belgium;2003;1;1061.50
+PPS;Belgium;2003;7;1082.76
+PPS;Belgium;2004;1;1082.61
+PPS;Belgium;2004;7;1082.61
+PPS;Belgium;2005;1;1107.58
+PPS;Belgium;2005;7;1107.58
+PPS;Belgium;2006;1;1122.81
+PPS;Belgium;2006;7;1122.81
+PPS;Belgium;2007;1;1140.03
+PPS;Belgium;2007;7;1161.76
+PPS;Belgium;2008;1;1181.59
+PPS;Belgium;2008;7;1205.23
+PPS;Belgium;2009;1;1241.77
+PPS;Belgium;2009;7;1241.77
+PPS;Belgium;2010;1;1246.50
+PPS;Belgium;2010;7;1246.50
+PPS;Belgium;2011;1;1272.94
+PPS;Belgium;2011;7;1298.39
+PPS;Belgium;2012;1;1295.33
+PPS;Belgium;2012;7;1321.24
+PPS;Belgium;2013;1;1342.20
+PPS;Belgium;2013;7;1342.20
+PPS;Belgium;2014;1;1349.93
+PPS;Belgium;2014;7;1349.93
+PPS;Belgium;2015;1;1350.44
+PPS;Belgium;2015;7;1350.44
+PPS;Belgium;2016;1;1324.31
+PPS;Belgium;2016;7;1350.86
+PPS;Belgium;2017;1;1340.27
+PPS;Belgium;2017;7;1367.10
+PPS;Belgium;2018;1;1362.77
+PPS;Belgium;2018;7;1362.77
+PPS;Belgium;2019;1;1387.68
+PPS;Belgium;2019;7;1387.68
+PPS;Belgium;2020;1;1399.05
+PPS;Belgium;2020;7;1427.06
+PPS;Belgium;2021;1;1427.06
+PPS;Belgium;2021;7;1427.06
+PPS;Belgium;2022;1;1455.60
+PPS;Bulgaria;1999;1;83.00
+PPS;Bulgaria;1999;7;91.17
+PPS;Bulgaria;2000;1;89.38
+PPS;Bulgaria;2000;7;100.05
+PPS;Bulgaria;2001;1;100.06
+PPS;Bulgaria;2001;7;107.66
+PPS;Bulgaria;2002;1;126.34
+PPS;Bulgaria;2002;7;126.34
+PPS;Bulgaria;2003;1;140.47
+PPS;Bulgaria;2003;7;140.47
+PPS;Bulgaria;2004;1;146.70
+PPS;Bulgaria;2004;7;146.70
+PPS;Bulgaria;2005;1;179.01
+PPS;Bulgaria;2005;7;179.01
+PPS;Bulgaria;2006;1;178.06
+PPS;Bulgaria;2006;7;178.06
+PPS;Bulgaria;2007;1;191.21
+PPS;Bulgaria;2007;7;191.21
+PPS;Bulgaria;2008;1;219.01
+PPS;Bulgaria;2008;7;219.01
+PPS;Bulgaria;2009;1;228.26
+PPS;Bulgaria;2009;7;228.26
+PPS;Bulgaria;2010;1;231.47
+PPS;Bulgaria;2010;7;231.47
+PPS;Bulgaria;2011;1;235.85
+PPS;Bulgaria;2011;7;235.85
+PPS;Bulgaria;2012;1;266.55
+PPS;Bulgaria;2012;7;286.30
+PPS;Bulgaria;2013;1;311.72
+PPS;Bulgaria;2013;7;311.72
+PPS;Bulgaria;2014;1;352.17
+PPS;Bulgaria;2014;7;352.17
+PPS;Bulgaria;2015;1;370.11
+PPS;Bulgaria;2015;7;390.67
+PPS;Bulgaria;2016;1;432.08
+PPS;Bulgaria;2016;7;432.08
+PPS;Bulgaria;2017;1;459.30
+PPS;Bulgaria;2017;7;459.30
+PPS;Bulgaria;2018;1;502.79
+PPS;Bulgaria;2018;7;502.79
+PPS;Bulgaria;2019;1;535.52
+PPS;Bulgaria;2019;7;535.52
+PPS;Bulgaria;2020;1;559.40
+PPS;Bulgaria;2020;7;559.40
+PPS;Bulgaria;2021;1;604.13
+PPS;Bulgaria;2021;7;604.13
+PPS;Bulgaria;2022;1;604.13
+PPS;Switzerland;1999;1;
+PPS;Switzerland;1999;7;
+PPS;Switzerland;2000;1;
+PPS;Switzerland;2000;7;
+PPS;Switzerland;2001;1;
+PPS;Switzerland;2001;7;
+PPS;Switzerland;2002;1;
+PPS;Switzerland;2002;7;
+PPS;Switzerland;2003;1;
+PPS;Switzerland;2003;7;
+PPS;Switzerland;2004;1;
+PPS;Switzerland;2004;7;
+PPS;Switzerland;2005;1;
+PPS;Switzerland;2005;7;
+PPS;Switzerland;2006;1;
+PPS;Switzerland;2006;7;
+PPS;Switzerland;2007;1;
+PPS;Switzerland;2007;7;
+PPS;Switzerland;2008;1;
+PPS;Switzerland;2008;7;
+PPS;Switzerland;2009;1;
+PPS;Switzerland;2009;7;
+PPS;Switzerland;2010;1;
+PPS;Switzerland;2010;7;
+PPS;Switzerland;2011;1;
+PPS;Switzerland;2011;7;
+PPS;Switzerland;2012;1;
+PPS;Switzerland;2012;7;
+PPS;Switzerland;2013;1;
+PPS;Switzerland;2013;7;
+PPS;Switzerland;2014;1;
+PPS;Switzerland;2014;7;
+PPS;Switzerland;2015;1;
+PPS;Switzerland;2015;7;
+PPS;Switzerland;2016;1;
+PPS;Switzerland;2016;7;
+PPS;Switzerland;2017;1;
+PPS;Switzerland;2017;7;
+PPS;Switzerland;2018;1;
+PPS;Switzerland;2018;7;
+PPS;Switzerland;2019;1;
+PPS;Switzerland;2019;7;
+PPS;Switzerland;2020;1;
+PPS;Switzerland;2020;7;
+PPS;Switzerland;2021;1;
+PPS;Switzerland;2021;7;
+PPS;Cyprus;1999;1;
+PPS;Cyprus;1999;7;
+PPS;Cyprus;2000;1;
+PPS;Cyprus;2000;7;
+PPS;Cyprus;2001;1;
+PPS;Cyprus;2001;7;
+PPS;Cyprus;2002;1;
+PPS;Cyprus;2002;7;
+PPS;Cyprus;2003;1;
+PPS;Cyprus;2003;7;
+PPS;Cyprus;2004;1;
+PPS;Cyprus;2004;7;
+PPS;Cyprus;2005;1;
+PPS;Cyprus;2005;7;
+PPS;Cyprus;2006;1;
+PPS;Cyprus;2006;7;
+PPS;Cyprus;2007;1;
+PPS;Cyprus;2007;7;
+PPS;Cyprus;2008;1;
+PPS;Cyprus;2008;7;
+PPS;Cyprus;2009;1;
+PPS;Cyprus;2009;7;
+PPS;Cyprus;2010;1;
+PPS;Cyprus;2010;7;
+PPS;Cyprus;2011;1;
+PPS;Cyprus;2011;7;
+PPS;Cyprus;2012;1;
+PPS;Cyprus;2012;7;
+PPS;Cyprus;2013;1;
+PPS;Cyprus;2013;7;
+PPS;Cyprus;2014;1;
+PPS;Cyprus;2014;7;
+PPS;Cyprus;2015;1;
+PPS;Cyprus;2015;7;
+PPS;Cyprus;2016;1;
+PPS;Cyprus;2016;7;
+PPS;Cyprus;2017;1;
+PPS;Cyprus;2017;7;
+PPS;Cyprus;2018;1;
+PPS;Cyprus;2018;7;
+PPS;Cyprus;2019;1;
+PPS;Cyprus;2019;7;
+PPS;Cyprus;2020;1;
+PPS;Cyprus;2020;7;
+PPS;Cyprus;2021;1;
+PPS;Cyprus;2021;7;
+PPS;Czech Republic;1999;1;180.43
+PPS;Czech Republic;1999;7;199.86
+PPS;Czech Republic;2000;1;219.82
+PPS;Czech Republic;2000;7;247.30
+PPS;Czech Republic;2001;1;278.59
+PPS;Czech Republic;2001;7;278.59
+PPS;Czech Republic;2002;1;307.00
+PPS;Czech Republic;2002;7;307.00
+PPS;Czech Republic;2003;1;341.30
+PPS;Czech Republic;2003;7;341.30
+PPS;Czech Republic;2004;1;364.39
+PPS;Czech Republic;2004;7;364.39
+PPS;Czech Republic;2005;1;393.72
+PPS;Czech Republic;2005;7;393.72
+PPS;Czech Republic;2006;1;407.74
+PPS;Czech Republic;2006;7;428.48
+PPS;Czech Republic;2007;1;435.31
+PPS;Czech Republic;2007;7;435.31
+PPS;Czech Republic;2008;1;432.97
+PPS;Czech Republic;2008;7;432.97
+PPS;Czech Republic;2009;1;433.75
+PPS;Czech Republic;2009;7;433.75
+PPS;Czech Republic;2010;1;433.53
+PPS;Czech Republic;2010;7;433.53
+PPS;Czech Republic;2011;1;434.23
+PPS;Czech Republic;2011;7;434.23
+PPS;Czech Republic;2012;1;432.68
+PPS;Czech Republic;2012;7;432.68
+PPS;Czech Republic;2013;1;438.67
+PPS;Czech Republic;2013;7;438.67
+PPS;Czech Republic;2014;1;471.69
+PPS;Czech Republic;2014;7;471.69
+PPS;Czech Republic;2015;1;504.53
+PPS;Czech Republic;2015;7;504.53
+PPS;Czech Republic;2016;1;536.02
+PPS;Czech Republic;2016;7;536.02
+PPS;Czech Republic;2017;1;592.38
+PPS;Czech Republic;2017;7;592.38
+PPS;Czech Republic;2018;1;642.85
+PPS;Czech Republic;2018;7;642.85
+PPS;Czech Republic;2019;1;692.29
+PPS;Czech Republic;2019;7;692.29
+PPS;Czech Republic;2020;1;729.60
+PPS;Czech Republic;2020;7;729.60
+PPS;Czech Republic;2021;1;747.04
+PPS;Czech Republic;2021;7;747.04
+PPS;Czech Republic;2022;1;796.18
+PPS;Germany;1999;1;
+PPS;Germany;1999;7;
+PPS;Germany;2000;1;
+PPS;Germany;2000;7;
+PPS;Germany;2001;1;
+PPS;Germany;2001;7;
+PPS;Germany;2002;1;
+PPS;Germany;2002;7;
+PPS;Germany;2003;1;
+PPS;Germany;2003;7;
+PPS;Germany;2004;1;
+PPS;Germany;2004;7;
+PPS;Germany;2005;1;
+PPS;Germany;2005;7;
+PPS;Germany;2006;1;
+PPS;Germany;2006;7;
+PPS;Germany;2007;1;
+PPS;Germany;2007;7;
+PPS;Germany;2008;1;
+PPS;Germany;2008;7;
+PPS;Germany;2009;1;
+PPS;Germany;2009;7;
+PPS;Germany;2010;1;
+PPS;Germany;2010;7;
+PPS;Germany;2011;1;
+PPS;Germany;2011;7;
+PPS;Germany;2012;1;
+PPS;Germany;2012;7;
+PPS;Germany;2013;1;
+PPS;Germany;2013;7;
+PPS;Germany;2014;1;
+PPS;Germany;2014;7;
+PPS;Germany;2015;1;1348.99
+PPS;Germany;2015;7;1348.99
+PPS;Germany;2016;1;1347.54
+PPS;Germany;2016;7;1347.54
+PPS;Germany;2017;1;1413.18
+PPS;Germany;2017;7;1413.18
+PPS;Germany;2018;1;1423.70
+PPS;Germany;2018;7;1423.70
+PPS;Germany;2019;1;1458.07
+PPS;Germany;2019;7;1458.07
+PPS;Germany;2020;1;1444.37
+PPS;Germany;2020;7;1444.37
+PPS;Germany;2021;1;1467.75
+PPS;Germany;2021;7;1482.72
+PPS;Germany;2022;1;1516.40
+PPS;Denmark;1999;1;
+PPS;Denmark;1999;7;
+PPS;Denmark;2000;1;
+PPS;Denmark;2000;7;
+PPS;Denmark;2001;1;
+PPS;Denmark;2001;7;
+PPS;Denmark;2002;1;
+PPS;Denmark;2002;7;
+PPS;Denmark;2003;1;
+PPS;Denmark;2003;7;
+PPS;Denmark;2004;1;
+PPS;Denmark;2004;7;
+PPS;Denmark;2005;1;
+PPS;Denmark;2005;7;
+PPS;Denmark;2006;1;
+PPS;Denmark;2006;7;
+PPS;Denmark;2007;1;
+PPS;Denmark;2007;7;
+PPS;Denmark;2008;1;
+PPS;Denmark;2008;7;
+PPS;Denmark;2009;1;
+PPS;Denmark;2009;7;
+PPS;Denmark;2010;1;
+PPS;Denmark;2010;7;
+PPS;Denmark;2011;1;
+PPS;Denmark;2011;7;
+PPS;Denmark;2012;1;
+PPS;Denmark;2012;7;
+PPS;Denmark;2013;1;
+PPS;Denmark;2013;7;
+PPS;Denmark;2014;1;
+PPS;Denmark;2014;7;
+PPS;Denmark;2015;1;
+PPS;Denmark;2015;7;
+PPS;Denmark;2016;1;
+PPS;Denmark;2016;7;
+PPS;Denmark;2017;1;
+PPS;Denmark;2017;7;
+PPS;Denmark;2018;1;
+PPS;Denmark;2018;7;
+PPS;Denmark;2019;1;
+PPS;Denmark;2019;7;
+PPS;Denmark;2020;1;
+PPS;Denmark;2020;7;
+PPS;Denmark;2021;1;
+PPS;Denmark;2021;7;
+PPS;Estonia;1999;1;133.15
+PPS;Estonia;1999;7;133.15
+PPS;Estonia;2000;1;148.94
+PPS;Estonia;2000;7;148.94
+PPS;Estonia;2001;1;161.91
+PPS;Estonia;2001;7;161.91
+PPS;Estonia;2002;1;188.81
+PPS;Estonia;2002;7;188.81
+PPS;Estonia;2003;1;220.38
+PPS;Estonia;2003;7;220.38
+PPS;Estonia;2004;1;247.52
+PPS;Estonia;2004;7;247.52
+PPS;Estonia;2005;1;262.32
+PPS;Estonia;2005;7;262.32
+PPS;Estonia;2006;1;275.14
+PPS;Estonia;2006;7;275.14
+PPS;Estonia;2007;1;313.82
+PPS;Estonia;2007;7;313.82
+PPS;Estonia;2008;1;367.94
+PPS;Estonia;2008;7;367.94
+PPS;Estonia;2009;1;375.13
+PPS;Estonia;2009;7;375.13
+PPS;Estonia;2010;1;380.68
+PPS;Estonia;2010;7;380.68
+PPS;Estonia;2011;1;374.66
+PPS;Estonia;2011;7;374.66
+PPS;Estonia;2012;1;384.26
+PPS;Estonia;2012;7;384.26
+PPS;Estonia;2013;1;416.54
+PPS;Estonia;2013;7;416.54
+PPS;Estonia;2014;1;458.09
+PPS;Estonia;2014;7;458.09
+PPS;Estonia;2015;1;503.08
+PPS;Estonia;2015;7;503.08
+PPS;Estonia;2016;1;545.47
+PPS;Estonia;2016;7;545.47
+PPS;Estonia;2017;1;581.12
+PPS;Estonia;2017;7;581.12
+PPS;Estonia;2018;1;602.50
+PPS;Estonia;2018;7;602.50
+PPS;Estonia;2019;1;635.89
+PPS;Estonia;2019;7;635.89
+PPS;Estonia;2020;1;685.20
+PPS;Estonia;2020;7;685.20
+PPS;Estonia;2021;1;685.20
+PPS;Estonia;2021;7;685.20
+PPS;Estonia;2022;1;767.33
+PPS;Greece;1999;1;582.03
+PPS;Greece;1999;7;590.18
+PPS;Greece;2000;1;603.62
+PPS;Greece;2000;7;612.66
+PPS;Greece;2001;1;634.63
+PPS;Greece;2001;7;644.14
+PPS;Greece;2002;1;675.91
+PPS;Greece;2002;7;688.07
+PPS;Greece;2003;1;699.71
+PPS;Greece;2003;7;699.71
+PPS;Greece;2004;1;712.92
+PPS;Greece;2004;7;712.92
+PPS;Greece;2005;1;744.58
+PPS;Greece;2005;7;744.58
+PPS;Greece;2006;1;787.06
+PPS;Greece;2006;7;787.06
+PPS;Greece;2007;1;785.16
+PPS;Greece;2007;7;825.20
+PPS;Greece;2008;1;855.40
+PPS;Greece;2008;7;855.40
+PPS;Greece;2009;1;857.70
+PPS;Greece;2009;7;904.88
+PPS;Greece;2010;1;884.26
+PPS;Greece;2010;7;884.26
+PPS;Greece;2011;1;884.40
+PPS;Greece;2011;7;898.54
+PPS;Greece;2012;1;911.53
+PPS;Greece;2012;7;710.99
+PPS;Greece;2013;1;739.59
+PPS;Greece;2013;7;739.59
+PPS;Greece;2014;1;770.46
+PPS;Greece;2014;7;770.46
+PPS;Greece;2015;1;775.10
+PPS;Greece;2015;7;775.10
+PPS;Greece;2016;1;779.51
+PPS;Greece;2016;7;779.51
+PPS;Greece;2017;1;786.56
+PPS;Greece;2017;7;786.56
+PPS;Greece;2018;1;787.50
+PPS;Greece;2018;7;787.50
+PPS;Greece;2019;1;788.78
+PPS;Greece;2019;7;874.80
+PPS;Greece;2020;1;859.31
+PPS;Greece;2020;7;859.31
+PPS;Greece;2021;1;859.31
+PPS;Greece;2021;7;859.31
+PPS;Greece;2022;1;876.50
+PPS;Spain;1999;1;534.96
+PPS;Spain;1999;7;534.96
+PPS;Spain;2000;1;546.54
+PPS;Spain;2000;7;546.54
+PPS;Spain;2001;1;559.04
+PPS;Spain;2001;7;559.04
+PPS;Spain;2002;1;575.24
+PPS;Spain;2002;7;575.24
+PPS;Spain;2003;1;577.03
+PPS;Spain;2003;7;577.03
+PPS;Spain;2004;1;573.02
+PPS;Spain;2004;7;610.72
+PPS;Spain;2005;1;637.17
+PPS;Spain;2005;7;637.17
+PPS;Spain;2006;1;669.71
+PPS;Spain;2006;7;669.71
+PPS;Spain;2007;1;690.43
+PPS;Spain;2007;7;690.43
+PPS;Spain;2008;1;721.94
+PPS;Spain;2008;7;721.94
+PPS;Spain;2009;1;734.57
+PPS;Spain;2009;7;734.57
+PPS;Spain;2010;1;741.20
+PPS;Spain;2010;7;741.20
+PPS;Spain;2011;1;748.78
+PPS;Spain;2011;7;748.78
+PPS;Spain;2012;1;754.61
+PPS;Spain;2012;7;754.61
+PPS;Spain;2013;1;772.88
+PPS;Spain;2013;7;772.88
+PPS;Spain;2014;1;781.88
+PPS;Spain;2014;7;781.88
+PPS;Spain;2015;1;797.64
+PPS;Spain;2015;7;797.64
+PPS;Spain;2016;1;801.31
+PPS;Spain;2016;7;801.31
+PPS;Spain;2017;1;871.30
+PPS;Spain;2017;7;871.30
+PPS;Spain;2018;1;890.90
+PPS;Spain;2018;7;890.90
+PPS;Spain;2019;1;1093.11
+PPS;Spain;2019;7;1093.11
+PPS;Spain;2020;1;1136.56
+PPS;Spain;2020;7;1136.56
+PPS;Spain;2021;1;1136.56
+PPS;Spain;2021;7;1136.56
+PPS;Spain;2022;1;1154.51
+PPS;Finland;1999;1;
+PPS;Finland;1999;7;
+PPS;Finland;2000;1;
+PPS;Finland;2000;7;
+PPS;Finland;2001;1;
+PPS;Finland;2001;7;
+PPS;Finland;2002;1;
+PPS;Finland;2002;7;
+PPS;Finland;2003;1;
+PPS;Finland;2003;7;
+PPS;Finland;2004;1;
+PPS;Finland;2004;7;
+PPS;Finland;2005;1;
+PPS;Finland;2005;7;
+PPS;Finland;2006;1;
+PPS;Finland;2006;7;
+PPS;Finland;2007;1;
+PPS;Finland;2007;7;
+PPS;Finland;2008;1;
+PPS;Finland;2008;7;
+PPS;Finland;2009;1;
+PPS;Finland;2009;7;
+PPS;Finland;2010;1;
+PPS;Finland;2010;7;
+PPS;Finland;2011;1;
+PPS;Finland;2011;7;
+PPS;Finland;2012;1;
+PPS;Finland;2012;7;
+PPS;Finland;2013;1;
+PPS;Finland;2013;7;
+PPS;Finland;2014;1;
+PPS;Finland;2014;7;
+PPS;Finland;2015;1;
+PPS;Finland;2015;7;
+PPS;Finland;2016;1;
+PPS;Finland;2016;7;
+PPS;Finland;2017;1;
+PPS;Finland;2017;7;
+PPS;Finland;2018;1;
+PPS;Finland;2018;7;
+PPS;Finland;2019;1;
+PPS;Finland;2019;7;
+PPS;Finland;2020;1;
+PPS;Finland;2020;7;
+PPS;Finland;2021;1;
+PPS;Finland;2021;7;
+PPS;France;1999;1;914.06
+PPS;France;1999;7;925.99
+PPS;France;2000;1;951.06
+PPS;France;2000;7;981.69
+PPS;France;2001;1;1004.13
+PPS;France;2001;7;1044.86
+PPS;France;2002;1;1047.47
+PPS;France;2002;7;1072.59
+PPS;France;2003;1;1039.32
+PPS;France;2003;7;1094.10
+PPS;France;2004;1;1083.57
+PPS;France;2004;7;1146.87
+PPS;France;2005;1;1170.30
+PPS;France;2005;7;1108.23
+PPS;France;2006;1;1101.72
+PPS;France;2006;7;1134.64
+PPS;France;2007;1;1135.17
+PPS;France;2007;7;1158.51
+PPS;France;2008;1;1144.64
+PPS;France;2008;7;1181.25
+PPS;France;2009;1;1175.39
+PPS;France;2009;7;1190.23
+PPS;France;2010;1;1202.91
+PPS;France;2010;7;1202.91
+PPS;France;2011;1;1225.03
+PPS;France;2011;7;1225.03
+PPS;France;2012;1;1250.03
+PPS;France;2012;7;1274.43
+PPS;France;2013;1;1293.28
+PPS;France;2013;7;1293.28
+PPS;France;2014;1;1299.84
+PPS;France;2014;7;1299.84
+PPS;France;2015;1;1300.68
+PPS;France;2015;7;1300.68
+PPS;France;2016;1;1303.77
+PPS;France;2016;7;1303.77
+PPS;France;2017;1;1309.31
+PPS;France;2017;7;1309.31
+PPS;France;2018;1;1315.35
+PPS;France;2018;7;1315.35
+PPS;France;2019;1;1340.77
+PPS;France;2019;7;1340.77
+PPS;France;2020;1;1361.16
+PPS;France;2020;7;1361.16
+PPS;France;2021;1;1374.57
+PPS;France;2021;7;1374.57
+PPS;France;2022;1;1417.49
+PPS;Croatia;1999;1;
+PPS;Croatia;1999;7;
+PPS;Croatia;2000;1;
+PPS;Croatia;2000;7;
+PPS;Croatia;2001;1;
+PPS;Croatia;2001;7;
+PPS;Croatia;2002;1;
+PPS;Croatia;2002;7;
+PPS;Croatia;2003;1;
+PPS;Croatia;2003;7;
+PPS;Croatia;2004;1;
+PPS;Croatia;2004;7;
+PPS;Croatia;2005;1;
+PPS;Croatia;2005;7;
+PPS;Croatia;2006;1;
+PPS;Croatia;2006;7;
+PPS;Croatia;2007;1;
+PPS;Croatia;2007;7;
+PPS;Croatia;2008;1;
+PPS;Croatia;2008;7;507.26
+PPS;Croatia;2009;1;499.40
+PPS;Croatia;2009;7;511.58
+PPS;Croatia;2010;1;516.24
+PPS;Croatia;2010;7;516.24
+PPS;Croatia;2011;1;519.51
+PPS;Croatia;2011;7;519.51
+PPS;Croatia;2012;1;526.65
+PPS;Croatia;2012;7;526.65
+PPS;Croatia;2013;1;530.11
+PPS;Croatia;2013;7;562.28
+PPS;Croatia;2014;1;577.14
+PPS;Croatia;2014;7;577.14
+PPS;Croatia;2015;1;586.74
+PPS;Croatia;2015;7;586.74
+PPS;Croatia;2016;1;603.97
+PPS;Croatia;2016;7;603.97
+PPS;Croatia;2017;1;633.83
+PPS;Croatia;2017;7;633.83
+PPS;Croatia;2018;1;656.55
+PPS;Croatia;2018;7;656.55
+PPS;Croatia;2019;1;708.62
+PPS;Croatia;2019;7;708.62
+PPS;Croatia;2020;1;761.10
+PPS;Croatia;2020;7;761.10
+PPS;Croatia;2021;1;796.23
+PPS;Croatia;2021;7;796.23
+PPS;Croatia;2022;1;878.20
+PPS;Hungary;1999;1;176.53
+PPS;Hungary;1999;7;176.53
+PPS;Hungary;2000;1;188.74
+PPS;Hungary;2000;7;188.74
+PPS;Hungary;2001;1;279.44
+PPS;Hungary;2001;7;279.44
+PPS;Hungary;2002;1;337.22
+PPS;Hungary;2002;7;337.22
+PPS;Hungary;2003;1;328.26
+PPS;Hungary;2003;7;328.26
+PPS;Hungary;2004;1;330.31
+PPS;Hungary;2004;7;330.31
+PPS;Hungary;2005;1;350.32
+PPS;Hungary;2005;7;350.32
+PPS;Hungary;2006;1;375.27
+PPS;Hungary;2006;7;375.27
+PPS;Hungary;2007;1;373.40
+PPS;Hungary;2007;7;373.40
+PPS;Hungary;2008;1;390.69
+PPS;Hungary;2008;7;390.69
+PPS;Hungary;2009;1;400.71
+PPS;Hungary;2009;7;400.71
+PPS;Hungary;2010;1;412.84
+PPS;Hungary;2010;7;412.84
+PPS;Hungary;2011;1;442.71
+PPS;Hungary;2011;7;442.71
+PPS;Hungary;2012;1;513.77
+PPS;Hungary;2012;7;513.77
+PPS;Hungary;2013;1;540.30
+PPS;Hungary;2013;7;540.30
+PPS;Hungary;2014;1;545.39
+PPS;Hungary;2014;7;545.39
+PPS;Hungary;2015;1;551.88
+PPS;Hungary;2015;7;551.88
+PPS;Hungary;2016;1;570.85
+PPS;Hungary;2016;7;570.85
+PPS;Hungary;2017;1;625.44
+PPS;Hungary;2017;7;625.44
+PPS;Hungary;2018;1;656.17
+PPS;Hungary;2018;7;656.17
+PPS;Hungary;2019;1;679.49
+PPS;Hungary;2019;7;679.49
+PPS;Hungary;2020;1;691.20
+PPS;Hungary;2020;7;691.20
+PPS;Hungary;2021;1;691.20
+PPS;Hungary;2021;7;718.67
+PPS;Hungary;2022;1;858.63
+PPS;Ireland;1999;1;
+PPS;Ireland;1999;7;
+PPS;Ireland;2000;1;
+PPS;Ireland;2000;7;796.41
+PPS;Ireland;2001;1;773.47
+PPS;Ireland;2001;7;826.05
+PPS;Ireland;2002;1;791.12
+PPS;Ireland;2002;7;791.12
+PPS;Ireland;2003;1;841.42
+PPS;Ireland;2003;7;841.42
+PPS;Ireland;2004;1;845.97
+PPS;Ireland;2004;7;932.56
+PPS;Ireland;2005;1;936.59
+PPS;Ireland;2005;7;1023.56
+PPS;Ireland;2006;1;1020.44
+PPS;Ireland;2006;7;1020.44
+PPS;Ireland;2007;1;1103.00
+PPS;Ireland;2007;7;1149.52
+PPS;Ireland;2008;1;1127.80
+PPS;Ireland;2008;7;1127.80
+PPS;Ireland;2009;1;1161.22
+PPS;Ireland;2009;7;1161.22
+PPS;Ireland;2010;1;1215.92
+PPS;Ireland;2010;7;1215.92
+PPS;Ireland;2011;1;1206.99
+PPS;Ireland;2011;7;1206.99
+PPS;Ireland;2012;1;1200.10
+PPS;Ireland;2012;7;1200.10
+PPS;Ireland;2013;1;1177.95
+PPS;Ireland;2013;7;1177.95
+PPS;Ireland;2014;1;1141.88
+PPS;Ireland;2014;7;1141.88
+PPS;Ireland;2015;1;1138.58
+PPS;Ireland;2015;7;1138.58
+PPS;Ireland;2016;1;1194.88
+PPS;Ireland;2016;7;1194.88
+PPS;Ireland;2017;1;1188.11
+PPS;Ireland;2017;7;1188.11
+PPS;Ireland;2018;1;1203.24
+PPS;Ireland;2018;7;1203.24
+PPS;Ireland;2019;1;1220.06
+PPS;Ireland;2019;7;1220.06
+PPS;Ireland;2020;1;1183.36
+PPS;Ireland;2020;7;1219.58
+PPS;Ireland;2021;1;1231.66
+PPS;Ireland;2021;7;1231.66
+PPS;Ireland;2022;1;1267.88
+PPS;Iceland;1999;1;
+PPS;Iceland;1999;7;
+PPS;Iceland;2000;1;
+PPS;Iceland;2000;7;
+PPS;Iceland;2001;1;
+PPS;Iceland;2001;7;
+PPS;Iceland;2002;1;
+PPS;Iceland;2002;7;
+PPS;Iceland;2003;1;
+PPS;Iceland;2003;7;
+PPS;Iceland;2004;1;
+PPS;Iceland;2004;7;
+PPS;Iceland;2005;1;
+PPS;Iceland;2005;7;
+PPS;Iceland;2006;1;
+PPS;Iceland;2006;7;
+PPS;Iceland;2007;1;
+PPS;Iceland;2007;7;
+PPS;Iceland;2008;1;
+PPS;Iceland;2008;7;
+PPS;Iceland;2009;1;
+PPS;Iceland;2009;7;
+PPS;Iceland;2010;1;
+PPS;Iceland;2010;7;
+PPS;Iceland;2011;1;
+PPS;Iceland;2011;7;
+PPS;Iceland;2012;1;
+PPS;Iceland;2012;7;
+PPS;Iceland;2013;1;
+PPS;Iceland;2013;7;
+PPS;Iceland;2014;1;
+PPS;Iceland;2014;7;
+PPS;Iceland;2015;1;
+PPS;Iceland;2015;7;
+PPS;Iceland;2016;1;
+PPS;Iceland;2016;7;
+PPS;Iceland;2017;1;
+PPS;Iceland;2017;7;
+PPS;Iceland;2018;1;
+PPS;Iceland;2018;7;
+PPS;Iceland;2019;1;
+PPS;Iceland;2019;7;
+PPS;Iceland;2020;1;
+PPS;Iceland;2020;7;
+PPS;Iceland;2021;1;
+PPS;Iceland;2021;7;
+PPS;Italy;1999;1;
+PPS;Italy;1999;7;
+PPS;Italy;2000;1;
+PPS;Italy;2000;7;
+PPS;Italy;2001;1;
+PPS;Italy;2001;7;
+PPS;Italy;2002;1;
+PPS;Italy;2002;7;
+PPS;Italy;2003;1;
+PPS;Italy;2003;7;
+PPS;Italy;2004;1;
+PPS;Italy;2004;7;
+PPS;Italy;2005;1;
+PPS;Italy;2005;7;
+PPS;Italy;2006;1;
+PPS;Italy;2006;7;
+PPS;Italy;2007;1;
+PPS;Italy;2007;7;
+PPS;Italy;2008;1;
+PPS;Italy;2008;7;
+PPS;Italy;2009;1;
+PPS;Italy;2009;7;
+PPS;Italy;2010;1;
+PPS;Italy;2010;7;
+PPS;Italy;2011;1;
+PPS;Italy;2011;7;
+PPS;Italy;2012;1;
+PPS;Italy;2012;7;
+PPS;Italy;2013;1;
+PPS;Italy;2013;7;
+PPS;Italy;2014;1;
+PPS;Italy;2014;7;
+PPS;Italy;2015;1;
+PPS;Italy;2015;7;
+PPS;Italy;2016;1;
+PPS;Italy;2016;7;
+PPS;Italy;2017;1;
+PPS;Italy;2017;7;
+PPS;Italy;2018;1;
+PPS;Italy;2018;7;
+PPS;Italy;2019;1;
+PPS;Italy;2019;7;
+PPS;Italy;2020;1;
+PPS;Italy;2020;7;
+PPS;Italy;2021;1;
+PPS;Italy;2021;7;
+PPS;Lithuania;1999;1;206.39
+PPS;Lithuania;1999;7;206.39
+PPS;Lithuania;2000;1;210.45
+PPS;Lithuania;2000;7;210.45
+PPS;Lithuania;2001;1;213.12
+PPS;Lithuania;2001;7;213.12
+PPS;Lithuania;2002;1;219.87
+PPS;Lithuania;2002;7;219.87
+PPS;Lithuania;2003;1;233.27
+PPS;Lithuania;2003;7;233.27
+PPS;Lithuania;2004;1;240.74
+PPS;Lithuania;2004;7;267.49
+PPS;Lithuania;2005;1;258.96
+PPS;Lithuania;2005;7;284.85
+PPS;Lithuania;2006;1;269.70
+PPS;Lithuania;2006;7;294.21
+PPS;Lithuania;2007;1;281.61
+PPS;Lithuania;2007;7;328.54
+PPS;Lithuania;2008;1;351.46
+PPS;Lithuania;2008;7;351.46
+PPS;Lithuania;2009;1;350.06
+PPS;Lithuania;2009;7;350.06
+PPS;Lithuania;2010;1;360.46
+PPS;Lithuania;2010;7;360.46
+PPS;Lithuania;2011;1;354.69
+PPS;Lithuania;2011;7;354.69
+PPS;Lithuania;2012;1;353.82
+PPS;Lithuania;2012;7;353.82
+PPS;Lithuania;2013;1;447.19
+PPS;Lithuania;2013;7;447.19
+PPS;Lithuania;2014;1;447.81
+PPS;Lithuania;2014;7;447.81
+PPS;Lithuania;2015;1;467.62
+PPS;Lithuania;2015;7;506.59
+PPS;Lithuania;2016;1;537.23
+PPS;Lithuania;2016;7;583.28
+PPS;Lithuania;2017;1;575.15
+PPS;Lithuania;2017;7;575.15
+PPS;Lithuania;2018;1;592.57
+PPS;Lithuania;2018;7;592.57
+PPS;Lithuania;2019;1;811.86
+PPS;Lithuania;2019;7;811.86
+PPS;Lithuania;2020;1;862.65
+PPS;Lithuania;2020;7;862.65
+PPS;Lithuania;2021;1;912.40
+PPS;Lithuania;2021;7;912.40
+PPS;Lithuania;2022;1;1037.46
+PPS;Luxembourg;1999;1;1039.97
+PPS;Luxembourg;1999;7;1039.97
+PPS;Luxembourg;2000;1;1068.78
+PPS;Luxembourg;2000;7;1095.47
+PPS;Luxembourg;2001;1;1110.09
+PPS;Luxembourg;2001;7;1137.83
+PPS;Luxembourg;2002;1;1148.78
+PPS;Luxembourg;2002;7;1177.51
+PPS;Luxembourg;2003;1;1223.52
+PPS;Luxembourg;2003;7;1223.52
+PPS;Luxembourg;2004;1;1221.79
+PPS;Luxembourg;2004;7;1221.79
+PPS;Luxembourg;2005;1;1287.58
+PPS;Luxembourg;2005;7;1287.58
+PPS;Luxembourg;2006;1;1331.92
+PPS;Luxembourg;2006;7;1331.92
+PPS;Luxembourg;2007;1;1357.49
+PPS;Luxembourg;2007;7;1357.49
+PPS;Luxembourg;2008;1;1355.78
+PPS;Luxembourg;2008;7;1389.67
+PPS;Luxembourg;2009;1;1371.99
+PPS;Luxembourg;2009;7;1406.27
+PPS;Luxembourg;2010;1;1382.58
+PPS;Luxembourg;2010;7;1417.12
+PPS;Luxembourg;2011;1;1436.58
+PPS;Luxembourg;2011;7;1436.58
+PPS;Luxembourg;2012;1;1464.89
+PPS;Luxembourg;2012;7;1464.89
+PPS;Luxembourg;2013;1;1512.70
+PPS;Luxembourg;2013;7;1512.70
+PPS;Luxembourg;2014;1;1525.77
+PPS;Luxembourg;2014;7;1525.77
+PPS;Luxembourg;2015;1;1531.48
+PPS;Luxembourg;2015;7;1531.48
+PPS;Luxembourg;2016;1;1502.85
+PPS;Luxembourg;2016;7;1502.85
+PPS;Luxembourg;2017;1;1551.56
+PPS;Luxembourg;2017;7;1551.56
+PPS;Luxembourg;2018;1;1574.66
+PPS;Luxembourg;2018;7;1574.66
+PPS;Luxembourg;2019;1;1627.13
+PPS;Luxembourg;2019;7;1627.13
+PPS;Luxembourg;2020;1;1620.12
+PPS;Luxembourg;2020;7;1620.12
+PPS;Luxembourg;2021;1;1665.45
+PPS;Luxembourg;2021;7;1665.45
+PPS;Luxembourg;2022;1;1707.07
+PPS;Latvia;1999;1;145.26
+PPS;Latvia;1999;7;145.26
+PPS;Latvia;2000;1;146.11
+PPS;Latvia;2000;7;146.11
+PPS;Latvia;2001;1;149.16
+PPS;Latvia;2001;7;179.00
+PPS;Latvia;2002;1;174.24
+PPS;Latvia;2002;7;174.24
+PPS;Latvia;2003;1;194.85
+PPS;Latvia;2003;7;194.85
+PPS;Latvia;2004;1;210.18
+PPS;Latvia;2004;7;210.18
+PPS;Latvia;2005;1;195.43
+PPS;Latvia;2005;7;195.43
+PPS;Latvia;2006;1;197.45
+PPS;Latvia;2006;7;197.45
+PPS;Latvia;2007;1;238.63
+PPS;Latvia;2007;7;238.63
+PPS;Latvia;2008;1;293.83
+PPS;Latvia;2008;7;293.83
+PPS;Latvia;2009;1;339.15
+PPS;Latvia;2009;7;339.15
+PPS;Latvia;2010;1;363.49
+PPS;Latvia;2010;7;363.49
+PPS;Latvia;2011;1;390.12
+PPS;Latvia;2011;7;390.12
+PPS;Latvia;2012;1;388.47
+PPS;Latvia;2012;7;388.47
+PPS;Latvia;2013;1;392.69
+PPS;Latvia;2013;7;392.69
+PPS;Latvia;2014;1;434.15
+PPS;Latvia;2014;7;434.15
+PPS;Latvia;2015;1;492.03
+PPS;Latvia;2015;7;492.03
+PPS;Latvia;2016;1;496.62
+PPS;Latvia;2016;7;496.62
+PPS;Latvia;2017;1;507.03
+PPS;Latvia;2017;7;507.03
+PPS;Latvia;2018;1;560.73
+PPS;Latvia;2018;7;560.73
+PPS;Latvia;2019;1;550.89
+PPS;Latvia;2019;7;550.89
+PPS;Latvia;2020;1;545.63
+PPS;Latvia;2020;7;545.63
+PPS;Latvia;2021;1;634.45
+PPS;Latvia;2021;7;634.45
+PPS;Latvia;2022;1;634.45
+PPS;Montenegro;2013;7;501.43
+PPS;Montenegro;2014;1;506.86
+PPS;Montenegro;2014;7;506.86
+PPS;Montenegro;2015;1;512.69
+PPS;Montenegro;2015;7;512.69
+PPS;Montenegro;2016;1;514.48
+PPS;Montenegro;2016;7;514.48
+PPS;Montenegro;2017;1;506.33
+PPS;Montenegro;2017;7;506.33
+PPS;Montenegro;2018;1;500.73
+PPS;Montenegro;2018;7;500.73
+PPS;Montenegro;2019;1;504.51
+PPS;Montenegro;2019;7;580.32
+PPS;Montenegro;2020;1;552.27
+PPS;Montenegro;2020;7;552.27
+PPS;Montenegro;2021;1;552.27
+PPS;Montenegro;2021;7;552.27
+PPS;Montenegro;2022;1;887.66
+PPS;North Macedonia;1999;1;
+PPS;North Macedonia;1999;7;
+PPS;North Macedonia;2000;1;
+PPS;North Macedonia;2000;7;
+PPS;North Macedonia;2001;1;
+PPS;North Macedonia;2001;7;
+PPS;North Macedonia;2002;1;
+PPS;North Macedonia;2002;7;
+PPS;North Macedonia;2003;1;
+PPS;North Macedonia;2003;7;
+PPS;North Macedonia;2004;1;
+PPS;North Macedonia;2004;7;
+PPS;North Macedonia;2005;1;
+PPS;North Macedonia;2005;7;
+PPS;North Macedonia;2006;1;
+PPS;North Macedonia;2006;7;
+PPS;North Macedonia;2007;1;
+PPS;North Macedonia;2007;7;
+PPS;North Macedonia;2008;1;
+PPS;North Macedonia;2008;7;
+PPS;North Macedonia;2009;1;
+PPS;North Macedonia;2009;7;
+PPS;North Macedonia;2010;1;
+PPS;North Macedonia;2010;7;
+PPS;North Macedonia;2011;1;
+PPS;North Macedonia;2011;7;
+PPS;North Macedonia;2013;1;407.04
+PPS;North Macedonia;2013;7;407.04
+PPS;North Macedonia;2014;1;440.88
+PPS;North Macedonia;2014;7;440.88
+PPS;North Macedonia;2015;1;443.26
+PPS;North Macedonia;2015;7;471.80
+PPS;North Macedonia;2016;1;473.36
+PPS;North Macedonia;2016;7;492.88
+PPS;North Macedonia;2017;1;493.05
+PPS;North Macedonia;2017;7;570.28
+PPS;North Macedonia;2018;1;557.75
+PPS;North Macedonia;2018;7;565.53
+PPS;North Macedonia;2019;1;685.36
+PPS;North Macedonia;2019;7;685.36
+PPS;North Macedonia;2020;1;671.16
+PPS;North Macedonia;2020;7;671.16
+PPS;North Macedonia;2021;1;692.43
+PPS;North Macedonia;2021;7;704.00
+PPS;Malta;1999;1;631.59
+PPS;Malta;1999;7;631.59
+PPS;Malta;2000;1;642.03
+PPS;Malta;2000;7;642.03
+PPS;Malta;2001;1;652.77
+PPS;Malta;2001;7;652.77
+PPS;Malta;2002;1;664.14
+PPS;Malta;2002;7;664.14
+PPS;Malta;2003;1;714.33
+PPS;Malta;2003;7;714.33
+PPS;Malta;2004;1;719.57
+PPS;Malta;2004;7;719.57
+PPS;Malta;2005;1;741.91
+PPS;Malta;2005;7;741.91
+PPS;Malta;2006;1;743.61
+PPS;Malta;2006;7;743.61
+PPS;Malta;2007;1;769.04
+PPS;Malta;2007;7;769.04
+PPS;Malta;2008;1;777.93
+PPS;Malta;2008;7;777.93
+PPS;Malta;2009;1;786.86
+PPS;Malta;2009;7;786.86
+PPS;Malta;2010;1;829.97
+PPS;Malta;2010;7;829.97
+PPS;Malta;2011;1;824.45
+PPS;Malta;2011;7;824.45
+PPS;Malta;2012;1;842.17
+PPS;Malta;2012;7;842.17
+PPS;Malta;2013;1;839.20
+PPS;Malta;2013;7;839.20
+PPS;Malta;2014;1;854.83
+PPS;Malta;2014;7;854.83
+PPS;Malta;2015;1;858.27
+PPS;Malta;2015;7;858.27
+PPS;Malta;2016;1;860.52
+PPS;Malta;2016;7;860.52
+PPS;Malta;2017;1;852.27
+PPS;Malta;2017;7;852.27
+PPS;Malta;2018;1;863.84
+PPS;Malta;2018;7;863.84
+PPS;Malta;2019;1;875.47
+PPS;Malta;2019;7;875.47
+PPS;Malta;2020;1;867.24
+PPS;Malta;2020;7;867.24
+PPS;Malta;2021;1;875.70
+PPS;Malta;2021;7;875.70
+PPS;Malta;2022;1;884.16
+PPS;Netherlands;1999;1;995.41
+PPS;Netherlands;1999;7;1008.69
+PPS;Netherlands;2000;1;1040.52
+PPS;Netherlands;2000;7;1058.43
+PPS;Netherlands;2001;1;1078.33
+PPS;Netherlands;2001;7;1102.52
+PPS;Netherlands;2002;1;1126.20
+PPS;Netherlands;2002;7;1149.72
+PPS;Netherlands;2003;1;1133.07
+PPS;Netherlands;2003;7;1147.22
+PPS;Netherlands;2004;1;1168.00
+PPS;Netherlands;2004;7;1168.00
+PPS;Netherlands;2005;1;1182.72
+PPS;Netherlands;2005;7;1182.72
+PPS;Netherlands;2006;1;1200.27
+PPS;Netherlands;2006;7;1211.59
+PPS;Netherlands;2007;1;1244.95
+PPS;Netherlands;2007;7;1260.46
+PPS;Netherlands;2008;1;1272.19
+PPS;Netherlands;2008;7;1292.78
+PPS;Netherlands;2009;1;1279.30
+PPS;Netherlands;2009;7;1295.42
+PPS;Netherlands;2010;1;1283.43
+PPS;Netherlands;2010;7;1291.09
+PPS;Netherlands;2011;1;1284.06
+PPS;Netherlands;2011;7;1293.80
+PPS;Netherlands;2012;1;1298.68
+PPS;Netherlands;2012;7;1307.30
+PPS;Netherlands;2013;1;1310.91
+PPS;Netherlands;2013;7;1318.40
+PPS;Netherlands;2014;1;1302.36
+PPS;Netherlands;2014;7;1310.77
+PPS;Netherlands;2015;1;1315.33
+PPS;Netherlands;2015;7;1320.58
+PPS;Netherlands;2016;1;1315.22
+PPS;Netherlands;2016;7;1326.09
+PPS;Netherlands;2017;1;1351.46
+PPS;Netherlands;2017;7;1363.48
+PPS;Netherlands;2018;1;1379.99
+PPS;Netherlands;2018;7;1394.15
+PPS;Netherlands;2019;1;1386.60
+PPS;Netherlands;2019;7;1403.59
+PPS;Netherlands;2020;1;1427.95
+PPS;Netherlands;2020;7;1450.75
+PPS;Netherlands;2021;1;1454.9
+PPS;Netherlands;2021;7;1468.89
+PPS;Netherlands;2022;1;1489.61
+PPS;Norway;1999;1;
+PPS;Norway;1999;7;
+PPS;Norway;2000;1;
+PPS;Norway;2000;7;
+PPS;Norway;2001;1;
+PPS;Norway;2001;7;
+PPS;Norway;2002;1;
+PPS;Norway;2002;7;
+PPS;Norway;2003;1;
+PPS;Norway;2003;7;
+PPS;Norway;2004;1;
+PPS;Norway;2004;7;
+PPS;Norway;2005;1;
+PPS;Norway;2005;7;
+PPS;Norway;2006;1;
+PPS;Norway;2006;7;
+PPS;Norway;2007;1;
+PPS;Norway;2007;7;
+PPS;Norway;2008;1;
+PPS;Norway;2008;7;
+PPS;Norway;2009;1;
+PPS;Norway;2009;7;
+PPS;Norway;2010;1;
+PPS;Norway;2010;7;
+PPS;Norway;2011;1;
+PPS;Norway;2011;7;
+PPS;Norway;2012;1;
+PPS;Norway;2012;7;
+PPS;Norway;2013;1;
+PPS;Norway;2013;7;
+PPS;Norway;2014;1;
+PPS;Norway;2014;7;
+PPS;Norway;2015;1;
+PPS;Norway;2015;7;
+PPS;Norway;2016;1;
+PPS;Norway;2016;7;
+PPS;Norway;2017;1;
+PPS;Norway;2017;7;
+PPS;Norway;2018;1;
+PPS;Norway;2018;7;
+PPS;Norway;2019;1;
+PPS;Norway;2019;7;
+PPS;Norway;2020;1;
+PPS;Norway;2020;7;
+PPS;Norway;2021;1;
+PPS;Norway;2021;7;
+PPS;Poland;1999;1;289.78
+PPS;Poland;1999;7;289.78
+PPS;Poland;2000;1;280.45
+PPS;Poland;2000;7;293.01
+PPS;Poland;2001;1;313.70
+PPS;Poland;2001;7;313.70
+PPS;Poland;2002;1;315.42
+PPS;Poland;2002;7;315.42
+PPS;Poland;2003;1;335.75
+PPS;Poland;2003;7;335.75
+PPS;Poland;2004;1;338.85
+PPS;Poland;2004;7;338.85
+PPS;Poland;2005;1;338.99
+PPS;Poland;2005;7;338.99
+PPS;Poland;2006;1;361.08
+PPS;Poland;2006;7;361.08
+PPS;Poland;2007;1;387.74
+PPS;Poland;2007;7;387.74
+PPS;Poland;2008;1;464.41
+PPS;Poland;2008;7;464.41
+PPS;Poland;2009;1;508.90
+PPS;Poland;2009;7;508.90
+PPS;Poland;2010;1;542.66
+PPS;Poland;2010;7;542.66
+PPS;Poland;2011;1;571.78
+PPS;Poland;2011;7;571.78
+PPS;Poland;2012;1;623.01
+PPS;Poland;2012;7;623.01
+PPS;Poland;2013;1;665.28
+PPS;Poland;2013;7;665.28
+PPS;Poland;2014;1;690.95
+PPS;Poland;2014;7;690.95
+PPS;Poland;2015;1;725.75
+PPS;Poland;2015;7;725.75
+PPS;Poland;2016;1;757.73
+PPS;Poland;2016;7;757.73
+PPS;Poland;2017;1;799.26
+PPS;Poland;2017;7;799.26
+PPS;Poland;2018;1;826.29
+PPS;Poland;2018;7;826.29
+PPS;Poland;2019;1;870.19
+PPS;Poland;2019;7;870.19
+PPS;Poland;2020;1;978.28
+PPS;Poland;2020;7;978.28
+PPS;Poland;2021;1;1053.53
+PPS;Poland;2021;7;1053.53
+PPS;Poland;2022;1;1132.55
+PPS;Portugal;1999;1;433.14
+PPS;Portugal;1999;7;433.14
+PPS;Portugal;2000;1;449.84
+PPS;Portugal;2000;7;449.84
+PPS;Portugal;2001;1;466.01
+PPS;Portugal;2001;7;466.01
+PPS;Portugal;2002;1;473.37
+PPS;Portugal;2002;7;473.37
+PPS;Portugal;2003;1;492.93
+PPS;Portugal;2003;7;492.93
+PPS;Portugal;2004;1;500.95
+PPS;Portugal;2004;7;500.95
+PPS;Portugal;2005;1;524.83
+PPS;Portugal;2005;7;524.83
+PPS;Portugal;2006;1;541.25
+PPS;Portugal;2006;7;541.25
+PPS;Portugal;2007;1;549.14
+PPS;Portugal;2007;7;549.14
+PPS;Portugal;2008;1;575.27
+PPS;Portugal;2008;7;575.27
+PPS;Portugal;2009;1;601.08
+PPS;Portugal;2009;7;601.08
+PPS;Portugal;2010;1;635.96
+PPS;Portugal;2010;7;635.96
+PPS;Portugal;2011;1;645.93
+PPS;Portugal;2011;7;645.93
+PPS;Portugal;2012;1;650.32
+PPS;Portugal;2012;7;650.32
+PPS;Portugal;2013;1;662.71
+PPS;Portugal;2013;7;662.71
+PPS;Portugal;2014;1;655.41
+PPS;Portugal;2014;7;655.41
+PPS;Portugal;2015;1;681.15
+PPS;Portugal;2015;7;681.15
+PPS;Portugal;2016;1;707.66
+PPS;Portugal;2016;7;707.66
+PPS;Portugal;2017;1;730.48
+PPS;Portugal;2017;7;730.48
+PPS;Portugal;2018;1;767.55
+PPS;Portugal;2018;7;767.55
+PPS;Portugal;2019;1;796.21
+PPS;Portugal;2019;7;796.21
+PPS;Portugal;2020;1;828.69
+PPS;Portugal;2020;7;828.69
+PPS;Portugal;2021;1;867.84
+PPS;Portugal;2021;7;867.84
+PPS;Portugal;2022;1;920.05
+PPS;Romania;1999;1;56.20
+PPS;Romania;1999;7;72.26
+PPS;Romania;2000;1;52.04
+PPS;Romania;2000;7;80.94
+PPS;Romania;2001;1;90.12
+PPS;Romania;2001;7;126.16
+PPS;Romania;2002;1;103.78
+PPS;Romania;2002;7;129.73
+PPS;Romania;2003;1;155.28
+PPS;Romania;2003;7;155.28
+PPS;Romania;2004;1;162.98
+PPS;Romania;2004;7;162.98
+PPS;Romania;2005;1;159.60
+PPS;Romania;2005;7;159.60
+PPS;Romania;2006;1;163.33
+PPS;Romania;2006;7;163.33
+PPS;Romania;2007;1;183.80
+PPS;Romania;2007;7;183.80
+PPS;Romania;2008;1;224.04
+PPS;Romania;2008;7;224.04
+PPS;Romania;2009;1;257.98
+PPS;Romania;2009;7;257.98
+PPS;Romania;2010;1;260.44
+PPS;Romania;2010;7;260.44
+PPS;Romania;2011;1;287.28
+PPS;Romania;2011;7;287.28
+PPS;Romania;2012;1;296.17
+PPS;Romania;2012;7;296.17
+PPS;Romania;2013;1;289.31
+PPS;Romania;2013;7;330.64
+PPS;Romania;2014;1;347.82
+PPS;Romania;2014;7;368.28
+PPS;Romania;2015;1;397.69
+PPS;Romania;2015;7;428.29
+PPS;Romania;2016;1;434.55
+PPS;Romania;2016;7;517.32
+PPS;Romania;2017;1;499.69
+PPS;Romania;2017;7;579.65
+PPS;Romania;2018;1;732.48
+PPS;Romania;2018;7;732.48
+PPS;Romania;2019;1;788.02
+PPS;Romania;2019;7;788.02
+PPS;Romania;2020;1;830.09
+PPS;Romania;2020;7;830.09
+PPS;Romania;2021;1;830.09
+PPS;Romania;2021;7;856.15
+PPS;Romania;2022;1;949.20
+PPS;Serbia;2000;1;26.43
+PPS;Serbia;2000;7;32.18
+PPS;Serbia;2001;1;14.72
+PPS;Serbia;2001;7;107.45
+PPS;Serbia;2002;1;149.35
+PPS;Serbia;2002;7;182.04
+PPS;Serbia;2003;1;189.67
+PPS;Serbia;2003;7;204.85
+PPS;Serbia;2004;1;222.61
+PPS;Serbia;2004;7;251.34
+PPS;Serbia;2005;1;249.76
+PPS;Serbia;2005;7;265.98
+PPS;Serbia;2006;1;276.71
+PPS;Serbia;2006;7;294.75
+PPS;Serbia;2007;1;286.66
+PPS;Serbia;2007;7;333.73
+PPS;Serbia;2008;1;355.64
+PPS;Serbia;2008;7;396.53
+PPS;Serbia;2009;1;409.34
+PPS;Serbia;2009;7;408.06
+PPS;Serbia;2010;1;403.28
+PPS;Serbia;2010;7;401.29
+PPS;Serbia;2011;1;402.99
+PPS;Serbia;2011;7;431.85
+PPS;Serbia;2012;1;415.89
+PPS;Serbia;2012;7;470.14
+PPS;Serbia;2013;1;444.50
+PPS;Serbia;2013;7;440.74
+PPS;Serbia;2014;1;436.59
+PPS;Serbia;2014;7;436.04
+PPS;Serbia;2015;1;458.39
+PPS;Serbia;2015;7;457.95
+PPS;Serbia;2016;1;447.95
+PPS;Serbia;2016;7;447.57
+PPS;Serbia;2017;1;469.11
+PPS;Serbia;2017;7;468.70
+PPS;Serbia;2018;1;512.46
+PPS;Serbia;2018;7;505.52
+PPS;Serbia;2019;1;547.12
+PPS;Serbia;2019;7;546.47
+PPS;Serbia;2020;1;586.38
+PPS;Serbia;2020;7;586.38
+PPS;Serbia;2021;1;623.18
+PPS;Serbia;2021;7;623.18
+PPS;Serbia;2022;1;683.25
+PPS;Sweden;1999;1;
+PPS;Sweden;1999;7;
+PPS;Sweden;2000;1;
+PPS;Sweden;2000;7;
+PPS;Sweden;2001;1;
+PPS;Sweden;2001;7;
+PPS;Sweden;2002;1;
+PPS;Sweden;2002;7;
+PPS;Sweden;2003;1;
+PPS;Sweden;2003;7;
+PPS;Sweden;2004;1;
+PPS;Sweden;2004;7;
+PPS;Sweden;2005;1;
+PPS;Sweden;2005;7;
+PPS;Sweden;2006;1;
+PPS;Sweden;2006;7;
+PPS;Sweden;2007;1;
+PPS;Sweden;2007;7;
+PPS;Sweden;2008;1;
+PPS;Sweden;2008;7;
+PPS;Sweden;2009;1;
+PPS;Sweden;2009;7;
+PPS;Sweden;2010;1;
+PPS;Sweden;2010;7;
+PPS;Sweden;2011;1;
+PPS;Sweden;2011;7;
+PPS;Sweden;2012;1;
+PPS;Sweden;2012;7;
+PPS;Sweden;2013;1;
+PPS;Sweden;2013;7;
+PPS;Sweden;2014;1;
+PPS;Sweden;2014;7;
+PPS;Sweden;2015;1;
+PPS;Sweden;2015;7;
+PPS;Sweden;2016;1;
+PPS;Sweden;2016;7;
+PPS;Sweden;2017;1;
+PPS;Sweden;2017;7;
+PPS;Sweden;2018;1;
+PPS;Sweden;2018;7;
+PPS;Sweden;2019;1;
+PPS;Sweden;2019;7;
+PPS;Sweden;2020;1;
+PPS;Sweden;2020;7;
+PPS;Sweden;2021;1;
+PPS;Sweden;2021;7;
+PPS;Slovenia;1999;1;449.31
+PPS;Slovenia;1999;7;449.31
+PPS;Slovenia;2000;1;467.30
+PPS;Slovenia;2000;7;484.59
+PPS;Slovenia;2001;1;498.73
+PPS;Slovenia;2001;7;498.73
+PPS;Slovenia;2002;1;534.56
+PPS;Slovenia;2002;7;534.56
+PPS;Slovenia;2003;1;566.74
+PPS;Slovenia;2003;7;566.74
+PPS;Slovenia;2004;1;598.61
+PPS;Slovenia;2004;7;598.61
+PPS;Slovenia;2005;1;625.79
+PPS;Slovenia;2005;7;625.79
+PPS;Slovenia;2006;1;644.05
+PPS;Slovenia;2006;7;644.05
+PPS;Slovenia;2007;1;639.58
+PPS;Slovenia;2007;7;639.58
+PPS;Slovenia;2008;1;649.00
+PPS;Slovenia;2008;7;682.71
+PPS;Slovenia;2009;1;671.39
+PPS;Slovenia;2009;7;671.39
+PPS;Slovenia;2010;1;687.09
+PPS;Slovenia;2010;7;844.33
+PPS;Slovenia;2011;1;869.73
+PPS;Slovenia;2011;7;869.73
+PPS;Slovenia;2012;1;892.30
+PPS;Slovenia;2012;7;892.30
+PPS;Slovenia;2013;1;916.66
+PPS;Slovenia;2013;7;916.66
+PPS;Slovenia;2014;1;915.67
+PPS;Slovenia;2014;7;915.67
+PPS;Slovenia;2015;1;919.16
+PPS;Slovenia;2015;7;919.16
+PPS;Slovenia;2016;1;909.27
+PPS;Slovenia;2016;7;909.27
+PPS;Slovenia;2017;1;929.91
+PPS;Slovenia;2017;7;929.91
+PPS;Slovenia;2018;1;967.87
+PPS;Slovenia;2018;7;967.87
+PPS;Slovenia;2019;1;1019.61
+PPS;Slovenia;2019;7;1019.61
+PPS;Slovenia;2020;1;1072.64
+PPS;Slovenia;2020;7;1072.64
+PPS;Slovenia;2021;1;1168.05
+PPS;Slovenia;2021;7;1168.05
+PPS;Slovenia;2022;1;1225.28
+PPS;Slovak Republic;1999;1;159.84
+PPS;Slovak Republic;1999;7;191.81
+PPS;Slovak Republic;2000;1;202.59
+PPS;Slovak Republic;2000;7;202.59
+PPS;Slovak Republic;2001;1;225.39
+PPS;Slovak Republic;2001;7;225.39
+PPS;Slovak Republic;2002;1;248.05
+PPS;Slovak Republic;2002;7;248.05
+PPS;Slovak Republic;2003;1;261.31
+PPS;Slovak Republic;2003;7;261.31
+PPS;Slovak Republic;2004;1;272.89
+PPS;Slovak Republic;2004;7;272.89
+PPS;Slovak Republic;2005;1;296.89
+PPS;Slovak Republic;2005;7;296.89
+PPS;Slovak Republic;2006;1;307.30
+PPS;Slovak Republic;2006;7;307.30
+PPS;Slovak Republic;2007;1;338.32
+PPS;Slovak Republic;2007;7;338.32
+PPS;Slovak Republic;2008;1;365.61
+PPS;Slovak Republic;2008;7;365.61
+PPS;Slovak Republic;2009;1;401.93
+PPS;Slovak Republic;2009;7;401.93
+PPS;Slovak Republic;2010;1;435.20
+PPS;Slovak Republic;2010;7;435.20
+PPS;Slovak Republic;2011;1;444.61
+PPS;Slovak Republic;2011;7;444.61
+PPS;Slovak Republic;2012;1;455.04
+PPS;Slovak Republic;2012;7;455.04
+PPS;Slovak Republic;2013;1;478.13
+PPS;Slovak Republic;2013;7;478.13
+PPS;Slovak Republic;2014;1;499.26
+PPS;Slovak Republic;2014;7;499.26
+PPS;Slovak Republic;2015;1;537.64
+PPS;Slovak Republic;2015;7;537.64
+PPS;Slovak Republic;2016;1;519.34
+PPS;Slovak Republic;2016;7;519.34
+PPS;Slovak Republic;2017;1;527.79
+PPS;Slovak Republic;2017;7;527.79
+PPS;Slovak Republic;2018;1;567.77
+PPS;Slovak Republic;2018;7;567.77
+PPS;Slovak Republic;2019;1;599.52
+PPS;Slovak Republic;2019;7;599.52
+PPS;Slovak Republic;2020;1;645.16
+PPS;Slovak Republic;2020;7;645.16
+PPS;Slovak Republic;2021;1;692.99
+PPS;Slovak Republic;2021;7;692.99
+PPS;Slovak Republic;2022;1;718.58
+PPS;Turkey;1999;1;301.06
+PPS;Turkey;1999;7;360.90
+PPS;Turkey;2000;1;283.29
+PPS;Turkey;2000;7;306.51
+PPS;Turkey;2001;1;253.10
+PPS;Turkey;2001;7;303.65
+PPS;Turkey;2002;1;284.10
+PPS;Turkey;2002;7;321.06
+PPS;Turkey;2003;1;307.40
+PPS;Turkey;2003;7;307.40
+PPS;Turkey;2004;1;392.28
+PPS;Turkey;2004;7;411.89
+PPS;Turkey;2005;1;427.38
+PPS;Turkey;2005;7;427.38
+PPS;Turkey;2006;1;437.88
+PPS;Turkey;2006;7;437.88
+PPS;Turkey;2007;1;446.62
+PPS;Turkey;2007;7;464.49
+PPS;Turkey;2008;1;475.77
+PPS;Turkey;2008;7;499.47
+PPS;Turkey;2009;1;496.02
+PPS;Turkey;2009;7;516.43
+PPS;Turkey;2010;1;525.39
+PPS;Turkey;2010;7;548.10
+PPS;Turkey;2011;1;549.48
+PPS;Turkey;2011;7;577.42
+PPS;Turkey;2012;1;570.93
+PPS;Turkey;2012;7;605.70
+PPS;Turkey;2013;1;587.33
+PPS;Turkey;2013;7;613.08
+PPS;Turkey;2014;1;604.53
+PPS;Turkey;2014;7;640.09
+PPS;Turkey;2015;1;646.68
+PPS;Turkey;2015;7;685.44
+PPS;Turkey;2016;1;797.56
+PPS;Turkey;2016;7;797.56
+PPS;Turkey;2017;1;780.53
+PPS;Turkey;2017;7;780.53
+PPS;Turkey;2018;1;775.51
+PPS;Turkey;2018;7;775.51
+PPS;Turkey;2019;1;846.59
+PPS;Turkey;2019;7;846.59
+PPS;Turkey;2020;1;824.48
+PPS;Turkey;2020;7;824.48
+PPS;United Kingdom;1999;1;
+PPS;United Kingdom;1999;7;624.35
+PPS;United Kingdom;2000;1;645.38
+PPS;United Kingdom;2000;7;645.38
+PPS;United Kingdom;2001;1;681.56
+PPS;United Kingdom;2001;7;681.56
+PPS;United Kingdom;2002;1;743.46
+PPS;United Kingdom;2002;7;743.46
+PPS;United Kingdom;2003;1;770.21
+PPS;United Kingdom;2003;7;770.21
+PPS;United Kingdom;2004;1;841.49
+PPS;United Kingdom;2004;7;841.49
+PPS;United Kingdom;2005;1;886.58
+PPS;United Kingdom;2005;7;886.58
+PPS;United Kingdom;2006;1;930.29
+PPS;United Kingdom;2006;7;930.29
+PPS;United Kingdom;2007;1;975.36
+PPS;United Kingdom;2007;7;975.36
+PPS;United Kingdom;2008;1;987.18
+PPS;United Kingdom;2008;7;987.18
+PPS;United Kingdom;2009;1;978.85
+PPS;United Kingdom;2009;7;978.85
+PPS;United Kingdom;2010;1;987.27
+PPS;United Kingdom;2010;7;987.27
+PPS;United Kingdom;2011;1;996.19
+PPS;United Kingdom;2011;7;996.19
+PPS;United Kingdom;2012;1;1010.66
+PPS;United Kingdom;2012;7;1010.66
+PPS;United Kingdom;2013;1;1001.65
+PPS;United Kingdom;2013;7;1001.65
+PPS;United Kingdom;2014;1;1009.55
+PPS;United Kingdom;2014;7;1009.55
+PPS;United Kingdom;2015;1;1037.06
+PPS;United Kingdom;2015;7;1037.06
+PPS;United Kingdom;2016;1;1059.95
+PPS;United Kingdom;2016;7;1139.21
+PPS;United Kingdom;2017;1;1137.08
+PPS;United Kingdom;2017;7;1184.73
+PPS;United Kingdom;2018;1;1176.43
+PPS;United Kingdom;2018;7;1231.36
+PPS;United Kingdom;2019;1;1228.01
+PPS;United Kingdom;2019;7;1284.84
+PPS;United Kingdom;2020;1;1269.79
+PPS;United Kingdom;2020;7;1348.67
+PPS;United States;1999;1;760.92
+PPS;United States;1999;7;760.92
+PPS;United States;2000;1;756.85
+PPS;United States;2000;7;756.85
+PPS;United States;2001;1;754.21
+PPS;United States;2001;7;754.21
+PPS;United States;2002;1;751.16
+PPS;United States;2002;7;751.16
+PPS;United States;2003;1;754.92
+PPS;United States;2003;7;754.92
+PPS;United States;2004;1;750.65
+PPS;United States;2004;7;750.65
+PPS;United States;2005;1;754.73
+PPS;United States;2005;7;754.73
+PPS;United States;2006;1;748.86
+PPS;United States;2006;7;748.86
+PPS;United States;2007;1;748.36
+PPS;United States;2007;7;748.36
+PPS;United States;2008;1;838.89
+PPS;United States;2008;7;838.89
+PPS;United States;2009;1;917.95
+PPS;United States;2009;7;917.95
+PPS;United States;2010;1;1009.37
+PPS;United States;2010;7;1009.37
+PPS;United States;2011;1;995.48
+PPS;United States;2011;7;995.48
+PPS;United States;2012;1;995.85
+PPS;United States;2012;7;995.85
+PPS;United States;2013;1;978.49
+PPS;United States;2013;7;978.49
+PPS;United States;2014;1;971.32
+PPS;United States;2014;7;971.32
+PPS;United States;2015;1;977.83
+PPS;United States;2015;7;977.83
+PPS;United States;2016;1;946.37
+PPS;United States;2016;7;946.37
+PPS;United States;2017;1;942.41
+PPS;United States;2017;7;942.41
+PPS;United States;2018;1;931.37
+PPS;United States;2018;7;931.37
+PPS;United States;2019;1;941.41
+PPS;United States;2019;7;941.41
+PPS;United States;2020;1;914.27
+PPS;United States;2020;7;914.27
+PPS;United States;2021;1;914.27
+PPS;United States;2021;7;914.27
+PPS;United States;2022;1;914.27
