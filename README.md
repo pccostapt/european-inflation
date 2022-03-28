@@ -1,4 +1,4 @@
-## Project 2: Reflection of Inflation on European Wage - Tableau Visualization
+# Project 2: Reflection of Inflation on European Wage - Tableau Visualization
 
 ---
 
